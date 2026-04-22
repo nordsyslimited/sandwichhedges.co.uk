@@ -1,0 +1,56 @@
+name: Deploy to Krystal
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-krystal
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    name: FTPS sync to Krystal
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync files via FTPS
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTPS_HOST }}
+          username: ${{ secrets.FTPS_USER }}
+          password: ${{ secrets.FTPS_PASSWORD }}
+          port: ${{ secrets.FTPS_PORT }}
+          server-dir: ${{ secrets.FTPS_TARGET_DIR }}
+          local-dir: ./
+          protocol: ftps
+          log-level: standard
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/.github/**
+            **/.vscode/**
+            **/.idea/**
+            **/node_modules/**
+            **/.DS_Store
+            **/Thumbs.db
+            **/*.swp
+            **/*.tmp
+            _*.py
+            README.md
+
+      - name: Deploy summary
+        if: always()
+        run: |
+          echo "### Deploy complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- Commit: \`${{ github.sha }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "- Branch: \`${{ github.ref_name }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "- Site: https://sandwichhedges.co.uk/" >> $GITHUB_STEP_SUMMARY
