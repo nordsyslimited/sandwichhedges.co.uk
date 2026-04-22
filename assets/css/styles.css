@@ -221,6 +221,14 @@ p { margin: 0 0 1em; }
 .nav-links a.active { color: var(--forest-900); background: var(--forest-100); }
 .nav-cta { margin-left: 0.5rem; }
 
+/* Nav CTA — higher specificity override so the button text stays white.
+   .nav-links a has specificity (0,1,1), beating plain .btn-primary (0,1,0).
+   This selector is (0,2,0) — wins cleanly. */
+.nav-links .btn-primary,
+.nav-links a.btn-primary { color: #fff; background: var(--forest-700); }
+.nav-links .btn-primary:hover,
+.nav-links a.btn-primary:hover { color: #fff; background: var(--forest-900); }
+
 .nav-dropdown { position: relative; }
 .nav-dropdown > button {
   background: none; border: 0; font: inherit; cursor: pointer;
