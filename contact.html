@@ -91,14 +91,12 @@
         <p>Sandwich, Kent. Covering <a href="areas/sandwich.html">Sandwich</a>, <a href="areas/deal.html">Deal</a>, <a href="areas/worth.html">Worth</a>, <a href="areas/ash.html">Ash</a>, <a href="areas/woodnesborough.html">Woodnesborough</a>, <a href="areas/eastry.html">Eastry</a>, <a href="areas/sandwich-bay.html">Sandwich Bay</a> and the villages in between.</p>
       </div>
       <div>
-        <form class="form" action="https://formsubmit.co/hello@sandwichhedges.co.uk" method="POST">
-          <input type="hidden" name="_next" value="https://sandwichhedges.co.uk/thanks.html" />
-          <input type="hidden" name="_subject" value="New hedge enquiry — sandwichhedges.co.uk" />
-          <input type="hidden" name="_captcha" value="true" />
-          <input type="hidden" name="_template" value="table" />
-          <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" />
+        <form class="form" action="/contact-submit.php" method="POST">
+          <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true" />
           <h3 style="margin-top:0;">Send a message</h3>
           <p style="font-size:0.85rem; color: var(--ink-500); margin-top:-0.4rem; margin-bottom:1.2rem;">All fields required. <span aria-hidden="true">*</span></p>
+          <p class="form-alert form-alert--error" data-status="invalid" role="alert" hidden>Please fill in every field before sending.</p>
+          <p class="form-alert form-alert--error" data-status="error" role="alert" hidden>Something went wrong sending your message. Please try again, or WhatsApp Richard on 07449 303889.</p>
           <div class="form-row">
             <div class="form-field">
               <label for="name">Your name <span aria-hidden="true" style="color:var(--clay-600);">*</span></label>
@@ -128,12 +126,10 @@
             </select>
           </div>
           <fieldset class="form-field" style="border:0; padding:0; margin:0;">
-            <legend style="font-size:0.95rem; font-weight:500; margin-bottom:0.5rem;">How should we reply? <span aria-hidden="true" style="color:var(--clay-600);">*</span></legend>
+            <legend style="font-size:0.95rem; font-weight:500; margin-bottom:0.5rem;">Do you have WhatsApp? <span aria-hidden="true" style="color:var(--clay-600);">*</span></legend>
             <div class="form-radio-group">
-              <label class="form-radio"><input type="radio" name="reply_by" value="WhatsApp" required /> <span>WhatsApp <small>(fastest — we can send pictures)</small></span></label>
-              <label class="form-radio"><input type="radio" name="reply_by" value="Phone call" /> <span>Phone call</span></label>
-              <label class="form-radio"><input type="radio" name="reply_by" value="Text message" /> <span>Text message (SMS)</span></label>
-              <label class="form-radio"><input type="radio" name="reply_by" value="Email" /> <span>Email</span></label>
+              <label class="form-radio"><input type="radio" name="has_whatsapp" value="Yes" required /> <span>Yes</span></label>
+              <label class="form-radio"><input type="radio" name="has_whatsapp" value="No" /> <span>No</span></label>
             </div>
           </fieldset>
           <div class="form-field">
@@ -224,6 +220,17 @@
 </footer>
 
 <script src="assets/js/main.js"></script>
-<script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
+<script>
+  document.getElementById('yr').textContent = new Date().getFullYear();
+  (function() {
+    var status = new URLSearchParams(location.search).get('status');
+    if (!status) return;
+    var alert = document.querySelector('.form-alert[data-status="' + status + '"]');
+    if (alert) {
+      alert.hidden = false;
+      alert.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  })();
+</script>
 </body>
 </html>

@@ -675,6 +675,18 @@ a.feature-card:hover {
 .form-radio input { width: auto; margin: 0; accent-color: var(--forest-700); }
 .form-radio small { display: block; color: var(--ink-500); font-weight: 400; font-size: 0.8rem; }
 .form-radio:has(input:checked) { border-color: var(--forest-700); background: var(--forest-100); color: var(--forest-900); }
+.form-alert {
+  margin: 0 0 1.2rem;
+  padding: 0.85rem 1rem;
+  border-radius: 8px;
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+.form-alert--error {
+  background: var(--clay-100);
+  color: var(--clay-600);
+  border: 1px solid var(--clay-500);
+}
 
 /* ---------- How-To cards ---------- */
 .howto-grid {

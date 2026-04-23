@@ -16,3 +16,6 @@ desktop.ini
 # Local working files
 _scratch/
 _notes/
+
+# Secrets — generated during deploy from GitHub Actions secrets
+config/secrets.php

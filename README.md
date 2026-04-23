@@ -47,7 +47,14 @@ Existing filter categories: `timing`, `species`, `conifers`, `restoration`, `wil
 - **Receptionist:** 07888 868590
 - **Email:** hello@sandwichhedges.co.uk
 - **WhatsApp:** wa.me/447449303889
-- **Contact form:** wired to FormSubmit.co → hello@sandwichhedges.co.uk, redirecting to `/thanks.html`. All fields required; reply preference (WhatsApp / call / text / email) is captured.
+- **Contact form:** `contact.html` POSTs to `/contact-submit.php`, which validates and sends the enquiry via the Resend API to `hello@sandwichhedges.co.uk`. Redirects to `/thanks.html` on success, or `/contact.html?status=invalid|error` on failure. All fields required; the form also captures whether the customer has WhatsApp.
+
+### Form setup
+
+1. Add `RESEND_API_KEY` to repo Settings → Secrets and variables → Actions. Use the same key as the sister `sandwichhandyman.co.uk` repo.
+2. Deploy. The workflow writes `config/secrets.php` from the secret before FTPS-syncing to Krystal.
+3. `config/` is protected by `.htaccess` so the secrets file is not web-accessible. `config/secrets.php` itself is git-ignored — the canonical copy lives only in GitHub Actions secrets.
+4. Sender defaults to `Sandwich Hedges <onboarding@resend.dev>` until the domain is verified on Resend. Once `sandwichhedges.co.uk` is verified, update the `from` field in `contact-submit.php` to `hello@sandwichhedges.co.uk`.
 
 ## SEO / AI search
 
