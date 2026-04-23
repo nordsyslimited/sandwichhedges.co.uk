@@ -112,18 +112,28 @@
             <input id="email" name="email" type="email" required autocomplete="email" />
           </div>
           <div class="form-field">
-            <label for="area">Where's the hedge? <span aria-hidden="true" style="color:var(--clay-600);">*</span></label>
-            <select id="area" name="area" required>
-              <option value="">Pick a village or town</option>
-              <option>Sandwich</option>
-              <option>Deal</option>
-              <option>Worth</option>
-              <option>Ash</option>
-              <option>Woodnesborough</option>
-              <option>Eastry</option>
-              <option>Sandwich Bay</option>
-              <option>Somewhere else in East Kent</option>
-            </select>
+            <label for="address">Address <span aria-hidden="true" style="color:var(--clay-600);">*</span></label>
+            <input id="address" name="address" type="text" required autocomplete="street-address" placeholder="House name or number and street" />
+          </div>
+          <div class="form-row">
+            <div class="form-field">
+              <label for="postcode">Postcode <span aria-hidden="true" style="color:var(--clay-600);">*</span></label>
+              <input id="postcode" name="postcode" type="text" required autocomplete="postal-code" inputmode="text" pattern="^([A-Za-z]{1,2}[0-9][A-Za-z0-9]? ?[0-9][A-Za-z]{2})$" title="A UK postcode, for example CT13 9AA." placeholder="CT13 9AA" maxlength="8" style="text-transform:uppercase;" />
+            </div>
+            <div class="form-field">
+              <label for="location">Location <span aria-hidden="true" style="color:var(--clay-600);">*</span></label>
+              <select id="location" name="location" required>
+                <option value="">Pick a village or town</option>
+                <option>Sandwich</option>
+                <option>Deal</option>
+                <option>Worth</option>
+                <option>Ash</option>
+                <option>Woodnesborough</option>
+                <option>Eastry</option>
+                <option>Sandwich Bay</option>
+                <option>Somewhere else in East Kent</option>
+              </select>
+            </div>
           </div>
           <fieldset class="form-field" style="border:0; padding:0; margin:0;">
             <legend style="font-size:0.95rem; font-weight:500; margin-bottom:0.5rem;">Do you have WhatsApp? <span aria-hidden="true" style="color:var(--clay-600);">*</span></legend>

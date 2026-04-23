@@ -30,17 +30,26 @@ if (trim(post_value('_honey')) !== '') {
 }
 
 $name         = clean_field(post_value('name'), 120);
+$address      = clean_field(post_value('address'), 200);
+$postcode     = strtoupper(clean_field(post_value('postcode'), 10));
 $phone        = clean_field(post_value('phone'), 40);
 $email        = filter_var(trim(post_value('email')), FILTER_VALIDATE_EMAIL);
-$area         = clean_field(post_value('area'), 80);
+$location     = clean_field(post_value('location'), 80);
 $hasWhatsApp  = clean_field(post_value('has_whatsapp'), 5);
 $message      = trim(post_value('message'));
 
+$postcodeOk = (bool) preg_match(
+    '/^([A-Z]{1,2}[0-9][A-Z0-9]? ?[0-9][A-Z]{2})$/',
+    $postcode
+);
+
 if (
     $name === '' ||
+    $address === '' ||
+    !$postcodeOk ||
     $phone === '' ||
     $email === false ||
-    $area === '' ||
+    $location === '' ||
     ($hasWhatsApp !== 'Yes' && $hasWhatsApp !== 'No') ||
     mb_strlen($message) < 10
 ) {
@@ -63,13 +72,15 @@ $submittedAt = date('Y-m-d H:i:s') . ' (Europe/London)';
 
 $subject = 'New hedge enquiry, sandwichhedges.co.uk';
 
-$escName  = htmlspecialchars($name,  ENT_QUOTES | ENT_HTML5, 'UTF-8');
-$escPhone = htmlspecialchars($phone, ENT_QUOTES | ENT_HTML5, 'UTF-8');
-$escEmail = htmlspecialchars($email, ENT_QUOTES | ENT_HTML5, 'UTF-8');
-$escArea  = htmlspecialchars($area,  ENT_QUOTES | ENT_HTML5, 'UTF-8');
-$escWA    = htmlspecialchars($hasWhatsApp, ENT_QUOTES | ENT_HTML5, 'UTF-8');
-$escMsg   = nl2br(htmlspecialchars($message, ENT_QUOTES | ENT_HTML5, 'UTF-8'));
-$escTime  = htmlspecialchars($submittedAt, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+$escName     = htmlspecialchars($name,     ENT_QUOTES | ENT_HTML5, 'UTF-8');
+$escAddress  = htmlspecialchars($address,  ENT_QUOTES | ENT_HTML5, 'UTF-8');
+$escPostcode = htmlspecialchars($postcode, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+$escPhone    = htmlspecialchars($phone,    ENT_QUOTES | ENT_HTML5, 'UTF-8');
+$escEmail    = htmlspecialchars($email,    ENT_QUOTES | ENT_HTML5, 'UTF-8');
+$escLocation = htmlspecialchars($location, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+$escWA       = htmlspecialchars($hasWhatsApp, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+$escMsg      = nl2br(htmlspecialchars($message, ENT_QUOTES | ENT_HTML5, 'UTF-8'));
+$escTime     = htmlspecialchars($submittedAt, ENT_QUOTES | ENT_HTML5, 'UTF-8');
 
 $html = <<<HTML
 <!doctype html>
@@ -80,9 +91,11 @@ $html = <<<HTML
     <h1 style="margin:0 0 16px;font-size:22px;color:#0a3a22;">Hedge enquiry from {$escName}</h1>
     <table style="width:100%;border-collapse:collapse;font-size:15px;">
       <tr><td style="padding:8px 0;border-bottom:1px solid #eee;width:140px;color:#5a6b5f;">Name</td><td style="padding:8px 0;border-bottom:1px solid #eee;">{$escName}</td></tr>
+      <tr><td style="padding:8px 0;border-bottom:1px solid #eee;color:#5a6b5f;">Address</td><td style="padding:8px 0;border-bottom:1px solid #eee;">{$escAddress}</td></tr>
+      <tr><td style="padding:8px 0;border-bottom:1px solid #eee;color:#5a6b5f;">Postcode</td><td style="padding:8px 0;border-bottom:1px solid #eee;">{$escPostcode}</td></tr>
+      <tr><td style="padding:8px 0;border-bottom:1px solid #eee;color:#5a6b5f;">Location</td><td style="padding:8px 0;border-bottom:1px solid #eee;">{$escLocation}</td></tr>
       <tr><td style="padding:8px 0;border-bottom:1px solid #eee;color:#5a6b5f;">Phone</td><td style="padding:8px 0;border-bottom:1px solid #eee;"><a href="tel:{$escPhone}" style="color:#14573a;">{$escPhone}</a></td></tr>
       <tr><td style="padding:8px 0;border-bottom:1px solid #eee;color:#5a6b5f;">Email</td><td style="padding:8px 0;border-bottom:1px solid #eee;"><a href="mailto:{$escEmail}" style="color:#14573a;">{$escEmail}</a></td></tr>
-      <tr><td style="padding:8px 0;border-bottom:1px solid #eee;color:#5a6b5f;">Area</td><td style="padding:8px 0;border-bottom:1px solid #eee;">{$escArea}</td></tr>
       <tr><td style="padding:8px 0;border-bottom:1px solid #eee;color:#5a6b5f;">Has WhatsApp?</td><td style="padding:8px 0;border-bottom:1px solid #eee;font-weight:600;">{$escWA}</td></tr>
       <tr><td style="padding:8px 0;border-bottom:1px solid #eee;color:#5a6b5f;">Submitted</td><td style="padding:8px 0;border-bottom:1px solid #eee;">{$escTime}</td></tr>
     </table>
@@ -96,12 +109,14 @@ $html = <<<HTML
 HTML;
 
 $plain = "New hedge enquiry, sandwichhedges.co.uk\n\n"
-       . "Name: {$name}\n"
-       . "Phone: {$phone}\n"
-       . "Email: {$email}\n"
-       . "Area: {$area}\n"
-       . "Has WhatsApp? {$hasWhatsApp}\n"
-       . "Submitted: {$submittedAt}\n\n"
+       . "Name:     {$name}\n"
+       . "Address:  {$address}\n"
+       . "Postcode: {$postcode}\n"
+       . "Location: {$location}\n"
+       . "Phone:    {$phone}\n"
+       . "Email:    {$email}\n"
+       . "WhatsApp: {$hasWhatsApp}\n"
+       . "Time:     {$submittedAt}\n\n"
        . "Job details:\n{$message}\n";
 
 // `to` is the Resend-account owner inbox until sandwichhedges.co.uk is
