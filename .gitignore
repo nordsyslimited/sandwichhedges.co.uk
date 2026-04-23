@@ -19,3 +19,4 @@ _notes/
 
 # Secrets — generated during deploy from GitHub Actions secrets
 config/secrets.php
+__pycache__/
