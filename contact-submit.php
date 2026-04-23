@@ -61,7 +61,7 @@ if ($apiKey === '') {
 
 $submittedAt = date('Y-m-d H:i:s') . ' (Europe/London)';
 
-$subject = 'New hedge enquiry — sandwichhedges.co.uk';
+$subject = 'New hedge enquiry, sandwichhedges.co.uk';
 
 $escName  = htmlspecialchars($name,  ENT_QUOTES | ENT_HTML5, 'UTF-8');
 $escPhone = htmlspecialchars($phone, ENT_QUOTES | ENT_HTML5, 'UTF-8');
@@ -95,7 +95,7 @@ $html = <<<HTML
 </html>
 HTML;
 
-$plain = "New hedge enquiry — sandwichhedges.co.uk\n\n"
+$plain = "New hedge enquiry, sandwichhedges.co.uk\n\n"
        . "Name: {$name}\n"
        . "Phone: {$phone}\n"
        . "Email: {$email}\n"

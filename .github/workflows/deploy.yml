@@ -34,7 +34,7 @@ jobs:
           ];
           PHP
           if [ -z "${RESEND_API_KEY}" ]; then
-            echo "::warning::RESEND_API_KEY secret is empty — contact form will return an error until it's set in repo Settings → Secrets."
+            echo "::warning::RESEND_API_KEY secret is empty, contact form will return an error until it's set in repo Settings → Secrets."
           fi
 
       - name: Sync files via FTPS

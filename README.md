@@ -1,8 +1,8 @@
-# Sandwich Hedges — sandwichhedges.co.uk
+# Sandwich Hedges, sandwichhedges.co.uk
 
-A plain-HTML, multi-page website for Sandwich Hedges — friendly, local hedge trimming for Sandwich, Deal, Worth, Ash, Woodnesborough, Eastry and Sandwich Bay in East Kent.
+A plain-HTML, multi-page website for Sandwich Hedges, friendly, local hedge trimming for Sandwich, Deal, Worth, Ash, Woodnesborough, Eastry and Sandwich Bay in East Kent.
 
-Sister site to [Sandwich Lawn Mowing](https://sandwichlawnmowing.co.uk/) — same family, same van, same phone number.
+Sister site to [Sandwich Lawn Mowing](https://sandwichlawnmowing.co.uk/), same family, same van, same phone number.
 
 ## Stack
 
@@ -13,7 +13,7 @@ Sister site to [Sandwich Lawn Mowing](https://sandwichlawnmowing.co.uk/) — sam
 
 ## Design
 
-Deliberately different look from the sister lawn site — same bones, different clothes:
+Deliberately different look from the sister lawn site, same bones, different clothes:
 
 - **Palette:** deep forest `#14573a`, sage `#8ea87f`, warm clay `#c2623a`, linen off-white
 - **Typography:** DM Serif Display + Inter (vs. Fraunces + Plus Jakarta on the lawn site)
@@ -21,12 +21,12 @@ Deliberately different look from the sister lawn site — same bones, different 
 
 ## Structure
 
-- `index.html` — home
+- `index.html`, home
 - `about.html`, `contact.html`, `gallery.html`, `privacy.html`, `thanks.html`, `404.html`
-- `services/` — 2 tightly-focused service pages (hedge trimming, overgrown hedge rescue) — kept to 2 for SEO specialism
-- `areas/` — 7 town landing pages + hub (Sandwich, Deal, Worth, Ash, Woodnesborough, Eastry, Sandwich Bay)
-- `how-to/` — 8 guides + hub with category filtering (extensible — see below)
-- `sitemap.xml`, `robots.txt` — SEO
+- `services/`, 2 tightly-focused service pages (hedge trimming, overgrown hedge rescue), kept to 2 for SEO specialism
+- `areas/`, 7 town landing pages + hub (Sandwich, Deal, Worth, Ash, Woodnesborough, Eastry, Sandwich Bay)
+- `how-to/`, 8 guides + hub with category filtering (extensible, see below)
+- `sitemap.xml`, `robots.txt`, SEO
 
 ## Adding a new how-to guide
 
@@ -53,7 +53,7 @@ Existing filter categories: `timing`, `species`, `conifers`, `restoration`, `wil
 
 1. Add `RESEND_API_KEY` to repo Settings → Secrets and variables → Actions. Use the same key as the sister `sandwichhandyman.co.uk` repo.
 2. Deploy. The workflow writes `config/secrets.php` from the secret before FTPS-syncing to Krystal.
-3. `config/` is protected by `.htaccess` so the secrets file is not web-accessible. `config/secrets.php` itself is git-ignored — the canonical copy lives only in GitHub Actions secrets.
+3. `config/` is protected by `.htaccess` so the secrets file is not web-accessible. `config/secrets.php` itself is git-ignored, the canonical copy lives only in GitHub Actions secrets.
 4. Sender defaults to `Sandwich Hedges <onboarding@resend.dev>` until the domain is verified on Resend. Once `sandwichhedges.co.uk` is verified, update the `from` field in `contact-submit.php` to `hello@sandwichhedges.co.uk`.
 
 ## SEO / AI search
@@ -89,4 +89,4 @@ Intended to mirror the sister site: push to `main` triggers a GitHub Actions wor
 
 ## Content tone
 
-Content is written in British English to the humanisation guide — varied sentence length, honest phrasing, mild personality, and local references (streets, villages, landmarks). The aim is sound like the people on the van, not the website of a national chain.
+Content is written in British English to the humanisation guide, varied sentence length, honest phrasing, mild personality, and local references (streets, villages, landmarks). The aim is sound like the people on the van, not the website of a national chain.

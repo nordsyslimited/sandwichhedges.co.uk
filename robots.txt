@@ -1,4 +1,4 @@
-# Sandwich Hedges — robots.txt
+# Sandwich Hedges, robots.txt
 # Welcoming both traditional search crawlers and AI-answer assistants.
 
 User-agent: *

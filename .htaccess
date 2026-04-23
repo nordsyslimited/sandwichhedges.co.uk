@@ -1,4 +1,4 @@
-# Sandwich Hedges — Apache config for Krystal
+# Sandwich Hedges, Apache config for Krystal
 
 # Default landing page
 DirectoryIndex index.html
@@ -32,7 +32,7 @@ AddDefaultCharset UTF-8
   Header set Referrer-Policy "strict-origin-when-cross-origin"
   Header set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=()"
 
-  # HSTS — DO NOT enable until HTTPS has been stable for at least 48h.
+  # HSTS, DO NOT enable until HTTPS has been stable for at least 48h.
   # Once enabled and cached by a browser, that browser will refuse plain HTTP
   # for this domain until the max-age expires. Uncomment when confident.
   # Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
