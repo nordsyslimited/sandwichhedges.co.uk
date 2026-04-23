@@ -104,9 +104,13 @@ $plain = "New hedge enquiry — sandwichhedges.co.uk\n\n"
        . "Submitted: {$submittedAt}\n\n"
        . "Job details:\n{$message}\n";
 
+// `to` is the Resend-account owner inbox until sandwichhedges.co.uk is
+// verified as a sending domain on Resend (see resend.com/domains). Once
+// verified, switch from to "Sandwich Hedges <hello@sandwichhedges.co.uk>"
+// and to to "hello@sandwichhedges.co.uk".
 $payload = [
     'from'     => 'Sandwich Hedges <onboarding@resend.dev>',
-    'to'       => ['hello@sandwichhedges.co.uk'],
+    'to'       => ['bluebucketuk@gmail.com'],
     'reply_to' => $email,
     'subject'  => $subject,
     'html'     => $html,
