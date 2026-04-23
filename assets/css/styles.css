@@ -468,8 +468,19 @@ p { margin: 0 0 1em; }
   border: 1px solid var(--line);
   border-radius: var(--radius-lg);
   padding: 1.75rem 1.5rem;
+  color: var(--ink-700);
+  text-decoration: none;
+  display: block;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
-.feature-card h3 { font-family: var(--font-sans); font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem; }
+a.feature-card:hover {
+  text-decoration: none;
+  border-color: var(--forest-500);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  color: var(--ink-700);
+}
+.feature-card h3 { font-family: var(--font-sans); font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem; color: var(--ink-900); }
 .feature-card p { color: var(--ink-500); font-size: 0.95rem; margin: 0; }
 .feature-card-icon {
   width: 48px; height: 48px; border-radius: 10px;
