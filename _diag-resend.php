@@ -6,12 +6,14 @@ header('Content-Type: text/plain; charset=utf-8');
 $secrets = @include __DIR__ . '/config/secrets.php';
 $apiKey  = is_array($secrets) ? (string)($secrets['resend_api_key'] ?? '') : '';
 
+echo "PHP version: " . PHP_VERSION . "\n";
+echo "curl available: " . (function_exists('curl_init') ? 'yes' : 'no') . "\n";
 echo "secrets.php loaded: " . (is_array($secrets) ? 'yes' : 'no') . "\n";
 echo "api_key length: " . strlen($apiKey) . "\n";
-echo "api_key prefix: " . substr($apiKey, 0, 3) . "…\n\n";
+echo "api_key prefix: " . substr($apiKey, 0, 3) . "...\n\n";
 
-if ($apiKey === '' || !str_starts_with($apiKey, 're_')) {
-    echo "❌ API key not valid. Aborting Resend call.\n";
+if ($apiKey === '' || substr($apiKey, 0, 3) !== 're_') {
+    echo "API key not valid. Aborting Resend call.\n";
     exit;
 }
 
