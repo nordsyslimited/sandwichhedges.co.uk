@@ -45,8 +45,9 @@ Existing filter categories: `timing`, `species`, `conifers`, `restoration`, `wil
 
 - **Phone:** 07449 303889 (Richard)
 - **Receptionist:** 07888 868590
-- **Email:** sandwichhedges@gmail.com
-- **Contact form:** wired to FormSubmit.co → sandwichhedges@gmail.com, redirecting to `/thanks.html`
+- **Email:** hello@sandwichhedges.co.uk
+- **WhatsApp:** wa.me/447449303889
+- **Contact form:** wired to FormSubmit.co → hello@sandwichhedges.co.uk, redirecting to `/thanks.html`. All fields required; reply preference (WhatsApp / call / text / email) is captured.
 
 ## SEO / AI search
 
