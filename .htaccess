@@ -31,6 +31,7 @@ AddDefaultCharset UTF-8
   Header set X-Frame-Options "SAMEORIGIN"
   Header set Referrer-Policy "strict-origin-when-cross-origin"
   Header set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=()"
+  Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https://assets.zyrosite.com data:; connect-src 'self';"
 
   # HSTS, DO NOT enable until HTTPS has been stable for at least 48h.
   # Once enabled and cached by a browser, that browser will refuse plain HTTP
