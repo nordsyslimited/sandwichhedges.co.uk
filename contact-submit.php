@@ -125,7 +125,7 @@ $plain = "New hedge enquiry, sandwichhedges.co.uk\n\n"
 // and to to "hello@sandwichhedges.co.uk".
 $payload = [
     'from'     => 'Sandwich Hedges <onboarding@resend.dev>',
-    'to'       => ['bluebucketuk@gmail.com'],
+    'to'       => ['hedges@nordsys.co.uk'],
     'reply_to' => $email,
     'subject'  => $subject,
     'html'     => $html,
