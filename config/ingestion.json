@@ -1,0 +1,58 @@
+{
+  "site": {
+    "name": "Sandwich Hedges & Tree Services",
+    "url": "https://sandwichhedges.co.uk",
+    "repo": "nordsyslimited/sandwichhedges.co.uk"
+  },
+  "ingestion": {
+    "description": "Nightly: finds UK hedge-care sources (video or written) and creates a How-To article for each, matching Kent species and growing conditions. Morning: audits the full site.",
+    "region": "UK",
+    "minLikes": 100,
+    "minViews": null,
+    "videosPerRun": 3,
+    "categories": [
+      "Hedge trimming technique",
+      "Hedge shaping and topiary",
+      "Seasonal hedge care and nesting-season timing",
+      "Hedge health and species care",
+      "Tool use and safety",
+      "Hedge law and neighbour disputes"
+    ],
+    "howtoCategoryTags": [
+      "timing",
+      "species",
+      "conifers",
+      "restoration",
+      "wildlife",
+      "law",
+      "planting",
+      "diy"
+    ],
+    "contentKindSingular": "how-to article",
+    "contentKindPlural": "how-to articles",
+    "contentGlob": "how-to/*.html",
+    "contentGlobExclude": ["how-to/index.html"]
+  },
+  "schedule": {
+    "nightly": {
+      "name": "Nightly content finder",
+      "cronUtc": "0 3 * * *",
+      "daysBetweenRuns": 1,
+      "description": "Find 3 UK hedge-care sources, generate articles, commit + push."
+    },
+    "morning": {
+      "name": "Morning site audit",
+      "cronUtc": "0 8 * * *",
+      "daysBetweenRuns": 1,
+      "description": "Audit every page: category filing (data-howto-cat), broken links, dead videos, SEO, relevance."
+    }
+  },
+  "notifications": {
+    "email": "sandwichhedges@gmail.com",
+    "channel": "TBD — no email-report workflow wired yet, see INGESTION.md"
+  },
+  "triggers": {
+    "nightly": "TBD — created on claude.ai/code when the routine is set up",
+    "morning": "TBD — created on claude.ai/code when the routine is set up"
+  }
+}
