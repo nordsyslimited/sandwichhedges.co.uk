@@ -1,6 +1,6 @@
 {
   "lastAuditAt": "2026-08-11T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 13,
-  "note": "13 issues: og:title duplication on about/contact; robots meta incomplete on ~14 pages; JSON-LD BreadcrumbList not in @graph (about, gallery, areas/index); Service schema missing @id on 7 area pages; Article missing image/dateModified on 7 how-to pages; sitemap entry incomplete for composting-hedge-trimmings; em-dashes in 3 tree service pages; Wildlife Act 1981 callout missing from hedge-heights-neighbour-law.html (medium priority) and unclear in renovating-neglected-hedge.html. No broken links, no dead videos, how-to index complete, robots allow-list complete."
+  "issueCount": 14,
+  "note": "14 issues: og:title duplication on about/contact; robots meta incomplete on ~14 pages; JSON-LD BreadcrumbList not in @graph (about, gallery, areas/index); Service schema missing @id on 7 area pages; Article missing image/dateModified on 7 how-to pages; sitemap entry incomplete for composting-hedge-trimmings; em-dashes in 3 tree service pages; Wildlife Act 1981 callout missing from hedge-heights-neighbour-law.html (medium priority) and unclear in renovating-neglected-hedge.html; composting-hedge-trimmings.html missing JET-RELATED-GUIDES template block. No broken links, no dead videos, how-to index complete, robots allow-list complete."
 }
