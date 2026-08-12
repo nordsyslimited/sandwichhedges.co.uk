@@ -1,8 +1,8 @@
 {
   "lastAuditAt": "2026-08-12T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "note": "Audit 2026-08-12: 6 issues. (1) 404.html missing canonical. (2) sitemap.xml missing lastmod on 9 of 12 how-tos and all services/areas. (3-6) 4 timing-related how-tos (privet-hedge-care, leylandii-rules, renovating-neglected-hedge, trim-a-hedge-straight) missing explicit WCA 1981 nesting-season callout (1 Mar-31 Aug). All links resolve, no dead videos, no broken SEO, no banned words/em-dashes, robots.txt complete, all 12 how-tos linked correctly in index. See reports/2026-08-12-audit.md.",
+  "issueCount": 9,
+  "note": "Audit 2026-08-12: 9 issues. (1) 404.html missing canonical. (2) sitemap.xml missing lastmod on 9 of 12 how-tos and all services/areas. (3-6) 4 timing-related how-tos (privet-hedge-care, leylandii-rules, renovating-neglected-hedge, trim-a-hedge-straight) missing explicit WCA 1981 nesting-season callout (1 Mar-31 Aug). (7-9) NEW: em-dashes found in services/tree/crown-thinning, crown-raising, deadwooding. All links resolve, no dead videos confirmed, no broken SEO, no banned words, robots.txt complete, all 12 how-tos correctly linked. See reports/2026-08-12-audit.md.",
   "lastRunAt": "2026-08-12T00:00:00Z",
   "status": "success",
   "added": 3,
