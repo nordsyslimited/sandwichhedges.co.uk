@@ -1,50 +1,17 @@
-// Generates new how-to pages from data/how-to/*.json, matching the exact
-// hand-authored template (nav/footer/JSON-LD shape copied verbatim from
-// when-to-trim-hedges.html). Never overwrites an existing page - only
-// adds new slugs. Run: node scripts/generate-howto.mjs
-import { readFileSync, writeFileSync, readdirSync, existsSync } from "node:fs";
-import { fileURLToPath } from "node:url";
-import { dirname, join } from "node:path";
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const root = join(__dirname, "..");
-const dataDir = join(root, "data", "how-to");
-const howToDir = join(root, "how-to");
-
-const GA4 = "G-VLGN47T23T";
-const SITE = "https://sandwichhedges.co.uk";
-const TODAY = "2026-08-05";
-
-function page(entry) {
-  const url = `${SITE}/how-to/${entry.slug}.html`;
-  const sectionsHtml = entry.sections
-    .map((s) => `      <h2>${s.h2}</h2>\n${s.paras.map((p) => `      <p>${p}</p>`).join("\n\n")}`)
-    .join("\n\n");
-  const relatedHtml = entry.relatedGuides
-    .map(
-      (r) => `        <a class="howto-card" href="${r.href}">
-          <span class="howto-tag">${r.tag}</span>
-          <h3>${r.title}</h3>
-          <p>${r.desc}</p>
-          <span class="howto-read">Read the guide</span>
-        </a>`
-    )
-    .join("\n\n");
-
-  return `<!doctype html>
+<!doctype html>
 <html lang="en-GB">
 <head>
 <meta charset="utf-8" />
 <meta name="google-site-verification" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>${entry.title} | Sandwich Hedges &amp; Tree Services</title>
-<meta name="description" content="${entry.metaDescription}" />
-<link rel="canonical" href="${url}" />
+<title>Box Tree Moth Caterpillar Damage: How to Spot It and What to Do | Sandwich Hedges &amp; Tree Services</title>
+<meta name="description" content="How to identify box tree moth caterpillar damage on a box hedge, why it matters in Kent gardens, and what the RHS actually recommends for control." />
+<link rel="canonical" href="https://sandwichhedges.co.uk/how-to/box-tree-moth-caterpillar-damage.html" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="${entry.ogTitle}" />
-<meta property="og:description" content="${entry.ogDescription}" />
-<meta property="og:url" content="${url}" />
-<meta property="og:image" content="${entry.heroImage}" />
+<meta property="og:title" content="Box Tree Moth Caterpillar Damage" />
+<meta property="og:description" content="How to spot it early and what the RHS recommends, before it strips a box hedge bare." />
+<meta property="og:url" content="https://sandwichhedges.co.uk/how-to/box-tree-moth-caterpillar-damage.html" />
+<meta property="og:image" content="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1400,fit=crop/AQEZ6WWRwai3XKGv/img_20260212_122051-dFVkTKyjzSiyLyxL.jpg" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1" />
 <meta name="theme-color" content="#14573a" />
@@ -57,11 +24,11 @@ function page(entry) {
 
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[
-{"@type":"Article","headline":"${entry.title}","description":"${entry.metaDescription}","author":{"@type":"Organization","name":"Sandwich Hedges & Tree Services"},"publisher":{"@id":"${SITE}/#business"},"image":"${entry.heroImage}","datePublished":"${TODAY}","dateModified":"${TODAY}","mainEntityOfPage":"${url}","inLanguage":"en-GB"},
+{"@type":"Article","headline":"Box Tree Moth Caterpillar Damage: How to Spot It and What to Do","description":"How to identify box tree moth caterpillar damage on a box hedge, why it matters in Kent gardens, and what the RHS actually recommends for control.","author":{"@type":"Organization","name":"Sandwich Hedges & Tree Services"},"publisher":{"@id":"https://sandwichhedges.co.uk/#business"},"image":"https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1400,fit=crop/AQEZ6WWRwai3XKGv/img_20260212_122051-dFVkTKyjzSiyLyxL.jpg","datePublished":"2026-08-05","dateModified":"2026-08-05","mainEntityOfPage":"https://sandwichhedges.co.uk/how-to/box-tree-moth-caterpillar-damage.html","inLanguage":"en-GB"},
 {"@type":"BreadcrumbList","itemListElement":[
-{"@type":"ListItem","position":1,"name":"Home","item":"${SITE}/"},
-{"@type":"ListItem","position":2,"name":"How-To Guides","item":"${SITE}/how-to/"},
-{"@type":"ListItem","position":3,"name":"${entry.h1}","item":"${url}"}]}
+{"@type":"ListItem","position":1,"name":"Home","item":"https://sandwichhedges.co.uk/"},
+{"@type":"ListItem","position":2,"name":"How-To Guides","item":"https://sandwichhedges.co.uk/how-to/"},
+{"@type":"ListItem","position":3,"name":"Box tree moth caterpillar damage: how to spot it and what to do","item":"https://sandwichhedges.co.uk/how-to/box-tree-moth-caterpillar-damage.html"}]}
 ]}
 </script>
 <meta name="geo.region" content="GB-KEN" />
@@ -70,10 +37,10 @@ function page(entry) {
 <meta name="ICBM" content="51.2720, 1.3403" />
 <!-- Google tag (gtag.js) -->
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{'analytics_storage':'denied','ad_storage':'denied','ad_user_data':'denied','ad_personalization':'denied'});</script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=${GA4}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VLGN47T23T"></script>
 <script>
 window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
-gtag('js',new Date());gtag('config','${GA4}');
+gtag('js',new Date());gtag('config','G-VLGN47T23T');
 </script>
 </head>
 <body>
@@ -113,11 +80,11 @@ gtag('js',new Date());gtag('config','${GA4}');
 <section class="page-header">
   <div class="container">
     <nav class="breadcrumbs" aria-label="Breadcrumb">
-      <a href="../index.html">Home</a> · <a href="index.html">How-To Guides</a> · <span>${entry.h1}</span>
+      <a href="../index.html">Home</a> · <a href="index.html">How-To Guides</a> · <span>Box tree moth caterpillar damage: how to spot it and what to do</span>
     </nav>
-    <span class="eyebrow">${entry.eyebrow}</span>
-    <h1>${entry.h1}</h1>
-    <p class="lede">${entry.lede}</p>
+    <span class="eyebrow">Pests · 5 min read</span>
+    <h1>Box tree moth caterpillar damage: how to spot it and what to do</h1>
+    <p class="lede">Box tree moth has gone from a rare sighting to established in every English county since it first turned up in UK gardens in 2008. If you've got box hedging in Kent, it's worth knowing what to look for.</p>
   </div>
 </section>
 
@@ -125,24 +92,52 @@ gtag('js',new Date());gtag('config','${GA4}');
   <div class="container">
     <article class="article">
       <div class="article-meta">
-        <span>${entry.updatedLabel}</span>
+        <span>Updated August 2026</span>
         <span>By Richard &amp; the Sandwich Hedges &amp; Tree Services team</span>
       </div>
 
       <div class="article-hero">
-        <img src="${entry.heroImage}" alt="${entry.heroAlt}" loading="eager" />
+        <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1400,fit=crop/AQEZ6WWRwai3XKGv/img_20260212_122051-dFVkTKyjzSiyLyxL.jpg" alt="Close-up of box hedge foliage" loading="eager" />
       </div>
 
-${sectionsHtml}
+      <h2>What the damage actually looks like</h2>
+      <p>The caterpillars eat box leaves and spin webbing over the area they're feeding on, so the first sign is often patchy, papery-looking foliage with fine webbing rather than obvious holes. Newly hatched caterpillars are greenish-yellow with black heads. Mature caterpillars grow to around 4cm, with a greenish-yellow body marked with thick black and thin white stripes, easy to spot once you know what you're looking for.</p>
+
+      <p>Left unchecked, caterpillars can also strip bark from stems, which can girdle and kill whole sections of the plant, not just the leaves.</p>
+
+      <h2>When to start checking</h2>
+      <p>The RHS recommends regular inspection from early spring, with checks stepping up from May onward as moth activity increases. Catching an infestation early, before it's stripped a section of hedge bare, makes a real difference to how much of the plant survives.</p>
+
+      <h2>What the RHS actually recommends</h2>
+      <p>Where it's practical, the RHS's first suggestion is simply removing caterpillars by hand. For monitoring adult moth activity, pheromone traps (RHS names Agralan, Dragonfli and Solabiol as suppliers) help track when moths are active so you know when to check more closely.</p>
+
+      <p>For treatment, a nematode-based product is the RHS's recommended biological control, though they flag it needs some caution around effects on non-target insects. Some trade sources also point to Bacillus thuringiensis (Btk) sprays, which aren't the RHS's own headline recommendation but are widely used and reportedly effective when caterpillars are actively feeding, worth checking product labelling rather than assuming any one product is a like-for-like swap.</p>
+
+      <p>If an infestation keeps coming back year after year or a hedge is already heavily defoliated, the RHS's own fallback is honest: consider a different hedge or topiary species if control stops being practical.</p>
+
+      <h2>What this means for a Kent garden</h2>
+      <p>Box hedging and topiary are common in Sandwich, Deal and the surrounding villages, especially in older, formal gardens, so this isn't a rare problem here. A spring check before growth really gets going, and another through May and June, catches most infestations before they do serious damage.</p>
 
       <div class="article-callout">
-        <h4>${entry.calloutTitle}</h4>
-        <p>${entry.calloutBody}</p>
+        <h4>Not sure what you're looking at?</h4>
+        <p>Send a photo on WhatsApp and we'll tell you if it's box tree moth or something else, no charge for a look.</p>
       </div>
 
       <h2>Related guides</h2>
       <div class="howto-grid" style="margin-top:1.5rem;">
-${relatedHtml}
+        <a class="howto-card" href="when-to-trim-hedges.html">
+          <span class="howto-tag">Timing</span>
+          <h3>When to trim hedges in Kent</h3>
+          <p>A month-by-month calendar, including the bird nesting dates you can't ignore.</p>
+          <span class="howto-read">Read the guide</span>
+        </a>
+
+        <a class="howto-card" href="wildlife-friendly-trimming.html">
+          <span class="howto-tag">Wildlife</span>
+          <h3>Wildlife-friendly hedge trimming</h3>
+          <p>Nesting birds, hedgehogs and the law that protects them.</p>
+          <span class="howto-read">Read the guide</span>
+        </a>
       </div>
 
     </article>
@@ -202,57 +197,3 @@ ${relatedHtml}
 <script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
 </body>
 </html>
-`;
-}
-
-function insertIndexCard(entry) {
-  const indexPath = join(howToDir, "index.html");
-  let html = readFileSync(indexPath, "utf8");
-  if (html.includes(`href="${entry.slug}.html"`)) return;
-  const crlf = html.includes("\r\n");
-  let card = `      <a class="howto-card" href="${entry.slug}.html" data-howto-cat="${entry.filterCat}">
-        <span class="howto-tag">${entry.filterTag}</span>
-        <h3>${entry.h1}</h3>
-        <p>${entry.lede}</p>
-        <span class="howto-read">Read the guide</span>
-      </a>
-
-`;
-  if (crlf) card = card.replace(/\r?\n/g, "\r\n");
-  const marker = crlf
-    ? "    </div>\r\n\r\n    <div class=\"article-callout\""
-    : "    </div>\n\n    <div class=\"article-callout\"";
-  if (!html.includes(marker)) throw new Error("howto-grid close marker shape changed, aborting rather than guessing");
-  html = html.replace(marker, card + marker);
-  writeFileSync(indexPath, html);
-}
-
-function updateSitemap(entry) {
-  const sitemapPath = join(root, "sitemap.xml");
-  let xml = readFileSync(sitemapPath, "utf8");
-  const url = `${SITE}/how-to/${entry.slug}.html`;
-  if (xml.includes(url)) return;
-  const closeTag = xml.includes("\r\n</urlset>") ? "\r\n</urlset>" : "\n</urlset>";
-  const eol = closeTag.startsWith("\r") ? "\r\n" : "\n";
-  xml = xml.replace(closeTag, `${eol}  <url><loc>${url}</loc></url>` + closeTag);
-  writeFileSync(sitemapPath, xml);
-}
-
-const dataFiles = readdirSync(dataDir).filter((f) => f.endsWith(".json"));
-let created = 0;
-for (const f of dataFiles) {
-  const entry = JSON.parse(readFileSync(join(dataDir, f), "utf8"));
-  const outPath = join(howToDir, `${entry.slug}.html`);
-  if (existsSync(outPath)) {
-    console.log(`skip (exists): ${entry.slug}`);
-    continue;
-  }
-  const html = page(entry);
-  const crlf = readFileSync(join(howToDir, "index.html"), "utf8").includes("\r\n");
-  writeFileSync(outPath, crlf ? html.replace(/\r?\n/g, "\r\n") : html);
-  insertIndexCard(entry);
-  updateSitemap(entry);
-  console.log(`created: ${entry.slug}`);
-  created++;
-}
-console.log(`Done. ${created} new page(s).`);
