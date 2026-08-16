@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-08-15T08:00:00Z",
+  "lastAuditAt": "2026-08-16T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 1,
-  "note": "Audit 2026-08-15: 1 needs-review (YouTube links unverifiable via proxy — recurring; now 12 videos total including 3 in new articles). Auto-fixed: BreadcrumbList JSON-LD added to thanks.html. All other checks clear: 47 pages, 0 broken links, 0 em-dashes, 0 banned words, all SEO meta OK, sitemap current, 15/15 robots bots, WCA 1981 callouts on all 3 new articles. See reports/2026-08-15-audit.md.",
+  "issueCount": 2,
+  "note": "Audit 2026-08-16: 2 needs-review. (1) YouTube links unverifiable via proxy — recurring, 12 videos unchanged. (2) NEW: when-to-trim-hedges.html nesting callout missing explicit Wildlife and Countryside Act 1981 name — content edit required. Auto-fixed: nothing. All other checks clear: 50 pages, 0 broken links, 0 em-dashes, 0 banned words, all SEO meta OK, sitemap current (48 entries), 15/15 robots bots, WCA 1981 callouts on all 3 new articles (box-hedge-care, portuguese-laurel-hedge-care, thuja-plicata-hedge-care). See reports/2026-08-16-audit.md.",
   "lastRunAt": "2026-08-16T00:00:00Z",
   "status": "success",
   "added": 3,
