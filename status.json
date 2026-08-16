@@ -3,12 +3,12 @@
   "auditStatus": "issues",
   "issueCount": 1,
   "note": "Audit 2026-08-15: 1 needs-review (YouTube links unverifiable via proxy — recurring; now 12 videos total including 3 in new articles). Auto-fixed: BreadcrumbList JSON-LD added to thanks.html. All other checks clear: 47 pages, 0 broken links, 0 em-dashes, 0 banned words, all SEO meta OK, sitemap current, 15/15 robots bots, WCA 1981 callouts on all 3 new articles. See reports/2026-08-15-audit.md.",
-  "lastRunAt": "2026-08-15T00:00:00Z",
+  "lastRunAt": "2026-08-16T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 22,
-  "contentNote": "2026-08-15: Added photinia-red-robin-hedge-care (Checklist-first), griselinia-hedge-care (Procedural), escallonia-hedge-care (Comparison). All three videos from Hopes Grove Nurseries (UK's largest specialist hedging grower, Kent-based). YouTube proxy blocked; channel authority used as fallback. See reports/2026-08-15-content.md."
+  "totalOnSite": 25,
+  "contentNote": "2026-08-16: Added box-hedge-care (Procedural), portuguese-laurel-hedge-care (Comparison), thuja-plicata-hedge-care (Checklist-first). All three videos from best4hedging channel (UK's leading specialist hedging nursery, Grown in England certified). YouTube proxy blocked; channel authority used as fallback. See reports/2026-08-16-content.md."
 }
