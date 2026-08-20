@@ -2,13 +2,13 @@
   "lastAuditAt": "2026-08-19T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 1,
-  "note": "Audit 2026-08-19: 1 needs-review. YouTube proxy check blocked (recurring, 11 videos, all from established UK horticultural channels, no new since last check). Auto-fixed: 14 em-dashes across 3 files (lonicera-nitida-hedge-care.html ×9, elaeagnus-hedge-care.html ×4, how-to/index.html ×1). All other checks clear: 53 pages, 0 broken links, 0 banned words, all SEO meta/canonical/theme-color/BreadcrumbList present, sitemap current (53 entries), 15/15 robots bots, WCA 1981 callouts confirmed on all timing articles (previously flagged when-to-trim-hedges.html now resolved). See reports/2026-08-19-audit.md.",
-  "lastRunAt": "2026-08-19T00:00:00Z",
+  "note": "Audit 2026-08-19: 1 needs-review. YouTube proxy check blocked (recurring, 11 videos, all from established UK horticultural channels, no new since last check). Auto-fixed: 14 em-dashes across 3 files (lonicera-nitida-hedge-care.html x9, elaeagnus-hedge-care.html x4, how-to/index.html x1). All other checks clear: 53 pages, 0 broken links, 0 banned words, all SEO meta/canonical/theme-color/BreadcrumbList present, sitemap current (53 entries), 15/15 robots bots, WCA 1981 callouts confirmed on all timing articles (previously flagged when-to-trim-hedges.html now resolved). See reports/2026-08-19-audit.md.",
+  "lastRunAt": "2026-08-20T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 28,
-  "contentNote": "2026-08-19: Added pyracantha-hedge-care (Procedural, species+wildlife), elaeagnus-hedge-care (Comparison vs Griselinia, species), lonicera-nitida-hedge-care (Decision tree, species+diy). YouTube proxy blocked; channel authority used as fallback. Pyracantha and Elaeagnus: best4hedging channel. Lonicera nitida: UK garden renovation series, creator not named. JET-RELATED-GUIDES updated on 5 existing articles. See reports/2026-08-19-content.md."
+  "totalOnSite": 31,
+  "contentNote": "2026-08-20: Added berberis-hedge-care (Checklist-first, species+diy), cotoneaster-hedge-care (Procedural, species+wildlife), feeding-hedges (Comparison, diy). YouTube proxy blocked; channel authority used as fallback. Berberis: Garden Ninja (Lee Burkhill, 100k+ subs). Cotoneaster: RHS (~100k subs). Feeding hedges: BBC Gardeners World Magazine (count unconfirmed, BBC affiliation used). JET-RELATED-GUIDES updated on 5 existing articles. See reports/2026-08-20-content.md."
 }
