@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-08-19T08:00:00Z",
+  "lastAuditAt": "2026-08-20T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 1,
-  "note": "Audit 2026-08-19: 1 needs-review. YouTube proxy check blocked (recurring, 11 videos, all from established UK horticultural channels, no new since last check). Auto-fixed: 14 em-dashes across 3 files (lonicera-nitida-hedge-care.html x9, elaeagnus-hedge-care.html x4, how-to/index.html x1). All other checks clear: 53 pages, 0 broken links, 0 banned words, all SEO meta/canonical/theme-color/BreadcrumbList present, sitemap current (53 entries), 15/15 robots bots, WCA 1981 callouts confirmed on all timing articles (previously flagged when-to-trim-hedges.html now resolved). See reports/2026-08-19-audit.md.",
+  "note": "Audit 2026-08-20: 1 needs-review. YouTube proxy check blocked (recurring, 12 videos checked, 11 embedded — all established UK horticultural channels, no new since last check). Nothing to auto-fix: 56 pages, 0 broken links, 0 em-dashes, 0 banned words, all SEO meta/canonical/theme-color/BreadcrumbList present, sitemap current (56 entries), 15/15 robots bots, WCA 1981 callouts confirmed on all timing articles. See reports/2026-08-20-audit.md.",
   "lastRunAt": "2026-08-20T00:00:00Z",
   "status": "success",
   "added": 3,
