@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-08-20T08:00:00Z",
+  "lastAuditAt": "2026-08-21T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 1,
-  "note": "Audit 2026-08-20: 1 needs-review. YouTube proxy check blocked (recurring, 12 videos checked, 11 embedded — all established UK horticultural channels, no new since last check). Nothing to auto-fix: 56 pages, 0 broken links, 0 em-dashes, 0 banned words, all SEO meta/canonical/theme-color/BreadcrumbList present, sitemap current (56 entries), 15/15 robots bots, WCA 1981 callouts confirmed on all timing articles. See reports/2026-08-20-audit.md.",
+  "note": "Audit 2026-08-21: 1 needs-review. YouTube proxy check blocked (recurring, 12 watch URLs + 1 embed-only, all established UK horticultural channels, +1 new RHS aphid video). Nothing to auto-fix: 59 pages, 0 broken links, 0 em-dashes, 0 banned words, all SEO meta/canonical/theme-color/BreadcrumbList present, sitemap current (57 entries), 15/15 robots bots, WCA 1981 callouts confirmed on all timing articles. See reports/2026-08-21-audit.md.",
   "lastRunAt": "2026-08-21T00:00:00Z",
   "status": "success",
   "added": 3,
