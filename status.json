@@ -3,12 +3,12 @@
   "auditStatus": "issues",
   "issueCount": 1,
   "note": "Audit 2026-08-20: 1 needs-review. YouTube proxy check blocked (recurring, 12 videos checked, 11 embedded — all established UK horticultural channels, no new since last check). Nothing to auto-fix: 56 pages, 0 broken links, 0 em-dashes, 0 banned words, all SEO meta/canonical/theme-color/BreadcrumbList present, sitemap current (56 entries), 15/15 robots bots, WCA 1981 callouts confirmed on all timing articles. See reports/2026-08-20-audit.md.",
-  "lastRunAt": "2026-08-20T00:00:00Z",
+  "lastRunAt": "2026-08-21T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 31,
-  "contentNote": "2026-08-20: Added berberis-hedge-care (Checklist-first, species+diy), cotoneaster-hedge-care (Procedural, species+wildlife), feeding-hedges (Comparison, diy). YouTube proxy blocked; channel authority used as fallback. Berberis: Garden Ninja (Lee Burkhill, 100k+ subs). Cotoneaster: RHS (~100k subs). Feeding hedges: BBC Gardeners World Magazine (count unconfirmed, BBC affiliation used). JET-RELATED-GUIDES updated on 5 existing articles. See reports/2026-08-20-content.md."
+  "totalOnSite": 34,
+  "contentNote": "2026-08-21: Added hedge-aphids-treatment (Decision tree, pests), lawson-cypress-hedge-care (Procedural, conifers+species), hedge-care-summer-drought (Checklist-first, diy+timing). YouTube proxy blocked; channel authority used as fallback. Aphids: RHS (~78k subs, Wikidata-confirmed). Lawson cypress: Garden Ninja (Lee Burkhill, 100k+ subs). Drought: BBC Gardeners World Magazine (BBC affiliation, count unconfirmed). JET-RELATED-GUIDES updated on 6 existing articles. See reports/2026-08-21-content.md."
 }
