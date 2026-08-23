@@ -3,12 +3,12 @@
   "auditStatus": "issues",
   "issueCount": 1,
   "note": "Audit 2026-08-22: 1 needs-review. Auto-fixed 14 em-dashes in sharpening-hedge-shears.html (introduced by overnight content batch). YouTube proxy check blocked (recurring, 16 watch URLs + 1 embed-only, all established UK horticultural channels, +3 new videos). All other checks clear: 62 pages, 0 broken links, 0 banned words, all SEO meta/canonical/theme-color/BreadcrumbList present, sitemap current (60 entries), 15/15 robots bots, WCA 1981 callouts confirmed on all timing articles. See reports/2026-08-22-audit.md.",
-  "lastRunAt": "2026-08-22T00:00:00Z",
+  "lastRunAt": "2026-08-23T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 37,
-  "contentNote": "2026-08-22: Added rosa-rugosa-hedge-care (Comparison, species+wildlife), newly-planted-hedge-care (Procedural 7 steps, planting+diy), sharpening-hedge-shears (Checklist-first, diy). YouTube proxy blocked; channel authority used as fallback. Rosa rugosa: RHS (official YouTube channel). Newly planted: Bunny Guinness (RHS Chelsea Gold, BBC Radio 4 GQT). Sharpening: Garden Ninja Lee Burkhill (BBC Garden Rescue, 100k+ subs). JET-RELATED-GUIDES updated on 9 existing articles. See reports/2026-08-22-content.md."
+  "totalOnSite": 40,
+  "contentNote": "2026-08-23: Added how-to-use-long-reach-hedge-trimmer (Procedural 7 steps, diy), overhanging-hedge-branches (Decision-tree 5 decisions, law), autumn-hedge-care (Comparison evergreen/deciduous/conifer/yew, timing+diy). YouTube proxy blocked; channel authority used as fallback. Long-reach trimmer: STIHL GB (official UK channel, world's leading OPE brand). Overhanging branches: RHS (official YouTube channel, 78k subs). Autumn care: RHS (different video IJZ3_ykha3E). JET-RELATED-GUIDES updated on 10 existing articles. See reports/2026-08-23-content.md."
 }
