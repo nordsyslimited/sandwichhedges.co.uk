@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-08-22T08:00:00Z",
+  "lastAuditAt": "2026-08-23T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 1,
-  "note": "Audit 2026-08-22: 1 needs-review. Auto-fixed 14 em-dashes in sharpening-hedge-shears.html (introduced by overnight content batch). YouTube proxy check blocked (recurring, 16 watch URLs + 1 embed-only, all established UK horticultural channels, +3 new videos). All other checks clear: 62 pages, 0 broken links, 0 banned words, all SEO meta/canonical/theme-color/BreadcrumbList present, sitemap current (60 entries), 15/15 robots bots, WCA 1981 callouts confirmed on all timing articles. See reports/2026-08-22-audit.md.",
+  "note": "Audit 2026-08-23: 1 needs-review. No auto-fixes required. 3 new pages (how-to-use-long-reach-hedge-trimmer, overhanging-hedge-branches, autumn-hedge-care) pass all checks: SEO, canonical, theme-color, BreadcrumbList, WCA 1981 callout, no em-dashes, no banned words, sitemap entries present. YouTube proxy blocked (recurring): 3 new videos (STIHL GB, RHS x2) unverifiable via curl. 65 pages total, 0 broken links. See reports/2026-08-23-audit.md.",
   "lastRunAt": "2026-08-23T00:00:00Z",
   "status": "success",
   "added": 3,
