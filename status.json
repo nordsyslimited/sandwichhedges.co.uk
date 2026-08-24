@@ -3,12 +3,12 @@
   "auditStatus": "issues",
   "issueCount": 1,
   "note": "Audit 2026-08-23: 1 needs-review. No auto-fixes required. 3 new pages (how-to-use-long-reach-hedge-trimmer, overhanging-hedge-branches, autumn-hedge-care) pass all checks: SEO, canonical, theme-color, BreadcrumbList, WCA 1981 callout, no em-dashes, no banned words, sitemap entries present. YouTube proxy blocked (recurring): 3 new videos (STIHL GB, RHS x2) unverifiable via curl. 65 pages total, 0 broken links. See reports/2026-08-23-audit.md.",
-  "lastRunAt": "2026-08-23T00:00:00Z",
+  "lastRunAt": "2026-08-24T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 40,
-  "contentNote": "2026-08-23: Added how-to-use-long-reach-hedge-trimmer (Procedural 7 steps, diy), overhanging-hedge-branches (Decision-tree 5 decisions, law), autumn-hedge-care (Comparison evergreen/deciduous/conifer/yew, timing+diy). YouTube proxy blocked; channel authority used as fallback. Long-reach trimmer: STIHL GB (official UK channel, world's leading OPE brand). Overhanging branches: RHS (official YouTube channel, 78k subs). Autumn care: RHS (different video IJZ3_ykha3E). JET-RELATED-GUIDES updated on 10 existing articles. See reports/2026-08-23-content.md."
+  "totalOnSite": 43,
+  "contentNote": "2026-08-24: Added honey-fungus-hedge (Checklist-first, pests), hedge-trimmer-maintenance (Procedural 5 steps, diy), bare-root-vs-pot-grown-hedges (Comparison table, planting). YouTube proxy blocked; channel authority used as fallback. Honey fungus: RHS (official YouTube channel, 78k subs, video F_YZACQ1i9g). Trimmer maintenance: STIHL GB (official UK channel, world's leading OPE brand, video NrUwto7i5Bc). Bare-root vs pot-grown: RHS (video qDJc9rqCAY4). JET-RELATED-GUIDES updated on 9 existing articles; box-tree-moth-caterpillar-damage.html received new JET-RELATED-GUIDES block. See reports/2026-08-24-content.md."
 }
