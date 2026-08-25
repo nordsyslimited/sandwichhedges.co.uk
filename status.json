@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-08-23T08:00:00Z",
+  "lastAuditAt": "2026-08-25T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 1,
-  "note": "Audit 2026-08-23: 1 needs-review. No auto-fixes required. 3 new pages (how-to-use-long-reach-hedge-trimmer, overhanging-hedge-branches, autumn-hedge-care) pass all checks: SEO, canonical, theme-color, BreadcrumbList, WCA 1981 callout, no em-dashes, no banned words, sitemap entries present. YouTube proxy blocked (recurring): 3 new videos (STIHL GB, RHS x2) unverifiable via curl. 65 pages total, 0 broken links. See reports/2026-08-23-audit.md.",
+  "issueCount": 2,
+  "note": "Audit 2026-08-25: 1 auto-fix (em-dash in how-to/index.html bare-root card, replaced with colon). 2 needs-review: YouTube proxy 403 (recurring, not dead videos); choosing-hedge-species-kent.html lacks WCA 1981 nesting callout — borderline, species-selection article. 43 how-to pages, 68 total. 3 new pages (honey-fungus-hedge, hedge-trimmer-maintenance, bare-root-vs-pot-grown) all pass: SEO, BreadcrumbList, sitemap, correct data-howto-cat. See reports/2026-08-25-audit.md.",
   "lastRunAt": "2026-08-24T00:00:00Z",
   "status": "success",
   "added": 3,
