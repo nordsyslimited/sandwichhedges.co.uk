@@ -3,12 +3,12 @@
   "auditStatus": "issues",
   "issueCount": 2,
   "note": "Audit 2026-08-25: 1 auto-fix (em-dash in how-to/index.html bare-root card, replaced with colon). 2 needs-review: YouTube proxy 403 (recurring, not dead videos); choosing-hedge-species-kent.html lacks WCA 1981 nesting callout — borderline, species-selection article. 43 how-to pages, 68 total. 3 new pages (honey-fungus-hedge, hedge-trimmer-maintenance, bare-root-vs-pot-grown) all pass: SEO, BreadcrumbList, sitemap, correct data-howto-cat. See reports/2026-08-25-audit.md.",
-  "lastRunAt": "2026-08-24T00:00:00Z",
+  "lastRunAt": "2026-08-26T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 43,
-  "contentNote": "2026-08-24: Added honey-fungus-hedge (Checklist-first, pests), hedge-trimmer-maintenance (Procedural 5 steps, diy), bare-root-vs-pot-grown-hedges (Comparison table, planting). YouTube proxy blocked; channel authority used as fallback. Honey fungus: RHS (official YouTube channel, 78k subs, video F_YZACQ1i9g). Trimmer maintenance: STIHL GB (official UK channel, world's leading OPE brand, video NrUwto7i5Bc). Bare-root vs pot-grown: RHS (video qDJc9rqCAY4). JET-RELATED-GUIDES updated on 9 existing articles; box-tree-moth-caterpillar-damage.html received new JET-RELATED-GUIDES block. See reports/2026-08-24-content.md."
+  "totalOnSite": 46,
+  "contentNote": "2026-08-26: Added hedge-vs-fence-why-plant-a-hedge (Comparison, planting), conifer-hedge-going-brown (Decision Tree, conifers), hedge-laying-kent (Procedural, restoration/wildlife). YouTube proxy blocked; channel authority used as fallback. Hedge vs fence: RHS (official YouTube channel, 104k subs, video 3MMMdWs084A). Conifer browning: RHS (video 7D8HrFGdwGU). Hedge laying: Country Living UK (Hearst, 1.4M readers, video oo6FulXBj00). JET-RELATED-GUIDES updated on 9 existing articles. See reports/2026-08-26-content.md."
 }
