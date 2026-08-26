@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-08-25T08:00:00Z",
+  "lastAuditAt": "2026-08-26T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "note": "Audit 2026-08-25: 1 auto-fix (em-dash in how-to/index.html bare-root card, replaced with colon). 2 needs-review: YouTube proxy 403 (recurring, not dead videos); choosing-hedge-species-kent.html lacks WCA 1981 nesting callout — borderline, species-selection article. 43 how-to pages, 68 total. 3 new pages (honey-fungus-hedge, hedge-trimmer-maintenance, bare-root-vs-pot-grown) all pass: SEO, BreadcrumbList, sitemap, correct data-howto-cat. See reports/2026-08-25-audit.md.",
+  "note": "Audit 2026-08-26: 0 auto-fixes. 2 needs-review: YouTube proxy blocked (recurring, cannot verify from environment); choosing-hedge-species-kent.html missing WCA 1981 callout (carry-over, content decision). 46 how-to pages, 71 total. 3 new pages (hedge-vs-fence, conifer-going-brown, hedge-laying-kent) pass all checks. See reports/2026-08-26-audit.md.",
   "lastRunAt": "2026-08-26T00:00:00Z",
   "status": "success",
   "added": 3,
