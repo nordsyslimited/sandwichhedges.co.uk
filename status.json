@@ -3,12 +3,12 @@
   "auditStatus": "issues",
   "issueCount": 2,
   "note": "Audit 2026-08-26: 0 auto-fixes. 2 needs-review: YouTube proxy blocked (recurring, cannot verify from environment); choosing-hedge-species-kent.html missing WCA 1981 callout (carry-over, content decision). 46 how-to pages, 71 total. 3 new pages (hedge-vs-fence, conifer-going-brown, hedge-laying-kent) pass all checks. See reports/2026-08-26-audit.md.",
-  "lastRunAt": "2026-08-26T00:00:00Z",
+  "lastRunAt": "2026-08-27T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 46,
-  "contentNote": "2026-08-26: Added hedge-vs-fence-why-plant-a-hedge (Comparison, planting), conifer-hedge-going-brown (Decision Tree, conifers), hedge-laying-kent (Procedural, restoration/wildlife). YouTube proxy blocked; channel authority used as fallback. Hedge vs fence: RHS (official YouTube channel, 104k subs, video 3MMMdWs084A). Conifer browning: RHS (video 7D8HrFGdwGU). Hedge laying: Country Living UK (Hearst, 1.4M readers, video oo6FulXBj00). JET-RELATED-GUIDES updated on 9 existing articles. See reports/2026-08-26-content.md."
+  "totalOnSite": 49,
+  "contentNote": "2026-08-27: Added winter-hedge-care (Procedural, timing), spring-hedge-care (Checklist-first, timing/wildlife), reducing-an-oversized-hedge (Comparison, restoration/diy). YouTube proxy blocked; channel authority used as fallback. Winter: RHS (@The_RHS, 78k+ subs, video HaiwL5SVc28). Spring: Garden Ninja/Lee Burkhill BBC Garden Rescue (@Gardenninja, 75.6k subs, video _Dc3B2I7bu4). Oversized hedge: Garden Ninja (@Gardenninja, 75.6k subs, video wr5OTiTorSY, Feb 2026). JET-RELATED-GUIDES updated on 4 existing articles: when-to-trim-hedges, autumn-hedge-care, renovating-neglected-hedge. Carry-over: choosing-hedge-species-kent.html WCA callout still pending content decision. See reports/2026-08-27-content.md."
 }
