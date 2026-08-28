@@ -1,14 +1,14 @@
 {
   "lastAuditAt": "2026-08-27T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 3,
+  "issueCount": 2,
   "note": "Audit 2026-08-27: 6 auto-fixes on reducing-an-oversized-hedge.html (wrong CSS path, lang=en, phone number, pensioner discount, missing robots meta, missing GA4 consent mode). 3 needs-review: nav/footer template wrong in reducing-an-oversized-hedge (rebuild needed); choosing-hedge-species-kent.html WCA-1981 callout missing (carry-over); YouTube proxy blocked (recurring). 50 how-to pages, 73 total. See reports/2026-08-27-audit.md.",
-  "lastRunAt": "2026-08-27T08:00:00Z",
+  "lastRunAt": "2026-08-28T08:00:00Z",
   "status": "success",
-  "added": 0,
+  "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 50,
-  "contentNote": "2026-08-27 audit: Auto-fixed reducing-an-oversized-hedge.html (6 template errors from nightly generation using wrong template). Carry-overs: choosing-hedge-species-kent WCA callout, YouTube proxy blocks. All other checks clear."
+  "totalOnSite": 53,
+  "contentNote": "2026-08-28 run: Added hazel-hedge-care (Procedural, species/wildlife), box-hedge-alternatives (Comparison, species/planting), blackthorn-hedge-care (Checklist-first, species/wildlife). Updated JET-RELATED-GUIDES in 7 existing articles. Carry-overs: choosing-hedge-species-kent WCA callout, YouTube proxy blocks."
 }
