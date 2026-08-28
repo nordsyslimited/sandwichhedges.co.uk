@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-08-27T08:00:00Z",
+  "lastAuditAt": "2026-08-28T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "note": "Audit 2026-08-27: 6 auto-fixes on reducing-an-oversized-hedge.html (wrong CSS path, lang=en, phone number, pensioner discount, missing robots meta, missing GA4 consent mode). 3 needs-review: nav/footer template wrong in reducing-an-oversized-hedge (rebuild needed); choosing-hedge-species-kent.html WCA-1981 callout missing (carry-over); YouTube proxy blocked (recurring). 50 how-to pages, 73 total. See reports/2026-08-27-audit.md.",
+  "note": "Audit 2026-08-28: 0 auto-fixes. Site clean. 2 needs-review carry-overs: choosing-hedge-species-kent WCA-1981 callout missing (4th occurrence); YouTube proxy blocked (recurring, cannot verify 25 video embeds). 53 how-to articles, 78 pages total. See reports/2026-08-28-audit.md.",
   "lastRunAt": "2026-08-28T08:00:00Z",
   "status": "success",
   "added": 3,
