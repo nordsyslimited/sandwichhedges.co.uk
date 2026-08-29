@@ -2,13 +2,13 @@
   "lastAuditAt": "2026-08-28T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "note": "Audit 2026-08-28: 0 auto-fixes. Site clean. 2 needs-review carry-overs: choosing-hedge-species-kent WCA-1981 callout missing (4th occurrence); YouTube proxy blocked (recurring, cannot verify 25 video embeds). 53 how-to articles, 78 pages total. See reports/2026-08-28-audit.md.",
-  "lastRunAt": "2026-08-28T08:00:00Z",
+  "note": "Audit 2026-08-28: 0 auto-fixes. Site clean. 2 needs-review carry-overs: choosing-hedge-species-kent WCA-1981 callout missing (4th occurrence); YouTube proxy blocked (recurring, cannot verify video embeds). See reports/2026-08-28-audit.md.",
+  "lastRunAt": "2026-08-29T08:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 53,
-  "contentNote": "2026-08-28 run: Added hazel-hedge-care (Procedural, species/wildlife), box-hedge-alternatives (Comparison, species/planting), blackthorn-hedge-care (Checklist-first, species/wildlife). Updated JET-RELATED-GUIDES in 7 existing articles. Carry-overs: choosing-hedge-species-kent WCA callout, YouTube proxy blocks."
+  "totalOnSite": 56,
+  "contentNote": "2026-08-29 run: Added forsythia-hedge-care (Procedural, species/timing), pittosporum-hedge-care (Comparison, species/planting), osmanthus-burkwoodii-hedge-care (Decision-tree, species/planting). Updated JET-RELATED-GUIDES in 4 existing articles. Carry-overs: choosing-hedge-species-kent WCA callout, YouTube proxy blocks."
 }
