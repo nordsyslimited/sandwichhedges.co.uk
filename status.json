@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-08-28T08:00:00Z",
+  "lastAuditAt": "2026-08-29T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "note": "Audit 2026-08-28: 0 auto-fixes. Site clean. 2 needs-review carry-overs: choosing-hedge-species-kent WCA-1981 callout missing (4th occurrence); YouTube proxy blocked (recurring, cannot verify video embeds). See reports/2026-08-28-audit.md.",
+  "note": "Audit 2026-08-29: 2 auto-fixes (rosa-rugosa JSON-LD parse error fixed; 67 sitemap lastmod dates corrected to git log). 2 needs-review: choosing-hedge-species-kent WCA-1981 callout missing (5th occurrence); salt-tolerant-coastal-hedges-kent references nesting window but omits WCA-1981 citation and specific dates. YouTube proxy blocks video verification (recurring). See reports/2026-08-29-audit.md.",
   "lastRunAt": "2026-08-29T08:00:00Z",
   "status": "success",
   "added": 3,
