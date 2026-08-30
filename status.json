@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-08-29T08:00:00Z",
+  "lastAuditAt": "2026-08-30T08:30:00Z",
   "auditStatus": "issues",
-  "issueCount": 2,
-  "note": "choosing-hedge-species-kent.html missing WCA 1981 callout (carry-over); YouTube proxy blocked (recurring, channel authority used as fallback)",
+  "issueCount": 1,
+  "note": "choosing-hedge-species-kent.html missing WCA 1981 callout (carry-over, 3rd consecutive audit); YouTube proxy blocked (recurring environment limitation, not a site issue)",
   "lastRunAt": "2026-08-30T08:00:00Z",
   "status": "success",
   "added": 3,
