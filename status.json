@@ -2,13 +2,13 @@
   "lastAuditAt": "2026-08-29T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "note": "Audit 2026-08-29: 2 auto-fixes (rosa-rugosa JSON-LD parse error fixed; 67 sitemap lastmod dates corrected to git log). 2 needs-review: choosing-hedge-species-kent WCA-1981 callout missing (5th occurrence); salt-tolerant-coastal-hedges-kent references nesting window but omits WCA-1981 citation and specific dates. YouTube proxy blocks video verification (recurring). See reports/2026-08-29-audit.md.",
-  "lastRunAt": "2026-08-29T08:00:00Z",
+  "note": "choosing-hedge-species-kent.html missing WCA 1981 callout (carry-over); YouTube proxy blocked (recurring, channel authority used as fallback)",
+  "lastRunAt": "2026-08-30T08:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 56,
-  "contentNote": "2026-08-29 run: Added forsythia-hedge-care (Procedural, species/timing), pittosporum-hedge-care (Comparison, species/planting), osmanthus-burkwoodii-hedge-care (Decision-tree, species/planting). Updated JET-RELATED-GUIDES in 4 existing articles. Carry-overs: choosing-hedge-species-kent WCA callout, YouTube proxy blocks."
+  "totalOnSite": 59,
+  "contentNote": "2026-08-30 run: Added summer-hedge-care (Checklist-first, timing), hedges-for-privacy-kent (Procedural, planting), hedge-planting-spacing (Procedural, planting/diy). JET updated on: when-to-trim-hedges, autumn-hedge-care, choosing-hedge-species-kent, bare-root-vs-pot-grown-hedges, newly-planted-hedge-care."
 }
