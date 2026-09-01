@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-08-31T08:30:00Z",
+  "lastAuditAt": "2026-09-01T08:30:00Z",
   "auditStatus": "issues",
-  "issueCount": 1,
-  "note": "choosing-hedge-species-kent.html missing WCA 1981 callout (carry-over, 5th consecutive audit); YouTube proxy blocked (recurring environment limitation, not a site issue)",
+  "issueCount": 2,
+  "note": "2 needs-review: choosing-hedge-species-kent.html missing WCA 1981 callout (carry-over, 6th consecutive audit); box-blight-treatment.html possibly mis-categorised as species-only (should include pests). 3 em-dashes auto-fixed in new articles (trimming-conifer-hedges, dead-hedge-how-to, box-blight-treatment).",
   "lastRunAt": "2026-09-01T08:00:00Z",
   "status": "success",
   "added": 3,
