@@ -1,81 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url><loc>https://sandwichhedges.co.uk/</loc><changefreq>weekly</changefreq><lastmod>2026-07-16</lastmod><priority>1.0</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/about.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.7</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/contact.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/gallery.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.6</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/privacy.html</loc><changefreq>yearly</changefreq><lastmod>2026-07-16</lastmod><priority>0.2</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/</loc><changefreq>weekly</changefreq><lastmod>2026-08-24</lastmod><priority>1.0</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/about.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/contact.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/gallery.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/privacy.html</loc><changefreq>yearly</changefreq><lastmod>2026-08-24</lastmod><priority>0.2</priority></url>
 
   <!-- Services -->
-  <url><loc>https://sandwichhedges.co.uk/services/hedge-trimming.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.9</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/services/overgrown-hedge-rescue.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.9</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/services/hedge-species-guide.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/services/hedge-trimming.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.9</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/services/overgrown-hedge-rescue.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.9</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/services/hedge-species-guide.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
 
   <!-- Tree services -->
-  <url><loc>https://sandwichhedges.co.uk/services/tree/</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.9</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/services/tree/pruning.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/services/tree/crown-thinning.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-12</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/services/tree/crown-raising.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-12</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/services/tree/crown-reduction.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/services/tree/deadwooding.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/services/tree/</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.9</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/services/tree/pruning.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/services/tree/crown-thinning.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/services/tree/crown-raising.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/services/tree/crown-reduction.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/services/tree/deadwooding.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
 
   <!-- Areas -->
-  <url><loc>https://sandwichhedges.co.uk/areas/</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/areas/sandwich.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/areas/deal.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/areas/worth.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/areas/ash.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/areas/woodnesborough.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/areas/eastry.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/areas/sandwich-bay.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/areas/</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/areas/sandwich.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/areas/deal.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/areas/worth.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/areas/ash.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/areas/woodnesborough.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/areas/eastry.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/areas/sandwich-bay.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.8</priority></url>
 
   <!-- How-To Guides -->
-  <url><loc>https://sandwichhedges.co.uk/how-to/</loc><changefreq>weekly</changefreq><lastmod>2026-08-19</lastmod><priority>0.8</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/when-to-trim-hedges.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-12</lastmod><priority>0.7</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/privet-hedge-care.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-12</lastmod><priority>0.7</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/leylandii-rules.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-12</lastmod><priority>0.7</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/renovating-neglected-hedge.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-12</lastmod><priority>0.7</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/wildlife-friendly-trimming.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-12</lastmod><priority>0.7</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/hedge-heights-neighbour-law.html</loc><changefreq>monthly</changefreq><lastmod>2026-07-16</lastmod><priority>0.7</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/choosing-hedge-species-kent.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-12</lastmod><priority>0.7</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/trim-a-hedge-straight.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-12</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/</loc><changefreq>weekly</changefreq><lastmod>2026-08-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/salt-tolerant-coastal-hedges-kent.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-29</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/when-to-trim-hedges.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/privet-hedge-care.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/leylandii-rules.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-26</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/renovating-neglected-hedge.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-27</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/wildlife-friendly-trimming.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-28</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/hedge-heights-neighbour-law.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/choosing-hedge-species-kent.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-29</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/trim-a-hedge-straight.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.7</priority></url>
 
-  <url><loc>https://sandwichhedges.co.uk/how-to/composting-hedge-trimmings.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-12</lastmod><priority>0.7</priority></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/yew-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-12</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/choosing-a-hedge-trimmer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-12</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/laurel-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-12</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/box-tree-moth-caterpillar-damage.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-12</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/beech-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-13</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/topiary-hedge-shaping.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-13</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/planting-native-hedge-kent.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-13</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/hornbeam-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-14</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/hawthorn-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-14</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/holly-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-14</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/photinia-red-robin-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-15</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/griselinia-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-15</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/escallonia-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-15</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/box-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-16</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/portuguese-laurel-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-16</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/thuja-plicata-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-16</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/pyracantha-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-19</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/elaeagnus-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-19</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/lonicera-nitida-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-19</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/berberis-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-20</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/cotoneaster-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-20</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/feeding-hedges.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-20</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/hedge-aphids-treatment.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-21</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/lawson-cypress-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-21</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/hedge-care-summer-drought.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-21</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/rosa-rugosa-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-22</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/newly-planted-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-22</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/sharpening-hedge-shears.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-22</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/how-to-use-long-reach-hedge-trimmer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-23</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/overhanging-hedge-branches.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-23</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/autumn-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-23</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/composting-hedge-trimmings.html</loc><changefreq>monthly</changefreq><lastmod>2026-08-24</lastmod><priority>0.7</priority></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/yew-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/choosing-a-hedge-trimmer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/laurel-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/box-tree-moth-caterpillar-damage.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-28</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/beech-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/topiary-hedge-shaping.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-28</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/planting-native-hedge-kent.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-28</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/hornbeam-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/hawthorn-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-28</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/holly-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/photinia-red-robin-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/griselinia-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/escallonia-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/box-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-28</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/portuguese-laurel-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/thuja-plicata-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/pyracantha-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/elaeagnus-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/lonicera-nitida-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/berberis-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/cotoneaster-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/feeding-hedges.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/hedge-aphids-treatment.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/lawson-cypress-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/hedge-care-summer-drought.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/rosa-rugosa-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-29</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/newly-planted-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-26</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/sharpening-hedge-shears.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/how-to-use-long-reach-hedge-trimmer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/overhanging-hedge-branches.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/autumn-hedge-care.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-27</lastmod></url>
   <url><loc>https://sandwichhedges.co.uk/how-to/honey-fungus-hedge.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
   <url><loc>https://sandwichhedges.co.uk/how-to/hedge-trimmer-maintenance.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
-  <url><loc>https://sandwichhedges.co.uk/how-to/bare-root-vs-pot-grown-hedges.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-24</lastmod></url>
+  <url><loc>https://sandwichhedges.co.uk/how-to/bare-root-vs-pot-grown-hedges.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://sandwichhedges.co.uk/how-to/hedge-vs-fence-why-plant-a-hedge.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://sandwichhedges.co.uk/how-to/conifer-hedge-going-brown.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-26</lastmod></url>
   <url><loc>https://sandwichhedges.co.uk/how-to/hedge-laying-kent.html</loc><changefreq>monthly</changefreq><priority>0.7</priority><lastmod>2026-08-28</lastmod></url>
