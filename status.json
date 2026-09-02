@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-09-01T08:30:00Z",
+  "lastAuditAt": "2026-09-02T08:30:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "note": "2 needs-review: choosing-hedge-species-kent.html missing WCA 1981 callout (carry-over, 7th consecutive audit); box-blight-treatment.html possibly mis-categorised as species-only (should include pests). No em-dash fixes this run.",
+  "note": "2 needs-review: choosing-hedge-species-kent.html missing WCA 1981 callout (carry-over, 8th consecutive audit); box-blight-treatment.html possibly mis-categorised as species-only (2nd consecutive). Auto-fixed: banned word 'robust' in lavender-hedge-care.html JSON-LD.",
   "lastRunAt": "2026-09-02T08:00:00Z",
   "status": "success",
   "added": 3,
