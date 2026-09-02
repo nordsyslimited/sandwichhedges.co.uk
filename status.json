@@ -2,13 +2,13 @@
   "lastAuditAt": "2026-09-01T08:30:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "note": "2 needs-review: choosing-hedge-species-kent.html missing WCA 1981 callout (carry-over, 6th consecutive audit); box-blight-treatment.html possibly mis-categorised as species-only (should include pests). 3 em-dashes auto-fixed in new articles (trimming-conifer-hedges, dead-hedge-how-to, box-blight-treatment).",
-  "lastRunAt": "2026-09-01T08:00:00Z",
+  "note": "2 needs-review: choosing-hedge-species-kent.html missing WCA 1981 callout (carry-over, 7th consecutive audit); box-blight-treatment.html possibly mis-categorised as species-only (should include pests). No em-dash fixes this run.",
+  "lastRunAt": "2026-09-02T08:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 65,
-  "contentNote": "2026-09-01 run: Added box-blight-treatment (Procedural, species), trimming-conifer-hedges (Decision-tree, conifers/diy), dead-hedge-how-to (Checklist-first, wildlife/diy). JET updated on: box-hedge-care, box-tree-moth-caterpillar-damage, conifer-hedge-going-brown, leylandii-rules, wildlife-friendly-trimming, composting-hedge-trimmings."
+  "totalOnSite": 68,
+  "contentNote": "2026-09-02 run: Added viburnum-tinus-hedge-care (Procedural, species/wildlife), lavender-hedge-care (Checklist-first, species/timing/diy), choisya-hedge-care (Comparison, species/planting). JET updated on: osmanthus-burkwoodii-hedge-care, pittosporum-hedge-care, wildlife-friendly-trimming, salt-tolerant-coastal-hedges-kent, summer-hedge-care."
 }
