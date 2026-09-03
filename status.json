@@ -1,14 +1,14 @@
 {
   "lastAuditAt": "2026-09-02T08:30:00Z",
-  "auditStatus": "issues",
-  "issueCount": 2,
-  "note": "2 needs-review: choosing-hedge-species-kent.html missing WCA 1981 callout (carry-over, 8th consecutive audit); box-blight-treatment.html possibly mis-categorised as species-only (2nd consecutive). Auto-fixed: banned word 'robust' in lavender-hedge-care.html JSON-LD.",
-  "lastRunAt": "2026-09-02T08:00:00Z",
+  "auditStatus": "ok",
+  "issueCount": 0,
+  "note": "Carry-over needs-review: choosing-hedge-species-kent.html missing WCA 1981 callout (9th consecutive); box-blight-treatment.html possibly mis-categorised (3rd consecutive). Not auto-fixed this run.",
+  "lastRunAt": "2026-09-03T08:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 68,
-  "contentNote": "2026-09-02 run: Added viburnum-tinus-hedge-care (Procedural, species/wildlife), lavender-hedge-care (Checklist-first, species/timing/diy), choisya-hedge-care (Comparison, species/planting). JET updated on: osmanthus-burkwoodii-hedge-care, pittosporum-hedge-care, wildlife-friendly-trimming, salt-tolerant-coastal-hedges-kent, summer-hedge-care."
+  "totalOnSite": 71,
+  "contentNote": "2026-09-03 run: Added pleached-hedge-training (Procedural, diy), hedgerow-regulations-removal (Decision-tree, law), formal-vs-informal-hedge (Comparison, species/planting). JET updated on: topiary-hedge-shaping, wildlife-friendly-trimming, evergreen-vs-deciduous-hedge."
 }
