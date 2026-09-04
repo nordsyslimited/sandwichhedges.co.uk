@@ -1,14 +1,14 @@
 {
   "lastAuditAt": "2026-09-04T08:30:00Z",
   "auditStatus": "issues",
-  "issueCount": 11,
-  "note": "Auto-fixed 34 em-dash instances across 3 files (hedgerow-regulations-removal, autumn-hedge-care, overhanging-hedge-branches). Needs-review: 3 articles missing WCA 1981 callout (choosing-hedge-species-kent 10th consecutive; when-to-trim-hedges and salt-tolerant-coastal-hedges-kent new); 2 wrong data-howto-cat (box-blight-treatment 4th consecutive, formal-vs-informal-hedge new); 6 articles Article schema vs HowTo for numbered procedures; nav missing Tree Services on overgrown-hedge-rescue; privacy.html non-standard nav; video verification blocked at proxy.",
-  "lastRunAt": "2026-09-03T08:00:00Z",
+  "issueCount": 15,
+  "note": "Auto-fixed 45 em-dash instances across 5 files (hedgerow-regulations-removal 6, autumn-hedge-care 19, overhanging-hedge-branches 9, cloud-pruning-hedge 9, bay-laurel-hedge-care 2). Needs-review: 4 WCA 1981 callout issues (choosing-hedge-species-kent 11th consecutive; reducing-an-oversized-hedge no callout block; when-to-trim-hedges Act not named; salt-tolerant-coastal-hedges-kent Act not named); 2 data-howto-cat mismatches (box-blight-treatment 5th consecutive, formal-vs-informal-hedge new); 6 articles Article schema vs HowTo for numbered procedures; 2 nav issues (overgrown-hedge-rescue missing Tree Services, privacy.html non-standard nav); video verification blocked at proxy.",
+  "lastRunAt": "2026-09-04T08:30:00Z",
   "status": "success",
-  "added": 3,
+  "added": 0,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 71,
-  "contentNote": "2026-09-03 run: Added pleached-hedge-training (Procedural, diy), hedgerow-regulations-removal (Decision-tree, law), formal-vs-informal-hedge (Comparison, species/planting). JET updated on: topiary-hedge-shaping, wildlife-friendly-trimming, evergreen-vs-deciduous-hedge."
+  "totalOnSite": 74,
+  "contentNote": "2026-09-04 audit: 45 em-dash auto-fixes across 5 files. 15 needs-review items flagged."
 }
