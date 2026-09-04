@@ -1,14 +1,14 @@
 {
-  "lastAuditAt": "2026-09-02T08:30:00Z",
-  "auditStatus": "ok",
-  "issueCount": 0,
-  "note": "Carry-over needs-review: choosing-hedge-species-kent.html missing WCA 1981 callout (10th consecutive); box-blight-treatment.html possibly mis-categorised (4th consecutive). Not auto-fixed this run.",
-  "lastRunAt": "2026-09-04T08:00:00Z",
+  "lastAuditAt": "2026-09-04T08:30:00Z",
+  "auditStatus": "issues",
+  "issueCount": 5,
+  "note": "5 needs-review items: choosing-hedge-species-kent.html missing WCA 1981 callout (11th consecutive); reducing-an-oversized-hedge.html WCA named in prose but no callout block (new); when-to-trim-hedges.html callout present but Act not named by name (new); box-blight-treatment.html mis-categorised as species not pests (5th consecutive); YouTube video embeds unverifiable via network proxy.",
+  "lastRunAt": "2026-09-04T08:30:00Z",
   "status": "success",
-  "added": 3,
+  "added": 0,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
   "totalOnSite": 74,
-  "contentNote": "2026-09-04 run: Added cornus-dogwood-hedge-care (Procedural, species), cloud-pruning-hedge (Checklist-first, diy), bay-laurel-hedge-care (Comparison, species). JET updated on: topiary-hedge-shaping, yew-hedge-care, laurel-hedge-care, hazel-hedge-care."
+  "contentNote": "2026-09-04 audit: no auto-fixes applied. All technical checks clean."
 }
