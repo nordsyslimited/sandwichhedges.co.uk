@@ -2,13 +2,13 @@
   "lastAuditAt": "2026-09-02T08:30:00Z",
   "auditStatus": "ok",
   "issueCount": 0,
-  "note": "Carry-over needs-review: choosing-hedge-species-kent.html missing WCA 1981 callout (9th consecutive); box-blight-treatment.html possibly mis-categorised (3rd consecutive). Not auto-fixed this run.",
-  "lastRunAt": "2026-09-03T08:00:00Z",
+  "note": "Carry-over needs-review: choosing-hedge-species-kent.html missing WCA 1981 callout (10th consecutive); box-blight-treatment.html possibly mis-categorised (4th consecutive). Not auto-fixed this run.",
+  "lastRunAt": "2026-09-04T08:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 71,
-  "contentNote": "2026-09-03 run: Added pleached-hedge-training (Procedural, diy), hedgerow-regulations-removal (Decision-tree, law), formal-vs-informal-hedge (Comparison, species/planting). JET updated on: topiary-hedge-shaping, wildlife-friendly-trimming, evergreen-vs-deciduous-hedge."
+  "totalOnSite": 74,
+  "contentNote": "2026-09-04 run: Added cornus-dogwood-hedge-care (Procedural, species), cloud-pruning-hedge (Checklist-first, diy), bay-laurel-hedge-care (Comparison, species). JET updated on: topiary-hedge-shaping, yew-hedge-care, laurel-hedge-care, hazel-hedge-care."
 }
