@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-09-02T08:30:00Z",
-  "auditStatus": "ok",
-  "issueCount": 0,
-  "note": "Carry-over needs-review: choosing-hedge-species-kent.html missing WCA 1981 callout (9th consecutive); box-blight-treatment.html possibly mis-categorised (3rd consecutive). Not auto-fixed this run.",
+  "lastAuditAt": "2026-09-04T08:30:00Z",
+  "auditStatus": "issues",
+  "issueCount": 11,
+  "note": "Auto-fixed 34 em-dash instances across 3 files (hedgerow-regulations-removal, autumn-hedge-care, overhanging-hedge-branches). Needs-review: 3 articles missing WCA 1981 callout (choosing-hedge-species-kent 10th consecutive; when-to-trim-hedges and salt-tolerant-coastal-hedges-kent new); 2 wrong data-howto-cat (box-blight-treatment 4th consecutive, formal-vs-informal-hedge new); 6 articles Article schema vs HowTo for numbered procedures; nav missing Tree Services on overgrown-hedge-rescue; privacy.html non-standard nav; video verification blocked at proxy.",
   "lastRunAt": "2026-09-03T08:00:00Z",
   "status": "success",
   "added": 3,
