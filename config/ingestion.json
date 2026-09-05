@@ -49,10 +49,10 @@
   },
   "notifications": {
     "email": "sandwichhedges@gmail.com",
-    "channel": "TBD — no email-report workflow wired yet, see INGESTION.md"
+    "channel": "TBD - no email-report workflow wired yet, see INGESTION.md"
   },
   "triggers": {
-    "nightly": "TBD — created on claude.ai/code when the routine is set up",
-    "morning": "TBD — created on claude.ai/code when the routine is set up"
+    "nightly": "TBD - created on claude.ai/code when the routine is set up",
+    "morning": "TBD - created on claude.ai/code when the routine is set up"
   }
 }
