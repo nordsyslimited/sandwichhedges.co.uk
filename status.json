@@ -2,13 +2,13 @@
   "lastAuditAt": "2026-09-04T08:30:00Z",
   "auditStatus": "issues",
   "issueCount": 15,
-  "note": "Auto-fixed 45 em-dash instances across 5 files (hedgerow-regulations-removal 6, autumn-hedge-care 19, overhanging-hedge-branches 9, cloud-pruning-hedge 9, bay-laurel-hedge-care 2). Needs-review: 4 WCA 1981 callout issues (choosing-hedge-species-kent 11th consecutive; reducing-an-oversized-hedge no callout block; when-to-trim-hedges Act not named; salt-tolerant-coastal-hedges-kent Act not named); 2 data-howto-cat mismatches (box-blight-treatment 5th consecutive, formal-vs-informal-hedge new); 6 articles Article schema vs HowTo for numbered procedures; 2 nav issues (overgrown-hedge-rescue missing Tree Services, privacy.html non-standard nav); video verification blocked at proxy.",
-  "lastRunAt": "2026-09-04T08:30:00Z",
+  "note": "Auto-fixed 45 em-dash instances across 5 files (hedgerow-regulations-removal 6, autumn-hedge-care 19, overhanging-hedge-branches 9, cloud-pruning-hedge 9, bay-laurel-hedge-care 2). Needs-review: 4 WCA 1981 callout issues (choosing-hedge-species-kent 12th consecutive; reducing-an-oversized-hedge no callout block; when-to-trim-hedges Act not named; salt-tolerant-coastal-hedges-kent Act not named); 2 data-howto-cat mismatches (box-blight-treatment 6th consecutive, formal-vs-informal-hedge carry-over); 6 articles Article schema vs HowTo for numbered procedures; 2 nav issues (overgrown-hedge-rescue missing Tree Services, privacy.html non-standard nav); video verification blocked at proxy.",
+  "lastRunAt": "2026-09-05T08:30:00Z",
   "status": "success",
-  "added": 0,
+  "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 74,
-  "contentNote": "2026-09-04 audit: 45 em-dash auto-fixes across 5 files. 15 needs-review items flagged."
+  "totalOnSite": 77,
+  "contentNote": "2026-09-05 run: 3 new articles (field-maple-hedge-care, tapestry-hedge-kent, hedges-as-wildlife-corridors). 6 JET block updates across existing articles. 15 carry-over needs-review items."
 }
