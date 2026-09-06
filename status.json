@@ -3,12 +3,12 @@
   "auditStatus": "issues",
   "issueCount": 7,
   "note": "No auto-fixes today. 3 new articles (field-maple-hedge-care, tapestry-hedge-kent, hedges-as-wildlife-corridors) all clean. Resolved: reducing-an-oversized-hedge now has WCA-1981 callout. Needs-review: 3 WCA 1981 callout issues (choosing-hedge-species-kent ongoing, when-to-trim-hedges Act not named, salt-tolerant-coastal-hedges-kent Act not named); 2 data-howto-cat mismatches (box-blight-treatment species-only, formal-vs-informal species tag weak); 1 HowTo schema group for numbered-procedure articles; 1 video verification blocked at proxy.",
-  "lastRunAt": "2026-09-05T08:30:00Z",
+  "lastRunAt": "2026-09-06T00:00:00Z",
   "status": "success",
-  "added": 0,
+  "added": 2,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 77,
-  "contentNote": "2026-09-05 audit: clean run, no auto-fixes. 7 carry-over needs-review items (down from 15 - reducing-an-oversized-hedge WCA resolved). 3 new articles from yesterday all pass full audit checks."
+  "totalOnSite": 79,
+  "contentNote": "2026-09-06 content run: 2 new articles (recovering-an-over-cut-hedge, propagating-hedge-cuttings). Target was 3 but only 2 verifiable UK hedge-care videos found on uncovered topics; no fabrication. JET-RELATED-GUIDES updated in renovating-neglected-hedge and planting-bare-root-hedges. Hub index and sitemap updated. 7 audit carry-over items unchanged."
 }
