@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-09-05T08:30:00Z",
+  "lastAuditAt": "2026-09-06T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 7,
-  "note": "No auto-fixes today. 3 new articles (field-maple-hedge-care, tapestry-hedge-kent, hedges-as-wildlife-corridors) all clean. Resolved: reducing-an-oversized-hedge now has WCA-1981 callout. Needs-review: 3 WCA 1981 callout issues (choosing-hedge-species-kent ongoing, when-to-trim-hedges Act not named, salt-tolerant-coastal-hedges-kent Act not named); 2 data-howto-cat mismatches (box-blight-treatment species-only, formal-vs-informal species tag weak); 1 HowTo schema group for numbered-procedure articles; 1 video verification blocked at proxy.",
+  "note": "3 sitemap lastmod dates auto-fixed (how-to/, planting-bare-root-hedges, renovating-neglected-hedge). 7 needs-review carry-overs: 3 WCA-1981 callout gaps (choosing-hedge-species-kent, when-to-trim-hedges Act not named, salt-tolerant-coastal Act not named); 2 data-howto-cat flags (box-blight-treatment species-only, formal-vs-informal species weak); 1 HowTo schema judgment (planting-bare-root-hedges etc.); 1 YouTube verification blocked at proxy. No new issues found.",
   "lastRunAt": "2026-09-06T00:00:00Z",
   "status": "success",
   "added": 2,
