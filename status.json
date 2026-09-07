@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-09-06T08:00:00Z",
+  "lastAuditAt": "2026-09-07T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 7,
-  "note": "3 sitemap lastmod dates auto-fixed (how-to/, planting-bare-root-hedges, renovating-neglected-hedge). 7 needs-review carry-overs: 3 WCA-1981 callout gaps (choosing-hedge-species-kent, when-to-trim-hedges Act not named, salt-tolerant-coastal Act not named); 2 data-howto-cat flags (box-blight-treatment species-only, formal-vs-informal species weak); 1 HowTo schema judgment (planting-bare-root-hedges etc.); 1 YouTube verification blocked at proxy. No new issues found.",
+  "issueCount": 5,
+  "note": "No auto-fixes needed — robots, SEO, BreadcrumbList, sitemap, em-dashes, filler words all clean. 5 needs-review: 3 data-howto-cat flags (box-blight-treatment missing pests cat; formal-vs-informal weak species/planting fit; pruning-an-overgrown-shrub tag text vs cat mismatch); 1 reducing-an-oversized-hedge root-relative path inconsistency (works on server, not in local open-as-file); 1 YouTube verification proxy-blocked carry-over. WCA-1981 callout gaps (choosing-hedge-species-kent, when-to-trim-hedges, salt-tolerant-coastal) resolved.",
   "lastRunAt": "2026-09-07T00:00:00Z",
   "status": "success",
   "added": 2,
