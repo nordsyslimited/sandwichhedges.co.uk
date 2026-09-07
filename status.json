@@ -3,12 +3,12 @@
   "auditStatus": "issues",
   "issueCount": 7,
   "note": "3 sitemap lastmod dates auto-fixed (how-to/, planting-bare-root-hedges, renovating-neglected-hedge). 7 needs-review carry-overs: 3 WCA-1981 callout gaps (choosing-hedge-species-kent, when-to-trim-hedges Act not named, salt-tolerant-coastal Act not named); 2 data-howto-cat flags (box-blight-treatment species-only, formal-vs-informal species weak); 1 HowTo schema judgment (planting-bare-root-hedges etc.); 1 YouTube verification blocked at proxy. No new issues found.",
-  "lastRunAt": "2026-09-06T00:00:00Z",
+  "lastRunAt": "2026-09-07T00:00:00Z",
   "status": "success",
   "added": 2,
-  "skipped": 0,
+  "skipped": 1,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 79,
-  "contentNote": "2026-09-06 content run: 2 new articles (recovering-an-over-cut-hedge, propagating-hedge-cuttings). Target was 3 but only 2 verifiable UK hedge-care videos found on uncovered topics; no fabrication. JET-RELATED-GUIDES updated in renovating-neglected-hedge and planting-bare-root-hedges. Hub index and sitemap updated. 7 audit carry-over items unchanged."
+  "totalOnSite": 81,
+  "contentNote": "2026-09-07 content run: 2 new articles (filling-gaps-in-hedges, lollipop-topiary-training). Target was 3 but only 2 verifiable UK hedge-care videos found on uncovered topics; no fabrication. JET-RELATED-GUIDES updated in renovating-neglected-hedge, recovering-an-over-cut-hedge, topiary-hedge-shaping, cloud-pruning-hedge. Hub index and sitemap updated. 7 audit carry-over items unchanged. Both new articles name Wildlife and Countryside Act 1981 explicitly."
 }
