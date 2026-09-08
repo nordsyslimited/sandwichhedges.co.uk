@@ -3,12 +3,12 @@
   "auditStatus": "issues",
   "issueCount": 5,
   "note": "No auto-fixes needed — robots, SEO, BreadcrumbList, sitemap, em-dashes, filler words all clean. 5 needs-review: 3 data-howto-cat flags (box-blight-treatment missing pests cat; formal-vs-informal weak species/planting fit; pruning-an-overgrown-shrub tag text vs cat mismatch); 1 reducing-an-oversized-hedge root-relative path inconsistency (works on server, not in local open-as-file); 1 YouTube verification proxy-blocked carry-over. WCA-1981 callout gaps (choosing-hedge-species-kent, when-to-trim-hedges, salt-tolerant-coastal) resolved.",
-  "lastRunAt": "2026-09-07T00:00:00Z",
+  "lastRunAt": "2026-09-08T00:00:00Z",
   "status": "success",
-  "added": 2,
-  "skipped": 1,
+  "added": 3,
+  "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 81,
-  "contentNote": "2026-09-07 content run: 2 new articles (filling-gaps-in-hedges, lollipop-topiary-training). Target was 3 but only 2 verifiable UK hedge-care videos found on uncovered topics; no fabrication. JET-RELATED-GUIDES updated in renovating-neglected-hedge, recovering-an-over-cut-hedge, topiary-hedge-shaping, cloud-pruning-hedge. Hub index and sitemap updated. 7 audit carry-over items unchanged. Both new articles name Wildlife and Countryside Act 1981 explicitly."
+  "totalOnSite": 84,
+  "contentNote": "2026-09-08 content run: 3 new articles (hedge-cutting-profile, hand-shears-vs-hedge-trimmer, hedge-trimming-safety-checklist). Videos: STIHL GB (8i1bN6Q3ykw) for profile; Pots & Trowels CTpjYgBxfzw for shears vs trimmer; Pots & Trowels pbLr1l7uNrs for safety checklist. JET-RELATED-GUIDES updated in trim-a-hedge-straight, choosing-a-hedge-trimmer, wildlife-friendly-trimming, sharpening-hedge-shears. Hub index and sitemap updated. 5 audit carry-over items unchanged. YouTube direct verification still proxy-blocked (carry-over). All 3 new articles include Wildlife and Countryside Act 1981 nesting season callout."
 }
