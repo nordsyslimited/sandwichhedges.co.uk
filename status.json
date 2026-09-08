@@ -1,14 +1,14 @@
 {
-  "lastAuditAt": "2026-09-07T08:00:00Z",
+  "lastAuditAt": "2026-09-08T08:15:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "note": "No auto-fixes needed — robots, SEO, BreadcrumbList, sitemap, em-dashes, filler words all clean. 5 needs-review: 3 data-howto-cat flags (box-blight-treatment missing pests cat; formal-vs-informal weak species/planting fit; pruning-an-overgrown-shrub tag text vs cat mismatch); 1 reducing-an-oversized-hedge root-relative path inconsistency (works on server, not in local open-as-file); 1 YouTube verification proxy-blocked carry-over. WCA-1981 callout gaps (choosing-hedge-species-kent, when-to-trim-hedges, salt-tolerant-coastal) resolved.",
+  "issueCount": 7,
+  "note": "1 auto-fix: sitemap how-to/ lastmod updated 2026-09-06→2026-09-08. 7 needs-review: 3 data-howto-cat carry-overs (box-blight-treatment missing pests; formal-vs-informal weak species/planting; pruning-an-overgrown-shrub tag vs cat mismatch); 1 reducing-an-oversized-hedge root-relative nav paths; 1 YouTube proxy-blocked; 2 NEW — when-to-trim-hedges names nesting dates but omits 'Wildlife and Countryside Act 1981' (HIGH); salt-tolerant-coastal-hedges-kent delegates WCA by link only (LOW). All SEO, BreadcrumbList, robots, em-dashes, filler, canonicals clean.",
   "lastRunAt": "2026-09-08T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 84,
-  "contentNote": "2026-09-08 content run: 3 new articles (hedge-cutting-profile, hand-shears-vs-hedge-trimmer, hedge-trimming-safety-checklist). Videos: STIHL GB (8i1bN6Q3ykw) for profile; Pots & Trowels CTpjYgBxfzw for shears vs trimmer; Pots & Trowels pbLr1l7uNrs for safety checklist. JET-RELATED-GUIDES updated in trim-a-hedge-straight, choosing-a-hedge-trimmer, wildlife-friendly-trimming, sharpening-hedge-shears. Hub index and sitemap updated. 5 audit carry-over items unchanged. YouTube direct verification still proxy-blocked (carry-over). All 3 new articles include Wildlife and Countryside Act 1981 nesting season callout."
+  "totalOnSite": 85,
+  "contentNote": "2026-09-08 content run: 3 new articles (hedge-cutting-profile, hand-shears-vs-hedge-trimmer, hedge-trimming-safety-checklist). Videos: STIHL GB (8i1bN6Q3ykw) for profile; Pots & Trowels CTpjYgBxfzw for shears vs trimmer; Pots & Trowels pbLr1l7uNrs for safety checklist. JET-RELATED-GUIDES updated in trim-a-hedge-straight, choosing-a-hedge-trimmer, wildlife-friendly-trimming, sharpening-hedge-shears. Hub index and sitemap updated. YouTube direct verification still proxy-blocked (carry-over)."
 }
