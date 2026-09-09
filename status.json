@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-09-08T08:15:00Z",
+  "lastAuditAt": "2026-09-09T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 7,
-  "note": "1 auto-fix: sitemap how-to/ lastmod updated 2026-09-06→2026-09-08. 7 needs-review: 3 data-howto-cat carry-overs (box-blight-treatment missing pests; formal-vs-informal weak species/planting; pruning-an-overgrown-shrub-or-bush tag vs cat mismatch); 1 reducing-an-oversized-hedge root-relative nav paths; 1 YouTube proxy-blocked; 2 NEW — when-to-trim-hedges names nesting dates but omits 'Wildlife and Countryside Act 1981' (HIGH); salt-tolerant-coastal-hedges-kent delegates WCA by link only (LOW). All SEO, BreadcrumbList, robots, em-dashes, filler, canonicals clean.",
+  "note": "0 auto-fixes today. 7 needs-review (all carry-overs, no new issues): when-to-trim-hedges missing WCA 1981 callout (HIGH); salt-tolerant-coastal-hedges-kent delegates WCA by link only (LOW); reducing-an-oversized-hedge root-relative nav paths; box-blight-treatment missing pests category; pruning-an-overgrown-shrub-or-bush tag vs cat mismatch; YouTube proxy-blocked (3 new video URLs unverified: krSavU_qcVc, yI1l2YhevaU, kJbDETSMtG8); formal-vs-informal-hedge category borderline. 3 new articles (spiral-topiary-training, pruning-evergreen-hedge-shrubs, yew-box-ball-care) all clean: WCA callout, JSON-LD, BreadcrumbList, sitemap. All SEO, robots, em-dashes, filler, canonicals clean.",
   "lastRunAt": "2026-09-09T00:00:00Z",
   "status": "success",
   "added": 3,
