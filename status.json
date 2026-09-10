@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-09-09T08:00:00Z",
+  "lastAuditAt": "2026-09-10T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 7,
-  "note": "0 auto-fixes today. 7 needs-review (all carry-overs, no new issues): when-to-trim-hedges missing WCA 1981 callout (HIGH); salt-tolerant-coastal-hedges-kent delegates WCA by link only (LOW); reducing-an-oversized-hedge root-relative nav paths; box-blight-treatment missing pests category; pruning-an-overgrown-shrub-or-bush tag vs cat mismatch; YouTube proxy-blocked (4 unverified video URLs: krSavU_qcVc, yI1l2YhevaU, kJbDETSMtG8 carry-over; -pBd6gcoGOc weigela new today); formal-vs-informal-hedge category borderline.",
+  "note": "13 em-dashes auto-fixed across 5 files (index, hedge-cutting-mistakes, trim-a-hedge-straight, weigela-hedge-care, hedge-cutting-profile). 7 needs-review all carry-overs: when-to-trim-hedges missing WCA 1981 callout box (HIGH); salt-tolerant-coastal-hedges-kent WCA by link only (LOW); reducing-an-oversized-hedge root-relative nav paths (LOW); box-blight-treatment missing pests category (MEDIUM); pruning-an-overgrown-shrub-or-bush tag vs cat mismatch (LOW); 4 YouTube videos proxy-blocked/unverified (MEDIUM); formal-vs-informal-hedge category borderline (LOW).",
   "lastRunAt": "2026-09-10T00:00:00Z",
   "status": "success",
   "added": 3,
