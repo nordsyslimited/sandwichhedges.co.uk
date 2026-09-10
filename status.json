@@ -2,13 +2,13 @@
   "lastAuditAt": "2026-09-09T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 7,
-  "note": "0 auto-fixes today. 7 needs-review (all carry-overs, no new issues): when-to-trim-hedges missing WCA 1981 callout (HIGH); salt-tolerant-coastal-hedges-kent delegates WCA by link only (LOW); reducing-an-oversized-hedge root-relative nav paths; box-blight-treatment missing pests category; pruning-an-overgrown-shrub-or-bush tag vs cat mismatch; YouTube proxy-blocked (3 new video URLs unverified: krSavU_qcVc, yI1l2YhevaU, kJbDETSMtG8); formal-vs-informal-hedge category borderline. 3 new articles (spiral-topiary-training, pruning-evergreen-hedge-shrubs, yew-box-ball-care) all clean: WCA callout, JSON-LD, BreadcrumbList, sitemap. All SEO, robots, em-dashes, filler, canonicals clean.",
-  "lastRunAt": "2026-09-09T00:00:00Z",
+  "note": "0 auto-fixes today. 7 needs-review (all carry-overs, no new issues): when-to-trim-hedges missing WCA 1981 callout (HIGH); salt-tolerant-coastal-hedges-kent delegates WCA by link only (LOW); reducing-an-oversized-hedge root-relative nav paths; box-blight-treatment missing pests category; pruning-an-overgrown-shrub-or-bush tag vs cat mismatch; YouTube proxy-blocked (4 unverified video URLs: krSavU_qcVc, yI1l2YhevaU, kJbDETSMtG8 carry-over; -pBd6gcoGOc weigela new today); formal-vs-informal-hedge category borderline.",
+  "lastRunAt": "2026-09-10T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 88,
-  "contentNote": "2026-09-09 content run: 3 new articles (spiral-topiary-training, pruning-evergreen-hedge-shrubs, yew-box-ball-care). Videos: BBC Great British Garden Revival (krSavU_qcVc) for spiral topiary; Pots & Trowels (yI1l2YhevaU) for pruning evergreen shrubs; Pots & Trowels (kJbDETSMtG8) for yew-box-ball-care. JET-RELATED-GUIDES updated in topiary-hedge-shaping, lollipop-topiary-training. Hub index and sitemap updated. YouTube direct verification still proxy-blocked (carry-over). Macro-structure rotation: procedural / checklist-first / comparison."
+  "totalOnSite": 91,
+  "contentNote": "2026-09-10 content run: 3 new articles (ceanothus-hedge-care, hedge-cutting-mistakes, weigela-hedge-care). Videos: RHS (yN1uO689-Ww) for ceanothus; RHS (HaiwL5SVc28) for hedge-cutting-mistakes; unknown channel (-pBd6gcoGOc) for weigela — channel unverified, noted in article and report. JET-RELATED-GUIDES updated in forsythia, escallonia, trim-a-hedge-straight, hedge-cutting-profile, rosa-rugosa. Hub index and sitemap updated. YouTube direct verification still proxy-blocked (carry-over). Macro-structure rotation: comparison (ceanothus) / checklist-first (hedge-cutting-mistakes) / decision-tree (weigela)."
 }
