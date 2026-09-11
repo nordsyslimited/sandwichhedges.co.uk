@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-09-10T08:00:00Z",
+  "lastAuditAt": "2026-09-11T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 7,
-  "note": "13 em-dashes auto-fixed across 5 files (index, hedge-cutting-mistakes, trim-a-hedge-straight, weigela-hedge-care, hedge-cutting-profile). 7 needs-review all carry-overs: when-to-trim-hedges missing WCA 1981 callout box (HIGH); salt-tolerant-coastal-hedges-kent WCA by link only (LOW); reducing-an-oversized-hedge root-relative nav paths (LOW); box-blight-treatment missing pests category (MEDIUM); pruning-an-overgrown-shrub-or-bush tag vs cat mismatch (LOW); 4 YouTube videos proxy-blocked/unverified (MEDIUM); formal-vs-informal-hedge category borderline (LOW).",
+  "issueCount": 4,
+  "note": "No auto-fixes required. 3 new articles (hebe, aucuba, rosemary) pass all checks. 4 carry-over needs-review: box-blight-treatment missing pests category (MEDIUM); 14 YouTube videos proxy-blocked/unverifiable (MEDIUM); salt-tolerant-coastal-hedges-kent WCA by link only (LOW); formal-vs-informal-hedge species category tag misleading (LOW). Issue count drops 7→4: when-to-trim-hedges WCA callout confirmed present (was HIGH, resolved); reducing-an-oversized-hedge nav flag was false positive.",
   "lastRunAt": "2026-09-11T00:00:00Z",
   "status": "success",
   "added": 3,
