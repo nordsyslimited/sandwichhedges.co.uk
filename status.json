@@ -3,12 +3,12 @@
   "auditStatus": "issues",
   "issueCount": 7,
   "note": "13 em-dashes auto-fixed across 5 files (index, hedge-cutting-mistakes, trim-a-hedge-straight, weigela-hedge-care, hedge-cutting-profile). 7 needs-review all carry-overs: when-to-trim-hedges missing WCA 1981 callout box (HIGH); salt-tolerant-coastal-hedges-kent WCA by link only (LOW); reducing-an-oversized-hedge root-relative nav paths (LOW); box-blight-treatment missing pests category (MEDIUM); pruning-an-overgrown-shrub-or-bush tag vs cat mismatch (LOW); 4 YouTube videos proxy-blocked/unverified (MEDIUM); formal-vs-informal-hedge category borderline (LOW).",
-  "lastRunAt": "2026-09-10T00:00:00Z",
+  "lastRunAt": "2026-09-11T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 91,
-  "contentNote": "2026-09-10 content run: 3 new articles (ceanothus-hedge-care, hedge-cutting-mistakes, weigela-hedge-care). Videos: RHS (yN1uO689-Ww) for ceanothus; RHS (HaiwL5SVc28) for hedge-cutting-mistakes; unknown channel (-pBd6gcoGOc) for weigela — channel unverified, noted in article and report. JET-RELATED-GUIDES updated in forsythia, escallonia, trim-a-hedge-straight, hedge-cutting-profile, rosa-rugosa. Hub index and sitemap updated. YouTube direct verification still proxy-blocked (carry-over). Macro-structure rotation: comparison (ceanothus) / checklist-first (hedge-cutting-mistakes) / decision-tree (weigela)."
+  "totalOnSite": 94,
+  "contentNote": "2026-09-11 content run: 3 new articles (hebe-hedge-care, aucuba-japonica-hedge-care, rosemary-hedge-care). Videos: Crocus (Avmb6RpdPJ4) for hebe — channel verified; unknown channel (mOFtxs_h5go) for aucuba — unverified, noted; unknown channel (jLPHAXt5tdw) for rosemary — unverified, noted. JET-RELATED-GUIDES updated in lavender-hedge-care, laurel-hedge-care, choosing-hedge-species-kent, salt-tolerant-coastal-hedges-kent. Hub index and sitemap updated. YouTube direct verification still proxy-blocked (carry-over, third run). Macro-structure rotation: procedural (hebe) / checklist-first (aucuba) / comparison (rosemary)."
 }
