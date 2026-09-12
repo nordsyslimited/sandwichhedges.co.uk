@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-09-11T08:00:00Z",
+  "lastAuditAt": "2026-09-12T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "note": "No auto-fixes required. 3 new articles (hebe, aucuba, rosemary) pass all checks. 4 carry-over needs-review: box-blight-treatment missing pests category (MEDIUM); 14 YouTube videos proxy-blocked/unverifiable (MEDIUM); salt-tolerant-coastal-hedges-kent WCA by link only (LOW); formal-vs-informal-hedge species category tag misleading (LOW). Issue count drops 7→4: when-to-trim-hedges WCA callout confirmed present (was HIGH, resolved); reducing-an-oversized-hedge nav flag was false positive.",
+  "issueCount": 5,
+  "note": "No auto-fixes required. 3 new articles (phormium, elder, bamboo) pass all checks. 5 needs-review: box-blight-treatment missing pests category (MEDIUM, 5th run); 17 YouTube videos proxy-blocked/unverifiable (MEDIUM, 5th run); salt-tolerant-coastal-hedges-kent WCA by link only (LOW, 3rd run); formal-vs-informal-hedge species category tag (LOW, 2nd run); pruning-an-overgrown-shrub howto-tag 'Comparison' vs data-howto-cat='diy' mismatch (LOW, new). 97 how-to pages, all in sitemap, all passing SEO/JSON-LD.",
   "lastRunAt": "2026-09-12T00:00:00Z",
   "status": "success",
   "added": 3,
@@ -10,5 +10,8 @@
   "failed": 0,
   "durationSec": 0,
   "totalOnSite": 97,
-  "contentNote": "2026-09-12 content run: 3 new articles (bamboo-screening-kent, elder-hedge-care, phormium-garden-screening). Videos: unknown channel (opsgvRpS4fk) for bamboo — unverified, noted; unknown channel (_ikLD92cXkY) for elder — unverified, noted; JohnyboyHow (r-rUCADJ8sM) for phormium — unverified, noted (US channel disqualified). JET-RELATED-GUIDES updated in hedges-for-privacy-kent, wildlife-friendly-trimming, salt-tolerant-coastal-hedges-kent, planting-native-hedge-kent. Hub index and sitemap updated. YouTube direct verification still proxy-blocked (carry-over, fourth run). Macro-structure rotation: procedural (bamboo) / comparison (elder) / decision-tree (phormium)."
+  "contentNote": "2026-09-12 content run: 3 new articles (bamboo-screening-kent, elder-hedge-care, phormium-garden-screening). Videos: unknown channel (opsgvRpS4fk) for bamboo — unverified, noted; unknown channel (_ikLD92cXkY) for elder — unverified, noted; JohnyboyHow (r-rUCADJ8sM) for phormium — unverified, noted (US channel disqualified). JET-RELATED-GUIDES updated in hedges-for-privacy-kent, wildlife-friendly-trimming, salt-tolerant-coastal-hedges-kent, planting-native-hedge-kent. Hub index and sitemap updated. YouTube direct verification still proxy-blocked (carry-over, fifth run). Macro-structure rotation: procedural (bamboo) / comparison (elder) / decision-tree (phormium).",
+  "lastAuditRunAt": "2026-09-12T08:00:00Z",
+  "auditAutoFixed": 0,
+  "auditNote": "Clean run. 122 HTML pages checked. No em-dashes, no banned words, no missing sitemap entries, no missing BreadcrumbList, no broken internal links, no missing SEO tags. 5 needs-review items (4 carry-over, 1 new)."
 }
