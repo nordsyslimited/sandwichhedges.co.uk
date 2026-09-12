@@ -1,14 +1,14 @@
 {
-  "lastAuditAt": "2026-09-08T08:15:00Z",
+  "lastAuditAt": "2026-09-11T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 7,
-  "note": "1 auto-fix: sitemap how-to/ lastmod updated 2026-09-06→2026-09-08. 7 needs-review: 3 data-howto-cat carry-overs (box-blight-treatment missing pests; formal-vs-informal weak species/planting; pruning-an-overgrown-shrub tag vs cat mismatch); 1 reducing-an-oversized-hedge root-relative nav paths; 1 YouTube proxy-blocked; 2 NEW — when-to-trim-hedges names nesting dates but omits 'Wildlife and Countryside Act 1981' (HIGH); salt-tolerant-coastal-hedges-kent delegates WCA by link only (LOW). All SEO, BreadcrumbList, robots, em-dashes, filler, canonicals clean.",
-  "lastRunAt": "2026-09-08T00:00:00Z",
+  "issueCount": 4,
+  "note": "No auto-fixes required. 3 new articles (hebe, aucuba, rosemary) pass all checks. 4 carry-over needs-review: box-blight-treatment missing pests category (MEDIUM); 14 YouTube videos proxy-blocked/unverifiable (MEDIUM); salt-tolerant-coastal-hedges-kent WCA by link only (LOW); formal-vs-informal-hedge species category tag misleading (LOW). Issue count drops 7→4: when-to-trim-hedges WCA callout confirmed present (was HIGH, resolved); reducing-an-oversized-hedge nav flag was false positive.",
+  "lastRunAt": "2026-09-12T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "totalOnSite": 85,
-  "contentNote": "2026-09-08 content run: 3 new articles (hedge-cutting-profile, hand-shears-vs-hedge-trimmer, hedge-trimming-safety-checklist). Videos: STIHL GB (8i1bN6Q3ykw) for profile; Pots & Trowels CTpjYgBxfzw for shears vs trimmer; Pots & Trowels pbLr1l7uNrs for safety checklist. JET-RELATED-GUIDES updated in trim-a-hedge-straight, choosing-a-hedge-trimmer, wildlife-friendly-trimming, sharpening-hedge-shears. Hub index and sitemap updated. YouTube direct verification still proxy-blocked (carry-over)."
+  "totalOnSite": 97,
+  "contentNote": "2026-09-12 content run: 3 new articles (bamboo-screening-kent, elder-hedge-care, phormium-garden-screening). Videos: unknown channel (opsgvRpS4fk) for bamboo — unverified, noted; unknown channel (_ikLD92cXkY) for elder — unverified, noted; JohnyboyHow (r-rUCADJ8sM) for phormium — unverified, noted (US channel disqualified). JET-RELATED-GUIDES updated in hedges-for-privacy-kent, wildlife-friendly-trimming, salt-tolerant-coastal-hedges-kent, planting-native-hedge-kent. Hub index and sitemap updated. YouTube direct verification still proxy-blocked (carry-over, fourth run). Macro-structure rotation: procedural (bamboo) / comparison (elder) / decision-tree (phormium)."
 }
