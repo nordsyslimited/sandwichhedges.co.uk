@@ -8,10 +8,10 @@
   "note": "2026-09-13 content run: 3 new articles (mulching-hedges, instant-hedging-guide, preparing-hedges-for-winter). Structures: checklist-first / comparison / procedural. Videos: RHS mulches (0LzKGDPPFpk) — RHS channel strong UK authority; BBC Gardeners World Live/ReadyHedge (9BeM_nk5U18) — BBC channel strong UK authority; STIHL winter hedge prep (VMvKi59EkKc) — STIHL GB channel strong UK authority. All unverified by direct view (YouTube proxy-blocked sixth run). JET-RELATED-GUIDES updated in feeding-hedges, bare-root-vs-pot-grown-hedges, autumn-hedge-care, griselinia-hedge-care.",
   "totalOnSite": 100,
   "contentNote": "2026-09-13 content run: 3 new articles (mulching-hedges, instant-hedging-guide, preparing-hedges-for-winter). Structures: checklist-first / comparison / procedural. Videos: RHS mulches (0LzKGDPPFpk), BBC GWLive/ReadyHedge (9BeM_nk5U18), STIHL winter prep (VMvKi59EkKc) — all channel-authority verified, YouTube proxy-blocked (sixth run). JET-RELATED-GUIDES updated in 4 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-12T08:00:00Z",
+  "lastAuditAt": "2026-09-13T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "lastAuditRunAt": "2026-09-12T08:00:00Z",
-  "auditAutoFixed": 0,
-  "auditNote": "Clean run. 122 HTML pages checked. No em-dashes, no banned words, no missing sitemap entries, no missing BreadcrumbList, no broken internal links, no missing SEO tags. 5 needs-review items (4 carry-over, 1 new)."
+  "lastAuditRunAt": "2026-09-13T08:00:00Z",
+  "auditAutoFixed": 2,
+  "auditNote": "2 auto-fixes: em-dash → colon in video titles in bamboo-screening-kent.html and elder-hedge-care.html (missed by prior audit). Sitemap lastmod updated for both. 5 needs-review items all carry-overs (unchanged). 125 HTML pages checked."
 }
