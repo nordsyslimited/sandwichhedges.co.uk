@@ -8,10 +8,10 @@
   "note": "2026-09-14 content run: 3 new articles (euonymus-hedge-care, hedge-noise-reduction-kent, formative-hedge-pruning). Structures: procedural / comparison / checklist-first. Videos: Gardening UK beginner tips (tIqbas7abVU) — same channel as prior site embeds, credible; RHS environment/hedges (D3N5yyWsbpw) — RHS channel verified UK authority; CFE/Hedgerow Week new hedge pruning (PPKPjohwTO0) — NFU/GWCT-backed UK initiative. All unverified by direct view (YouTube proxy-blocked seventh run). JET-RELATED-GUIDES updated in pruning-evergreen-hedge-shrubs, newly-planted-hedge-care, hedges-for-privacy-kent, hedge-vs-fence-why-plant-a-hedge.",
   "totalOnSite": 103,
   "contentNote": "2026-09-14 content run: 3 new articles (euonymus-hedge-care, hedge-noise-reduction-kent, formative-hedge-pruning). Structures: procedural / comparison / checklist-first. Videos: Gardening UK (tIqbas7abVU), RHS (D3N5yyWsbpw), CFE Hedgerow Week (PPKPjohwTO0) — all channel-authority verified via web search, YouTube proxy-blocked (seventh run). JET-RELATED-GUIDES updated in 4 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-13T08:00:00Z",
+  "lastAuditAt": "2026-09-14T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "lastAuditRunAt": "2026-09-13T08:00:00Z",
-  "auditAutoFixed": 2,
-  "auditNote": "2 auto-fixes: em-dash → colon in video titles in bamboo-screening-kent.html and elder-hedge-care.html (missed by prior audit). Sitemap lastmod updated for both. 5 needs-review items all carry-overs (unchanged). 125 HTML pages checked."
+  "issueCount": 6,
+  "lastAuditRunAt": "2026-09-14T08:00:00Z",
+  "auditAutoFixed": 0,
+  "auditNote": "No auto-fixes needed. 1 new finding: space-separated data-howto-cat in elder-hedge-care and bamboo-screening-kent index cards breaks JS filter for secondary tabs. 5 carry-overs unchanged. 128 HTML pages checked."
 }
