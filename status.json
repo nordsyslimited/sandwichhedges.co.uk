@@ -8,10 +8,10 @@
   "note": "2026-09-15 content run: 3 new articles (hedge-planting-clay-soil-kent, beech-vs-hornbeam-hedge-kent, checking-hedge-for-birds-nests). Structures: procedural / comparison / decision-tree. Videos: RHS clay soil (lIp4LfQaX8g), RHS plant a hedge (3MMMdWs084A), RHS wildlife in urban garden (lqgv1UmNv-4) — all RHS channel @The_RHS 200K+ subscribers, verified credible; YouTube proxy-blocked ninth run. JET-RELATED-GUIDES updated in planting-bare-root-hedges, beech-hedge-care, hornbeam-hedge-care, wildlife-friendly-trimming.",
   "totalOnSite": 106,
   "contentNote": "2026-09-15 content run: 3 new articles (hedge-planting-clay-soil-kent, beech-vs-hornbeam-hedge-kent, checking-hedge-for-birds-nests). Structures: procedural / comparison / decision-tree. Videos: RHS channel (lIp4LfQaX8g, 3MMMdWs084A, lqgv1UmNv-4) — all RHS @The_RHS, channel-authority verified via web search, YouTube proxy-blocked (ninth run). JET-RELATED-GUIDES updated in 4 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-14T08:00:00Z",
+  "lastAuditAt": "2026-09-15T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 6,
-  "lastAuditRunAt": "2026-09-14T08:00:00Z",
+  "lastAuditRunAt": "2026-09-15T08:00:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "No auto-fixes needed. 1 new finding: space-separated data-howto-cat in elder-hedge-care and bamboo-screening-kent index cards breaks JS filter for secondary tabs. 5 carry-overs unchanged. 128 HTML pages checked."
+  "auditNote": "No auto-fixes needed. No new findings. 6 carry-overs: 2 MEDIUM (space-separated data-howto-cat on elder/bamboo index cards; YouTube proxy-blocked 10th run), 4 LOW. 131 HTML pages checked (106 how-to, 3 new today)."
 }
