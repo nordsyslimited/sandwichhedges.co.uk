@@ -6,12 +6,12 @@
   "failed": 0,
   "durationSec": 0,
   "note": "2026-09-17 content run: 3 new articles (weeds-at-hedge-base, security-hedges-kent, hedges-for-garden-structure). Structures: procedural / comparison / checklist-first. Videos: The RHS channel x7PgNbvK4oU (200K+ subs); Gardening With Alan Titchmarsh 54uptB7qyo4 and mO_y7IlSY80 (185K+ subs) — channel-authority verified via web search; YouTube proxy-blocked 12th run. JET-RELATED-GUIDES updated in 3 existing articles. Hub index and sitemap updated.",
-  "totalOnSite": 112,
+  "totalOnSite": 115,
   "contentNote": "2026-09-17 content run: 3 new articles (weeds-at-hedge-base, security-hedges-kent, hedges-for-garden-structure). Structures: procedural / comparison / checklist-first. Videos: The RHS @The_RHS (x7PgNbvK4oU, 200K+ subs); Gardening With Alan Titchmarsh (54uptB7qyo4, mO_y7IlSY80, 185K+ subs) — channel-authority verified via web search, YouTube proxy-blocked (12th run). JET-RELATED-GUIDES updated in 3 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-16T08:00:00Z",
+  "lastAuditAt": "2026-09-17T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "lastAuditRunAt": "2026-09-16T08:00:00Z",
-  "auditAutoFixed": 0,
-  "auditNote": "No auto-fixes needed. No new findings. 6 carry-overs: 2 MEDIUM (space-separated data-howto-cat on elder/bamboo index cards; YouTube proxy-blocked 11th run), 4 LOW. 134 HTML pages checked (109 how-to, 3 new today)."
+  "issueCount": 7,
+  "lastAuditRunAt": "2026-09-17T08:00:00Z",
+  "auditAutoFixed": 1,
+  "auditNote": "1 auto-fix: em-dash in security-hedges-kent.html (new article, fixed to colon). 7 needs-review: 3 MEDIUM carry-overs (space-sep data-howto-cat on elder/bamboo; box-blight-treatment.html missing pests cat; YouTube proxy-blocked 13th run), 4 LOW (formal-vs-informal WCA callout missing NEW; salt-tolerant WCA link-only; formal-vs-informal cat stretch; pruning-overgrown tag mismatch). 137 HTML pages checked (112 how-to + 3 new today)."
 }
