@@ -1,17 +1,17 @@
 {
-  "lastRunAt": "2026-09-16T00:00:00Z",
+  "lastRunAt": "2026-09-18T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "note": "2026-09-16 content run: 3 new articles (hedge-windbreak-kent, hedge-plants-for-shade, hedge-planting-chalk-soil-kent). Structures: comparison / checklist-first / procedural. Videos: Gardening With Monty Don channel (EjF7m-T8U4w, QUrnehX5kw0, bAn3HfCL6NQ) — official BBC Gardeners' World YouTube channel, 100K+ subscribers, channel-authority verified via web search; YouTube proxy-blocked 11th run. JET-RELATED-GUIDES updated in 4 existing articles. Hub index and sitemap updated.",
-  "totalOnSite": 109,
-  "contentNote": "2026-09-16 content run: 3 new articles (hedge-windbreak-kent, hedge-plants-for-shade, hedge-planting-chalk-soil-kent). Structures: comparison / checklist-first / procedural. Videos: Gardening With Monty Don @GardeningWithMontyDon (EjF7m-T8U4w, QUrnehX5kw0, bAn3HfCL6NQ) — official BBC Gardeners' World channel, channel-authority verified via web search, YouTube proxy-blocked (11th run). JET-RELATED-GUIDES updated in 4 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-15T08:00:00Z",
+  "note": "2026-09-18 content run: 3 new articles (hedgehog-friendly-hedge-base, hedge-health-troubleshooting, first-time-hedge-trimming). Structures: procedural / decision-tree / checklist-first. Videos: RHS R9LzXCebvwM (200K+ subs); Pots & Trowels / Martin Fish pbLr1l7uNrs (RHS judge/BBC credentials); Mark's House and Garden UK tIqbas7abVU (millions of viewers) — channel-authority verified via web search; YouTube proxy-blocked 13th run. JET-RELATED-GUIDES updated in 4 existing articles. Hub index and sitemap updated.",
+  "totalOnSite": 115,
+  "contentNote": "2026-09-18 content run: 3 new articles (hedgehog-friendly-hedge-base, hedge-health-troubleshooting, first-time-hedge-trimming). Structures: procedural / decision-tree / checklist-first. Videos: RHS R9LzXCebvwM (200K+ subs); Pots & Trowels / Martin Fish pbLr1l7uNrs (RHS judge/BBC credentials); Mark's House and Garden UK tIqbas7abVU (millions of viewers) — channel-authority verified via web search, YouTube proxy-blocked (13th run). JET-RELATED-GUIDES updated in 4 existing articles. Hub index and sitemap updated.",
+  "lastAuditAt": "2026-09-17T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "lastAuditRunAt": "2026-09-15T08:00:00Z",
-  "auditAutoFixed": 0,
-  "auditNote": "No auto-fixes needed. No new findings. 6 carry-overs: 2 MEDIUM (space-separated data-howto-cat on elder/bamboo index cards; YouTube proxy-blocked 10th run), 4 LOW. 131 HTML pages checked (106 how-to, 3 new today)."
+  "issueCount": 7,
+  "lastAuditRunAt": "2026-09-17T08:00:00Z",
+  "auditAutoFixed": 1,
+  "auditNote": "1 auto-fix: em-dash in security-hedges-kent.html (new article, fixed to colon). 7 needs-review: 3 MEDIUM carry-overs (space-sep data-howto-cat on elder/bamboo; box-blight-treatment.html missing pests cat; YouTube proxy-blocked 13th run), 4 LOW (formal-vs-informal WCA callout missing NEW; salt-tolerant WCA link-only; formal-vs-informal cat stretch; pruning-overgrown tag mismatch). 137 HTML pages checked (112 how-to + 3 new today)."
 }
