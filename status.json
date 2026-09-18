@@ -8,10 +8,10 @@
   "note": "2026-09-18 content run: 3 new articles (hedgehog-friendly-hedge-base, hedge-health-troubleshooting, first-time-hedge-trimming). Structures: procedural / decision-tree / checklist-first. Videos: RHS R9LzXCebvwM (200K+ subs); Pots & Trowels / Martin Fish pbLr1l7uNrs (RHS judge/BBC credentials); Mark's House and Garden UK tIqbas7abVU (millions of viewers) — channel-authority verified via web search; YouTube proxy-blocked 13th run. JET-RELATED-GUIDES updated in 4 existing articles. Hub index and sitemap updated.",
   "totalOnSite": 115,
   "contentNote": "2026-09-18 content run: 3 new articles (hedgehog-friendly-hedge-base, hedge-health-troubleshooting, first-time-hedge-trimming). Structures: procedural / decision-tree / checklist-first. Videos: RHS R9LzXCebvwM (200K+ subs); Pots & Trowels / Martin Fish pbLr1l7uNrs (RHS judge/BBC credentials); Mark's House and Garden UK tIqbas7abVU (millions of viewers) — channel-authority verified via web search, YouTube proxy-blocked (13th run). JET-RELATED-GUIDES updated in 4 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-17T08:00:00Z",
+  "lastAuditAt": "2026-09-18T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 7,
-  "lastAuditRunAt": "2026-09-17T08:00:00Z",
-  "auditAutoFixed": 1,
-  "auditNote": "1 auto-fix: em-dash in security-hedges-kent.html (new article, fixed to colon). 7 needs-review: 3 MEDIUM carry-overs (space-sep data-howto-cat on elder/bamboo; box-blight-treatment.html missing pests cat; YouTube proxy-blocked 13th run), 4 LOW (formal-vs-informal WCA callout missing NEW; salt-tolerant WCA link-only; formal-vs-informal cat stretch; pruning-overgrown tag mismatch). 137 HTML pages checked (112 how-to + 3 new today)."
+  "lastAuditRunAt": "2026-09-18T08:00:00Z",
+  "auditAutoFixed": 0,
+  "auditNote": "0 auto-fixes. 7 needs-review (all carry-overs, no new issues): 3 MEDIUM (space-sep data-howto-cat on elder/bamboo; box-blight-treatment.html missing pests cat; YouTube proxy-blocked 14th run), 4 LOW (formal-vs-informal WCA callout missing; salt-tolerant WCA link-only; formal-vs-informal cat stretch; pruning-overgrown tag mismatch). 139 HTML pages checked (116 how-to + 9 services + 7 areas + 7 root)."
 }
