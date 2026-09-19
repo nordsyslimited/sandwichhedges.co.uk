@@ -8,10 +8,10 @@
   "note": "2026-09-19 content run: 3 new articles (hedge-frost-damage, reducing-conifer-height, hand-cutting-technique-hedges). Structures: comparison / procedural / checklist-first. Videos: Ken Crowther/World Radio Gardening XkW8B9vQvSI (40+ years BBC, Chartered Institute of Horticulture); Garden Ninja/Lee Burkhill yBVn0F4bfEY (BBC Garden Rescue, RHS, 100K+ subs); Ken Crowther/World Radio Gardening IPYYU7d0miQ — channel-authority verified via web search; YouTube proxy-blocked 15th run. JET-RELATED-GUIDES updated in 12 existing articles (4 per new article). Hub index and sitemap updated.",
   "totalOnSite": 118,
   "contentNote": "2026-09-19 content run: 3 new articles (hedge-frost-damage, reducing-conifer-height, hand-cutting-technique-hedges). Structures: comparison / procedural / checklist-first. Videos: Ken Crowther/World Radio Gardening XkW8B9vQvSI (40+ years BBC, Chartered Institute of Horticulture); Garden Ninja/Lee Burkhill yBVn0F4bfEY (BBC Garden Rescue, RHS, 100K+ subs); Ken Crowther/World Radio Gardening IPYYU7d0miQ — channel-authority verified via web search, YouTube proxy-blocked (15th run). JET-RELATED-GUIDES updated in 12 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-18T08:00:00Z",
+  "lastAuditAt": "2026-09-19T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 7,
-  "lastAuditRunAt": "2026-09-18T08:00:00Z",
-  "auditAutoFixed": 0,
-  "auditNote": "0 auto-fixes. 7 needs-review (all carry-overs, no new issues): 3 MEDIUM (space-sep data-howto-cat on elder/bamboo; box-blight-treatment.html missing pests cat; YouTube proxy-blocked 14th run), 4 LOW (formal-vs-informal WCA callout missing; salt-tolerant WCA link-only; formal-vs-informal cat stretch; pruning-overgrown tag mismatch). 139 HTML pages checked (116 how-to + 9 services + 7 areas + 7 root)."
+  "issueCount": 5,
+  "lastAuditRunAt": "2026-09-19T08:00:00Z",
+  "auditAutoFixed": 3,
+  "auditNote": "3 auto-fixes: space-sep data-howto-cat for elder/bamboo in hub index; banned word 'robust' in hedge-frost-damage.html. 5 needs-review (all carry-overs): 3 MEDIUM (formal-vs-informal WCA callout missing; box-blight-treatment.html pests cat; YouTube proxy-blocked 16th run), 2 LOW (salt-tolerant WCA link-only; formal-vs-informal cat stretch). 143 HTML pages checked."
 }
