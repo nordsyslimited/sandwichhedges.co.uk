@@ -8,10 +8,10 @@
   "note": "2026-09-20 content run: 3 new articles (topiary-for-beginners-kent, autumn-hedge-planting-kent, efficient-hedge-trimming-tips). Structures: checklist-first / procedural / comparison. Videos: Garden Ninja/Lee Burkhill GFNyrDBFDt8 (BBC Garden Rescue, RHS, 100K+ subs); RHS qDJc9rqCAY4 (official UK horticultural charity, 78K subs); David Domoney HQ5JF-dwK-Q (342K subs, Chartered Horticulturist, BBC Love Your Garden) — channel-authority verified via web search; YouTube proxy-blocked 17th run. JET-RELATED-GUIDES updated in 12 existing articles (4 per new article). Hub index and sitemap updated.",
   "totalOnSite": 121,
   "contentNote": "2026-09-20 content run: 3 new articles (topiary-for-beginners-kent, autumn-hedge-planting-kent, efficient-hedge-trimming-tips). Structures: checklist-first / procedural / comparison. Videos: Garden Ninja/Lee Burkhill GFNyrDBFDt8 (BBC Garden Rescue, RHS, 100K+ subs); RHS qDJc9rqCAY4 (official UK horticultural charity, 78K subs); David Domoney HQ5JF-dwK-Q (342K subs, Chartered Horticulturist, BBC Love Your Garden) — channel-authority verified via web search; YouTube proxy-blocked (17th run). JET-RELATED-GUIDES updated in 12 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-19T08:00:00Z",
+  "lastAuditAt": "2026-09-20T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "lastAuditRunAt": "2026-09-19T08:00:00Z",
+  "lastAuditRunAt": "2026-09-20T08:00:00Z",
   "auditAutoFixed": 3,
-  "auditNote": "3 auto-fixes: space-sep data-howto-cat for elder/bamboo in hub index; banned word 'robust' in hedge-frost-damage.html. 5 needs-review (all carry-overs): 3 MEDIUM (formal-vs-informal WCA callout missing; box-blight-treatment.html pests cat; YouTube proxy-blocked 16th run), 2 LOW (salt-tolerant WCA link-only; formal-vs-informal cat stretch). 143 HTML pages checked."
+  "auditNote": "3 auto-fixes: 7 em-dashes in autumn-hedge-planting-kent.html (3) and efficient-hedge-trimming-tips.html (4); JSON-LD FAQPage syntax error in hedge-cutting-mistakes.html (extra brace). Resolved carry-over: box-blight-treatment.html category now 'species' (valid). 5 needs-review: 2 MEDIUM (formal-vs-informal WCA callout missing; YouTube proxy-blocked 18th run), 3 LOW (salt-tolerant WCA link-only; formal-vs-informal cat stretch; pruning-an-overgrown-shrub 'Comparison' tag NEW). 146 HTML pages checked."
 }
