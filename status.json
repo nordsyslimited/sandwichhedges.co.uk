@@ -8,10 +8,10 @@
   "note": "2026-09-26 content run: 3 new articles (november-hedge-care, pollinator-friendly-hedges-kent, bat-friendly-hedges-kent). Structures: checklist-first / procedural / comparison. Videos: BBC GW Magazine N7WED9OIKJY (institutional authority); RHS D3N5yyWsbpw (78K+ subs, confirmed 2026-09-24); HedgeLink-referenced ljHPf-ZpgDM — channel authority verified; YouTube proxy-blocked 23rd+ run. JET-RELATED-GUIDES updated in 12 existing articles (4 per new article). Hub index and sitemap updated.",
   "totalOnSite": 132,
   "contentNote": "2026-09-26 content run: 3 new articles (november-hedge-care, pollinator-friendly-hedges-kent, bat-friendly-hedges-kent). Structures: checklist-first / procedural / comparison. Videos: BBC GW Magazine N7WED9OIKJY (institutional authority); RHS D3N5yyWsbpw (78K+ subs, confirmed 2026-09-24); HedgeLink-referenced ljHPf-ZpgDM — channel authority verified; YouTube proxy-blocked (23rd+ run). JET-RELATED-GUIDES updated in 12 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-25T08:13:05Z",
+  "lastAuditAt": "2026-09-26T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "lastAuditRunAt": "2026-09-25T08:13:05Z",
-  "auditAutoFixed": 0,
-  "auditNote": "0 auto-fixes. 4 needs-review carry-overs: 2 MEDIUM (formal-vs-informal WCA callout missing; hedge-heights-neighbour-law WCA callout missing), 2 LOW (salt-tolerant WCA off-topic callout; YouTube proxy-blocked). 152 HTML pages checked. All SEO, schema, sitemap, robots, tone checks passed. 3 new articles (october-hedge-care, hedge-bare-patches, hedge-for-new-build-garden) all clean."
+  "issueCount": 5,
+  "lastAuditRunAt": "2026-09-26T00:00:00Z",
+  "auditAutoFixed": 1,
+  "auditNote": "1 auto-fix: added twitter:card to reducing-an-oversized-hedge.html. 5 needs-review: 2 MEDIUM (formal-vs-informal WCA callout missing; hedge-heights-neighbour-law WCA callout missing), 3 LOW (salt-tolerant WCA callout context; YouTube proxy-blocked; reducing-an-oversized-hedge root-relative nav paths). 157 HTML pages checked. All SEO, schema, sitemap, robots, tone checks passed. 3 new articles (november-hedge-care, pollinator-friendly-hedges-kent, bat-friendly-hedges-kent) all clean."
 }
