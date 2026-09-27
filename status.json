@@ -8,10 +8,10 @@
   "note": "2026-09-27 content run: 3 new articles (december-hedge-care, copper-beech-hedge-care, hedge-on-a-slope). Structures: procedural / comparison / decision-tree. Videos: RHS HaiwL5SVc28 (78K subs, Sept 2025); Pots & Trowels pbLr1l7uNrs (Martin Fish, RHS judge); BBC GW QUrnehX5kw0 (institutional authority). YouTube proxy-blocked (25th+ run). JET-RELATED-GUIDES updated in 6 existing articles (2 per new article). Hub index and sitemap updated.",
   "totalOnSite": 136,
   "contentNote": "2026-09-27 content run: 3 new articles (december-hedge-care, copper-beech-hedge-care, hedge-on-a-slope). Structures: procedural / comparison / decision-tree. Videos: RHS HaiwL5SVc28 (78K subs); Pots & Trowels pbLr1l7uNrs (Martin Fish, RHS judge); BBC GW QUrnehX5kw0 (institutional authority). YouTube proxy-blocked (25th+ run). JET-RELATED-GUIDES updated in 6 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-26T00:00:00Z",
+  "lastAuditAt": "2026-09-27T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "lastAuditRunAt": "2026-09-26T00:00:00Z",
-  "auditAutoFixed": 1,
-  "auditNote": "1 auto-fix: added twitter:card to reducing-an-oversized-hedge.html. 5 needs-review: 2 MEDIUM (formal-vs-informal WCA callout missing; hedge-heights-neighbour-law WCA callout missing), 3 LOW (salt-tolerant WCA callout context; YouTube proxy-blocked; reducing-an-oversized-hedge root-relative nav paths). 157 HTML pages checked. All SEO, schema, sitemap, robots, tone checks passed. 3 new articles (november-hedge-care, pollinator-friendly-hedges-kent, bat-friendly-hedges-kent) all clean."
+  "issueCount": 2,
+  "lastAuditRunAt": "2026-09-27T00:00:00Z",
+  "auditAutoFixed": 7,
+  "auditNote": "7 auto-fixes: added ICBM geo meta to services/overgrown-hedge-rescue.html and all 6 services/tree/* pages. 2 needs-review: 1 MEDIUM (formal-vs-informal-hedge WCA callout still missing), 1 LOW (YouTube proxy-blocked, 32 embeds unverified). 161 HTML pages checked. All SEO, schema, sitemap, robots, tone, breadcrumb checks passed. hedge-heights-neighbour-law WCA callout resolved since last audit."
 }
