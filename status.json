@@ -8,10 +8,10 @@
   "note": "2026-09-28 content run: 3 new articles (march-hedge-care, poisonous-hedge-plants-kent, professional-vs-diy-hedge-trimming). Structures: checklist-first / procedural / comparison. Videos: Walking Talking Gardeners wIhHqWJW2ng (RHS medal holders); BBC REEL 52Ou1OiYCK0 (institutional authority); BBC GW Magazine aclTF92F1eg (institutional authority). YouTube proxy-blocked (26th+ run). JET-RELATED-GUIDES updated in 6 existing articles (2 per new article). Hub index and sitemap updated.",
   "totalOnSite": 139,
   "contentNote": "2026-09-28 content run: 3 new articles (march-hedge-care, poisonous-hedge-plants-kent, professional-vs-diy-hedge-trimming). Structures: checklist-first / procedural / comparison. Videos: Walking Talking Gardeners wIhHqWJW2ng (RHS medal holders); BBC REEL 52Ou1OiYCK0; BBC GW Magazine aclTF92F1eg. YouTube proxy-blocked (26th+ run). JET-RELATED-GUIDES updated in 6 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-27T00:00:00Z",
+  "lastAuditAt": "2026-09-28T08:18:21Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "lastAuditRunAt": "2026-09-27T00:00:00Z",
-  "auditAutoFixed": 7,
-  "auditNote": "7 auto-fixes: added ICBM geo meta to services/overgrown-hedge-rescue.html and all 6 services/tree/* pages. 2 needs-review: 1 MEDIUM (formal-vs-informal-hedge WCA callout still missing), 1 LOW (YouTube proxy-blocked, 32 embeds unverified). 161 HTML pages checked. All SEO, schema, sitemap, robots, tone, breadcrumb checks passed. hedge-heights-neighbour-law WCA callout resolved since last audit."
+  "lastAuditRunAt": "2026-09-28T08:18:21Z",
+  "auditAutoFixed": 1,
+  "auditNote": "1 auto-fix: 4 em-dashes removed from professional-vs-diy-hedge-trimming.html. 2 needs-review: 1 MEDIUM (formal-vs-informal-hedge WCA callout still missing, 3rd flag), 1 LOW (YouTube proxy-blocked, 32 embeds unverified). 161 HTML pages checked. All SEO, schema, sitemap, robots, tone, breadcrumb checks passed."
 }
