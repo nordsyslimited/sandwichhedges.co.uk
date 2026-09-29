@@ -1,17 +1,17 @@
 {
-  "lastRunAt": "2026-09-21T00:00:00Z",
+  "lastRunAt": "2026-09-29T00:00:00Z",
   "status": "success",
-  "added": 2,
-  "skipped": 1,
+  "added": 3,
+  "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "note": "2026-09-21 content run: 2 new articles (ivy-in-uk-gardens-kent, failing-hedge-decision-guide). Structures: comparison / decision-tree. Videos: RHS QgNt4B2mtB4 (100K+ subs, holly and ivy at Wisley); Rosy Hardy q-fVHKASA38 (56.8K subs, RHS VP, 24 Chelsea Gold Medals) — channel-authority verified from existing site content; YouTube proxy-blocked 19th+ run. 1 skipped: slope-trimming video f9p1SC96AkI channel identity unverifiable. JET-RELATED-GUIDES updated in 8 existing articles (4 per new article). Hub index and sitemap updated.",
-  "totalOnSite": 123,
-  "contentNote": "2026-09-21 content run: 2 new articles (ivy-in-uk-gardens-kent, failing-hedge-decision-guide). Structures: comparison / decision-tree. Videos: RHS QgNt4B2mtB4 (100K+ subs, holly and ivy at Wisley); Rosy Hardy q-fVHKASA38 (56.8K subs, RHS VP, 24 Chelsea Gold Medals) — channel-authority verified from existing site content; YouTube proxy-blocked (19th+ run). 1 skipped: slope-trimming video f9p1SC96AkI channel identity unverifiable. JET-RELATED-GUIDES updated in 8 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-21T08:07:22Z",
+  "note": "2026-09-29 content run: 3 new articles (january-hedge-care, february-hedge-care, august-hedge-care). Structures: procedural / checklist-first / decision-tree. Videos: iM94ZXDmyzk (professional UK gardener, ~15.7K subs, web-search verified); ipmn3x9abyU (pre-nesting season hedge reduction, UK, Feb 2025); nw6uruzxW-I (ten garden jobs end of August, UK). YouTube proxy-blocked (26th+ run). JET-RELATED-GUIDES updated in 5 existing articles. Hub index and sitemap updated.",
+  "totalOnSite": 142,
+  "contentNote": "2026-09-29 content run: 3 new articles (january-hedge-care, february-hedge-care, august-hedge-care). Structures: procedural / checklist-first / decision-tree. Videos: iM94ZXDmyzk (UK professional gardener, ~15.7K subs); ipmn3x9abyU (pre-nesting UK, Feb 2025); nw6uruzxW-I (August deadline, UK). YouTube proxy-blocked. JET-RELATED-GUIDES updated in 5 existing articles. Hub index and sitemap updated.",
+  "lastAuditAt": "2026-09-29T08:14:37Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "lastAuditRunAt": "2026-09-21T08:07:22Z",
+  "issueCount": 2,
+  "lastAuditRunAt": "2026-09-29T08:14:37Z",
   "auditAutoFixed": 0,
-  "auditNote": "0 auto-fixes. 4 needs-review: 2 MEDIUM (hedge-heights-neighbour-law WCA callout missing NEW; formal-vs-informal WCA callout missing carry-over), 2 LOW (salt-tolerant WCA link-only carry-over; YouTube proxy-blocked 20th+ run). 148 HTML pages checked. All SEO, schema, sitemap, robots, tone checks passed."
+  "auditNote": "0 auto-fixes. 2 needs-review: 1 MEDIUM (3 broken internal links in august/february/january-hedge-care — ../hedge-heights-neighbour-law.html resolves wrong, should drop ../), 1 LOW (formal-vs-informal-hedge WCA callout missing, 4th flag). YouTube proxy-blocked, 78 embeds unverified. 162 HTML pages checked. All SEO, schema, sitemap, robots, tone, breadcrumb checks passed."
 }
