@@ -8,10 +8,10 @@
   "note": "2026-09-30 content run: 3 new articles (april-hedge-care, may-hedge-care, june-hedge-care). Structures: comparison / procedural / checklist-first. Videos: pnJFvTd1pHU (wildlife-friendly trimming, Feb 2026); jQ39q6Eu4X0 (leylandii year 3, Sep 2025); GiyvKs4Ehws (privet reduction hand tools, May 2022). YouTube proxy-blocked (26th+ run). JET-RELATED-GUIDES updated in 2 existing articles (march-hedge-care, checking-hedge-for-birds-nests). Hub index and sitemap updated.",
   "totalOnSite": 145,
   "contentNote": "2026-09-30 content run: 3 new articles (april-hedge-care, may-hedge-care, june-hedge-care). Structures: comparison / procedural / checklist-first. Videos: pnJFvTd1pHU (wildlife-friendly trimming); jQ39q6Eu4X0 (leylandii year 3); GiyvKs4Ehws (privet reduction hand tools). YouTube proxy-blocked. JET-RELATED-GUIDES updated in 2 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-21T08:07:22Z",
+  "lastAuditAt": "2026-09-29T08:14:37Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "lastAuditRunAt": "2026-09-21T08:07:22Z",
+  "issueCount": 2,
+  "lastAuditRunAt": "2026-09-29T08:14:37Z",
   "auditAutoFixed": 0,
-  "auditNote": "0 auto-fixes. 4 needs-review: 2 MEDIUM (hedge-heights-neighbour-law WCA callout missing NEW; formal-vs-informal WCA callout missing carry-over), 2 LOW (salt-tolerant WCA link-only carry-over; YouTube proxy-blocked 20th+ run). 148 HTML pages checked. All SEO, schema, sitemap, robots, tone checks passed."
+  "auditNote": "0 auto-fixes. 2 needs-review: 1 MEDIUM (3 broken internal links in august/february/january-hedge-care — ../hedge-heights-neighbour-law.html resolves wrong, should drop ../), 1 LOW (formal-vs-informal-hedge WCA callout missing, 4th flag). YouTube proxy-blocked, 78 embeds unverified. 162 HTML pages checked. All SEO, schema, sitemap, robots, tone, breadcrumb checks passed."
 }
