@@ -8,10 +8,10 @@
   "note": "2026-09-30 content run: 3 new articles (april-hedge-care, may-hedge-care, june-hedge-care). Structures: comparison / procedural / checklist-first. Videos: pnJFvTd1pHU (wildlife-friendly trimming, Feb 2026); jQ39q6Eu4X0 (leylandii year 3, Sep 2025); GiyvKs4Ehws (privet reduction hand tools, May 2022). YouTube proxy-blocked (26th+ run). JET-RELATED-GUIDES updated in 2 existing articles (march-hedge-care, checking-hedge-for-birds-nests). Hub index and sitemap updated.",
   "totalOnSite": 145,
   "contentNote": "2026-09-30 content run: 3 new articles (april-hedge-care, may-hedge-care, june-hedge-care). Structures: comparison / procedural / checklist-first. Videos: pnJFvTd1pHU (wildlife-friendly trimming); jQ39q6Eu4X0 (leylandii year 3); GiyvKs4Ehws (privet reduction hand tools). YouTube proxy-blocked. JET-RELATED-GUIDES updated in 2 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-29T08:14:37Z",
+  "lastAuditAt": "2026-09-30T08:13:26Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "lastAuditRunAt": "2026-09-29T08:14:37Z",
+  "lastAuditRunAt": "2026-09-30T08:13:26Z",
   "auditAutoFixed": 0,
-  "auditNote": "0 auto-fixes. 2 needs-review: 1 MEDIUM (3 broken internal links in august/february/january-hedge-care — ../hedge-heights-neighbour-law.html resolves wrong, should drop ../), 1 LOW (formal-vs-informal-hedge WCA callout missing, 4th flag). YouTube proxy-blocked, 78 embeds unverified. 162 HTML pages checked. All SEO, schema, sitemap, robots, tone, breadcrumb checks passed."
+  "auditNote": "0 auto-fixes. 2 needs-review: 1 MEDIUM (3 broken internal links in august/february/january-hedge-care — ../hedge-heights-neighbour-law.html resolves wrong, should drop ../, 5th flag), 1 LOW (formal-vs-informal-hedge WCA callout missing, 5th flag). YouTube proxy-blocked, ~110 embeds unverified. 165 HTML pages checked. New articles april/may/june-hedge-care: WCA callouts present, sitemap/hub correct. All SEO, schema, sitemap, robots, tone, breadcrumb checks passed."
 }
