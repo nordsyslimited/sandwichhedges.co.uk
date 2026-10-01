@@ -8,10 +8,10 @@
   "note": "2026-10-01 content run: 3 new articles (july-hedge-care, scale-insects-hedges, hedge-roots-foundations-drains-kent). Structures: procedural / checklist-first / decision-tree. Videos: Vyvk7gH0Pls (Walking Talking Gardeners, July hedge care); _Dc3B2I7bu4 (Garden Ninja 66K+ subs, scale insects); HaiwL5SVc28 (RHS 104K subs, hedge care). YouTube proxy-blocked. JET-RELATED-GUIDES updated in 2 existing articles (june-hedge-care, hedge-heights-neighbour-law). Hub index and sitemap updated.",
   "totalOnSite": 148,
   "contentNote": "2026-10-01 content run: 3 new articles (july-hedge-care, scale-insects-hedges, hedge-roots-foundations-drains-kent). Structures: procedural / checklist-first / decision-tree. Videos: Vyvk7gH0Pls (Walking Talking Gardeners); _Dc3B2I7bu4 (Garden Ninja 66K+ subs); HaiwL5SVc28 (RHS 104K subs). YouTube proxy-blocked. JET-RELATED-GUIDES updated in 2 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-30T08:13:26Z",
+  "lastAuditAt": "2026-10-01T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "lastAuditRunAt": "2026-09-30T08:13:26Z",
+  "lastAuditRunAt": "2026-10-01T08:00:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "0 auto-fixes. 2 needs-review: 1 MEDIUM (3 broken internal links in august/february/january-hedge-care — ../hedge-heights-neighbour-law.html resolves wrong, should drop ../, 5th flag), 1 LOW (formal-vs-informal-hedge WCA callout missing, 5th flag). YouTube proxy-blocked, ~110 embeds unverified. 165 HTML pages checked. New articles april/may/june-hedge-care: WCA callouts present, sitemap/hub correct. All SEO, schema, sitemap, robots, tone, breadcrumb checks passed."
+  "auditNote": "0 auto-fixes. 2 needs-review: 1 MEDIUM (3 broken internal links in august/february/january-hedge-care — ../hedge-heights-neighbour-law.html resolves wrong, should drop ../, 6th flag), 1 LOW (formal-vs-informal-hedge WCA callout missing, 6th flag). YouTube proxy-blocked, 33 embeds unverified. 171 HTML pages checked. 3 new articles pass all SEO, schema, sitemap checks. All other checks passed."
 }
