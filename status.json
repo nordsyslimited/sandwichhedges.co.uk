@@ -8,10 +8,10 @@
   "note": "2026-10-02 content run: 3 new articles (guelder-rose-hedge-care, living-willow-fedge-kent, spindle-hedge-care). Structures: checklist-first / procedural / comparison. Videos: W2cpqVCec3M (David Domoney 342K subs, guelder rose); r9PUTih0NzU (Musgrove Willows 7.1K subs, living willow); CRhcA7Dub-M (Woodland Trust 25.9K subs, native species). YouTube proxy-blocked; channel authority verified via web search. JET-RELATED-GUIDES updated in 3 existing articles (wildlife-friendly-trimming, hedge-vs-fence, planting-native-hedge-kent). Hub index and sitemap updated.",
   "totalOnSite": 151,
   "contentNote": "2026-10-02 content run: 3 new articles (guelder-rose-hedge-care, living-willow-fedge-kent, spindle-hedge-care). Structures: checklist-first / procedural / comparison. Videos: W2cpqVCec3M (David Domoney 342K subs); r9PUTih0NzU (Musgrove Willows 7.1K subs); CRhcA7Dub-M (Woodland Trust 25.9K subs). YouTube proxy-blocked. JET-RELATED-GUIDES updated in 3 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-10-01T08:00:00Z",
+  "lastAuditAt": "2026-10-02T08:13:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "lastAuditRunAt": "2026-10-01T08:00:00Z",
+  "lastAuditRunAt": "2026-10-02T08:13:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "0 auto-fixes. 2 needs-review: 1 MEDIUM (3 broken internal links in august/february/january-hedge-care — ../hedge-heights-neighbour-law.html resolves wrong, should drop ../, 6th flag), 1 LOW (formal-vs-informal-hedge WCA callout missing, 6th flag). YouTube proxy-blocked, 33 embeds unverified. 171 HTML pages checked. 3 new articles pass all SEO, schema, sitemap checks. All other checks passed."
+  "auditNote": "0 auto-fixes. 2 needs-review: 1 MEDIUM (3 broken internal links in august/february/january-hedge-care — ../hedge-heights-neighbour-law.html should be hedge-heights-neighbour-law.html, carry-over 3rd flag), 1 LOW (formal-vs-informal-hedge WCA callout missing, carry-over). YouTube proxy-blocked, ~33 embeds unverified. 174 HTML pages checked. All SEO, schema, sitemap, robots, em-dash, filler checks passed."
 }
