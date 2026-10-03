@@ -8,10 +8,10 @@
   "note": "2026-10-03 content run: 3 new articles (removing-a-hedge, thicken-a-hedge, hedge-storm-damage). Structures: procedural / checklist-first / decision-tree. Videos: pbLr1l7uNrs (Pots & Trowels / Martin Fish, RHS judge); HQ5JF-dwK-Q (David Domoney 342K subs); _Dc3B2I7bu4 (Garden Ninja / Lee Burkhill 78K+ subs, BBC Garden Rescue). YouTube proxy-blocked; channel authority verified via web search. JET-RELATED-GUIDES updated in 4 existing articles. Hub index and sitemap updated.",
   "totalOnSite": 154,
   "contentNote": "2026-10-03 content run: 3 new articles (removing-a-hedge, thicken-a-hedge, hedge-storm-damage). Structures: procedural / checklist-first / decision-tree. Videos: pbLr1l7uNrs (Pots & Trowels / Martin Fish); HQ5JF-dwK-Q (David Domoney 342K subs); _Dc3B2I7bu4 (Garden Ninja 78K+ subs). YouTube proxy-blocked. JET-RELATED-GUIDES updated in 4 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-10-02T08:13:00Z",
+  "lastAuditAt": "2026-10-03T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "lastAuditRunAt": "2026-10-02T08:13:00Z",
-  "auditAutoFixed": 0,
-  "auditNote": "0 auto-fixes. 2 needs-review: 1 MEDIUM (3 broken internal links in august/february/january-hedge-care — ../hedge-heights-neighbour-law.html should be hedge-heights-neighbour-law.html, carry-over 3rd flag), 1 LOW (formal-vs-informal-hedge WCA callout missing, carry-over). YouTube proxy-blocked, ~33 embeds unverified. 174 HTML pages checked. All SEO, schema, sitemap, robots, em-dash, filler checks passed."
+  "lastAuditRunAt": "2026-10-03T08:00:00Z",
+  "auditAutoFixed": 152,
+  "auditNote": "152 auto-fixes: 149 stale sitemap lastmod entries updated from git log; 3 broken footer links fixed (../hedge-heights-neighbour-law.html -> hedge-heights-neighbour-law.html in august/february/january-hedge-care). 2 needs-review: 1 LOW (formal-vs-informal-hedge WCA callout missing, carry-over); 1 LOW (YouTube proxy-blocked, ~32 embeds unverified). All SEO, schema, robots, em-dash, filler, hub inventory checks passed. 174 HTML pages."
 }
