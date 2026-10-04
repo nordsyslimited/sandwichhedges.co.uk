@@ -1,17 +1,17 @@
 {
-  "lastRunAt": "2026-09-30T00:00:00Z",
+  "lastRunAt": "2026-10-04T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "note": "2026-09-30 content run: 3 new articles (april-hedge-care, may-hedge-care, june-hedge-care). Structures: comparison / procedural / checklist-first. Videos: pnJFvTd1pHU (wildlife-friendly trimming, Feb 2026); jQ39q6Eu4X0 (leylandii year 3, Sep 2025); GiyvKs4Ehws (privet reduction hand tools, May 2022). YouTube proxy-blocked (26th+ run). JET-RELATED-GUIDES updated in 2 existing articles (march-hedge-care, checking-hedge-for-birds-nests). Hub index and sitemap updated.",
-  "totalOnSite": 145,
-  "contentNote": "2026-09-30 content run: 3 new articles (april-hedge-care, may-hedge-care, june-hedge-care). Structures: comparison / procedural / checklist-first. Videos: pnJFvTd1pHU (wildlife-friendly trimming); jQ39q6Eu4X0 (leylandii year 3); GiyvKs4Ehws (privet reduction hand tools). YouTube proxy-blocked. JET-RELATED-GUIDES updated in 2 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-09-30T08:13:26Z",
+  "note": "2026-10-04 content run: 3 new articles (mahonia-hedge-care, maintaining-topiary-shapes, new-hedge-establishment-mistakes). Structures: comparison / procedural / checklist-first. Videos: ZODvk_vDbUY (Burncoose Nurseries, 28 Chelsea Gold Medals); T8E5YVjgqOY (RHS 100K+ subs, Alessandra Sana at Wisley); _zZuPahlvY8 (Bunny Guinness 57K subs, BBC R4 GQT / Telegraph). YouTube proxy-blocked; channel authority verified via web search. JET-RELATED-GUIDES updated in 6 existing articles. Hub index and sitemap updated.",
+  "totalOnSite": 157,
+  "contentNote": "2026-10-04 content run: 3 new articles (mahonia-hedge-care, maintaining-topiary-shapes, new-hedge-establishment-mistakes). Structures: comparison / procedural / checklist-first. Videos: ZODvk_vDbUY (Burncoose Nurseries); T8E5YVjgqOY (RHS 100K+ subs); _zZuPahlvY8 (Bunny Guinness 57K subs). YouTube proxy-blocked. JET-RELATED-GUIDES updated in 6 existing articles. Hub index and sitemap updated.",
+  "lastAuditAt": "2026-10-03T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "lastAuditRunAt": "2026-09-30T08:13:26Z",
-  "auditAutoFixed": 0,
-  "auditNote": "0 auto-fixes. 2 needs-review: 1 MEDIUM (3 broken internal links in august/february/january-hedge-care — ../hedge-heights-neighbour-law.html resolves wrong, should drop ../, 5th flag), 1 LOW (formal-vs-informal-hedge WCA callout missing, 5th flag). YouTube proxy-blocked, ~110 embeds unverified. 165 HTML pages checked. New articles april/may/june-hedge-care: WCA callouts present, sitemap/hub correct. All SEO, schema, sitemap, robots, tone, breadcrumb checks passed."
+  "lastAuditRunAt": "2026-10-03T08:00:00Z",
+  "auditAutoFixed": 152,
+  "auditNote": "152 auto-fixes: 149 stale sitemap lastmod entries updated from git log; 3 broken footer links fixed (../hedge-heights-neighbour-law.html -> hedge-heights-neighbour-law.html in august/february/january-hedge-care). 2 needs-review: 1 LOW (formal-vs-informal-hedge WCA callout missing, carry-over); 1 LOW (YouTube proxy-blocked, ~32 embeds unverified). All SEO, schema, robots, em-dash, filler, hub inventory checks passed. 174 HTML pages."
 }
