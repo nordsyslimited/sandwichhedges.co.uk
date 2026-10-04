@@ -8,10 +8,10 @@
   "note": "2026-10-04 content run: 3 new articles (mahonia-hedge-care, maintaining-topiary-shapes, new-hedge-establishment-mistakes). Structures: comparison / procedural / checklist-first. Videos: ZODvk_vDbUY (Burncoose Nurseries, 28 Chelsea Gold Medals); T8E5YVjgqOY (RHS 100K+ subs, Alessandra Sana at Wisley); _zZuPahlvY8 (Bunny Guinness 57K subs, BBC R4 GQT / Telegraph). YouTube proxy-blocked; channel authority verified via web search. JET-RELATED-GUIDES updated in 6 existing articles. Hub index and sitemap updated.",
   "totalOnSite": 157,
   "contentNote": "2026-10-04 content run: 3 new articles (mahonia-hedge-care, maintaining-topiary-shapes, new-hedge-establishment-mistakes). Structures: comparison / procedural / checklist-first. Videos: ZODvk_vDbUY (Burncoose Nurseries); T8E5YVjgqOY (RHS 100K+ subs); _zZuPahlvY8 (Bunny Guinness 57K subs). YouTube proxy-blocked. JET-RELATED-GUIDES updated in 6 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-10-03T08:00:00Z",
+  "lastAuditAt": "2026-10-04T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 2,
-  "lastAuditRunAt": "2026-10-03T08:00:00Z",
-  "auditAutoFixed": 152,
-  "auditNote": "152 auto-fixes: 149 stale sitemap lastmod entries updated from git log; 3 broken footer links fixed (../hedge-heights-neighbour-law.html -> hedge-heights-neighbour-law.html in august/february/january-hedge-care). 2 needs-review: 1 LOW (formal-vs-informal-hedge WCA callout missing, carry-over); 1 LOW (YouTube proxy-blocked, ~32 embeds unverified). All SEO, schema, robots, em-dash, filler, hub inventory checks passed. 174 HTML pages."
+  "issueCount": 7,
+  "lastAuditRunAt": "2026-10-04T08:00:00Z",
+  "auditAutoFixed": 17,
+  "auditNote": "17 auto-fixes: 17 stale sitemap lastmod entries updated from git log (JET-RELATED-GUIDES updates + 3 new articles from content run). 7 needs-review: 5 LOW (WCA callout missing from box-tree-moth-caterpillar-damage, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedge-roots-foundations-drains-kent); 1 LOW carry-over (formal-vs-informal-hedge WCA borderline); 1 LOW carry-over (YouTube proxy-blocked, 85 embeds unverified). All SEO, schema, robots, em-dash, filler, hub inventory, internal links checks passed. 174 HTML pages."
 }
