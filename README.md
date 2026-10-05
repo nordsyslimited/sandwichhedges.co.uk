@@ -2,8 +2,6 @@
 
 A plain-HTML, multi-page website for Sandwich Hedges, friendly, local hedge trimming for Sandwich, Deal, Worth, Ash, Woodnesborough, Eastry and Sandwich Bay in East Kent.
 
-Sister site to [Sandwich Lawn Mowing](https://sandwichlawnmowing.co.uk/), same family, same van, same phone number.
-
 ## Stack
 
 - Plain HTML + one shared CSS file (no build step)
