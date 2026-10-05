@@ -8,10 +8,10 @@
   "note": "2026-10-05 content run: 3 new articles (coppicing-native-hedgerows, low-maintenance-hedges, hedgerow-age-dating). Structures: procedural / comparison / checklist-first. Videos: XTmPqli0nJc (Teagasc 22.8K subs, institutional authority); _Dc3B2I7bu4 (Garden Ninja/Lee Burkhill 75K+). hedgerow-age-dating has no embed (no credible video found for Hooper's Rule topic). YouTube proxy-blocked; channel authority verified via web search. JET-RELATED-GUIDES updated in 3 existing articles. Hub index and sitemap updated.",
   "totalOnSite": 160,
   "contentNote": "2026-10-05 content run: 3 new articles (coppicing-native-hedgerows, low-maintenance-hedges, hedgerow-age-dating). Structures: procedural / comparison / checklist-first. Videos: XTmPqli0nJc (Teagasc); _Dc3B2I7bu4 (Garden Ninja 75K+). YouTube proxy-blocked. JET-RELATED-GUIDES updated in 3 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-10-04T08:00:00Z",
+  "lastAuditAt": "2026-10-05T08:14:00Z",
   "auditStatus": "issues",
-  "issueCount": 7,
-  "lastAuditRunAt": "2026-10-04T08:00:00Z",
-  "auditAutoFixed": 17,
-  "auditNote": "17 auto-fixes: 17 stale sitemap lastmod entries updated from git log (JET-RELATED-GUIDES updates + 3 new articles from content run). 7 needs-review: 5 LOW (WCA callout missing from box-tree-moth-caterpillar-damage, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedge-roots-foundations-drains-kent); 1 LOW carry-over (formal-vs-informal-hedge WCA borderline); 1 LOW carry-over (YouTube proxy-blocked, 85 embeds unverified). All SEO, schema, robots, em-dash, filler, hub inventory, internal links checks passed. 174 HTML pages."
+  "issueCount": 6,
+  "lastAuditRunAt": "2026-10-05T08:14:00Z",
+  "auditAutoFixed": 24,
+  "auditNote": "24 auto-fixes: 24 stale sitemap lastmod entries updated to 2026-10-05 (e5c662f hygiene pass + fcc0877 wording removal + c23383a 3 new articles all touched multiple pages). 6 needs-review (all carry-overs): 5 LOW (WCA callout missing from box-tree-moth-caterpillar-damage, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedge-roots-foundations-drains-kent); 1 LOW carry-over (formal-vs-informal-hedge WCA borderline); YouTube proxy-blocked (113 URLs unverifiable). All SEO, schema, robots, em-dash, filler, hub inventory, internal links checks passed. 185 HTML pages."
 }
