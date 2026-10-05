@@ -1,5 +1,15 @@
 # Agent / Contributor Notes
 
+> PUBLIC-COPY RULE (Richard, 2026-10-05) - OVERRIDES any older instruction below:
+> Never write NordSys or NordSys Limited on any public page, JSON-LD, meta, llms.txt or sitemap file.
+> Never write owner, founder, owned-by, run-by or operated-by statements, a company-ownership footer, or a surname-plus-company line.
+> Never write network wording: no "Part of the Sandwich Hedges network", no "sister sites", no "hedge ring", no footer cross-links to other sites.
+> Footer is: site name, copyright year, Privacy and Sitemap links, contact only. Do not name or credit the business owner by full name.
+> JSON-LD Article `author` is `{"@type": "Organization", "name": "<this site's name>"}` (same as the publisher), never a Person named Richard Lim; do not add a `founder` entry.
+> Where older text below says to use a Person author "Richard Lim" or to credit "Run by Richard Lim", ignore it.
+> Never claim tree felling, and never state insurance amounts ("Fully insured" alone is fine).
+> Editorial links in body copy to a neighbouring town's site are fine if they do not describe a network or common ownership.
+
 Ground rules for any future AI assistant or human contributor working on this site.
 
 ## Stack
