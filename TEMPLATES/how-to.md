@@ -197,3 +197,13 @@ must satisfy every P1 rule from first ship. The 9 existing hand-authored
 articles are the reference implementation for exact markup shape - when in
 doubt, copy `how-to/when-to-trim-hedges.html`'s structure rather than
 inventing a new layout.
+
+## YouTube videos: click-to-play only (do not undo)
+
+Wherever this document mentions a YouTube `<iframe>` or embed, use the click-to-play button instead. An iframe loads YouTube (Google) before the visitor clicks, which sets cookies and shares their IP address. Put this exact markup inside the existing video wrapper element (keep the wrapper class unchanged):
+
+```html
+<button type="button" class="yt-play" data-yt-id="VIDEO_ID" data-yt-title="VIDEO TITLE"><span class="yt-play-icon" aria-hidden="true"></span><span class="yt-play-text">Play video<small>Playing this video loads it from YouTube (Google), which may store cookies on your device and receive your IP address.</small></span></button>
+```
+
+Use the real 11-character video id and the video title (HTML-escaped). The click handler is already in the site's `analytics.js`, which is on every page. Never write `<iframe ... youtube ...>` into a page. Any audit or check that finds a YouTube iframe in a page must convert it to this button. The video credit paragraph stays as it is.
