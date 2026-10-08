@@ -1,5 +1,13 @@
 # Agent / Contributor Notes
 
+## Analytics, fonts and cookies (do not undo)
+
+- This site has NO Google Analytics, NO gtag or dataLayer snippet, NO Google Fonts links and NO cookie banner or cookie-consent script. They were removed deliberately on 8 October 2026. Do not add any of them back, on any page, template, generator or sample snippet, and do not add any other third-party script, font, image host or tracker.
+- Visit counting is NordAnalytics (first-party, cookieless). Every page loads `<script src="/assets/js/analytics.js?v=20261008" defer></script>` as the last element before `</body>`. That one file adds the footer links ("How we count visits", "Don't count my visits") and loads the counter. Copy the head, the footer and that script line from an existing page unchanged. Every new page must include it (redirect stubs with a meta refresh excepted).
+- Fonts are self-hosted: pages link `<link rel="stylesheet" href="/assets/fonts.css">` where a Google Fonts link used to be. Copy it from an existing page.
+- Audits: do NOT flag the absence of Google Analytics, a GA4 ID, gtag, consent mode or a cookie banner, and do NOT restore any of them. Older reports and notes that mention GA4 are out of date. DO flag and remove any page containing googletagmanager.com, gtag(, dataLayer, fonts.googleapis.com, fonts.gstatic.com or cookie-consent, and flag any non-redirect page missing the analytics.js script line.
+- `/privacy.html` carries the approved "Website statistics" section (id `website-statistics`). Keep its wording unchanged.
+
 > PUBLIC-COPY RULE (Richard, 2026-10-05) - OVERRIDES any older instruction below:
 > Never write NordSys or NordSys Limited on any public page, JSON-LD, meta, llms.txt or sitemap file.
 > Never write owner, founder, owned-by, run-by or operated-by statements, a company-ownership footer, or a surname-plus-company line.
@@ -21,7 +29,7 @@ Ground rules for any future AI assistant or human contributor working on this si
 ## Branding
 
 - Palette: deep forest `#14573a`, sage `#8ea87f`, warm clay `#c2623a`, linen off-white.
-- Font: DM Serif Display (headings/display) + Inter (body/UI), Google Fonts.
+- Font: DM Serif Display (headings/display) + Inter (body/UI), self-hosted fonts (/assets/fonts.css).
 - Logo: circular tree/hedge-shape mark in forest green (inline SVG favicon data URI, and `.brand-mark` in the header).
 - Sister site `sandwichlawnmowing.co.uk` - same family/van/phone, deliberately different palette (green/Plus Jakarta Sans/Fraunces vs this site's forest/sage/clay + DM Serif Display/Inter). Keep contact details consistent across both if a change touches both; do not clone the visual style.
 
