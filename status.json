@@ -8,10 +8,10 @@
   "note": "2026-10-09 content run: 3 new articles (managing-mixed-boundary-hedge, disposing-hedge-clippings-safely, bare-root-hedge-first-winter-care). Structures: comparison / checklist-first / procedural. Videos: _Dc3B2I7bu4 (Garden Ninja ~78K subs), pbLr1l7uNrs (Pots & Trowels ~19.2K subs), qDJc9rqCAY4 (RHS, authoritative). YouTube proxy-blocked; channel authority verified via web search. JET-RELATED-GUIDES updated in composting-hedge-trimmings and planting-bare-root-hedges. Hub index and sitemap updated.",
   "totalOnSite": 166,
   "contentNote": "2026-10-09 content run: 3 new articles (managing-mixed-boundary-hedge, disposing-hedge-clippings-safely, bare-root-hedge-first-winter-care). Structures: comparison / checklist-first / procedural. Videos: _Dc3B2I7bu4 (Garden Ninja ~78K); pbLr1l7uNrs (Pots & Trowels ~19.2K); qDJc9rqCAY4 (RHS). YouTube proxy-blocked.",
-  "lastAuditAt": "2026-10-08T08:14:00Z",
+  "lastAuditAt": "2026-10-09T08:13:00Z",
   "auditStatus": "issues",
   "issueCount": 6,
-  "lastAuditRunAt": "2026-10-08T08:14:00Z",
-  "auditAutoFixed": 3,
-  "auditNote": "3 auto-fixes: theme-color added to jobs/index.html and jobs/2026-10-05-kingsdown-clifftop-hedge-cut-back.html; banned filler 'robust' replaced in sea-buckthorn-hedge-kent.html. 6 needs-review (all carry-overs): 5 LOW (WCA callout missing from hedge-noise-reduction-kent, hedgerow-age-dating, poisonous-hedge-plants-kent, formal-vs-informal-hedge borderline, and 5 articles from previous audit); YouTube proxy-blocked (113+ URLs unverifiable). How-to inventory, internal links, SEO, JSON-LD, sitemap, robots, em-dash, filler, tone all passed. 185 HTML pages."
+  "lastAuditRunAt": "2026-10-09T08:13:00Z",
+  "auditAutoFixed": 1,
+  "auditNote": "1 auto-fix: banned filler 'robust' replaced in bare-root-hedge-first-winter-care.html. 6 needs-review (all carry-overs): 5 LOW (WCA callout missing from hedge-noise-reduction-kent, hedgerow-age-dating, poisonous-hedge-plants-kent, formal-vs-informal-hedge borderline, and 5 articles from previous audit); YouTube proxy-blocked (87 unique video IDs unverifiable). How-to inventory, internal links, SEO, JSON-LD, sitemap, robots, em-dash, filler, tone, new articles all passed. 188 HTML pages."
 }
