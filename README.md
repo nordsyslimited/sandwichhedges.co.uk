@@ -41,7 +41,7 @@ Existing filter categories: `timing`, `species`, `conifers`, `restoration`, `wil
 
 ## Contact details
 
-- **Phone:** 07449 303889 (Richard)
+- **Phone:** 07763 100 477
 - **Receptionist:** 07888 868590
 - **Email:** hello@sandwichhedges.co.uk
 - **WhatsApp:** wa.me/447449303889

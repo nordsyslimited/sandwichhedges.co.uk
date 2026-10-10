@@ -1,5 +1,13 @@
 # Sandwich Hedges & Tree Services - how-to article template contract
 
+## Analytics, fonts and cookies (do not undo)
+
+- This site has NO Google Analytics, NO gtag or dataLayer snippet, NO Google Fonts links and NO cookie banner or cookie-consent script. They were removed deliberately on 8 October 2026. Do not add any of them back, on any page, template, generator or sample snippet, and do not add any other third-party script, font, image host or tracker.
+- Visit counting is NordAnalytics (first-party, cookieless). Every page loads `<script src="/assets/js/analytics.js?v=20261008" defer></script>` as the last element before `</body>`. That one file adds the footer links ("How we count visits", "Don't count my visits") and loads the counter. Copy the head, the footer and that script line from an existing page unchanged. Every new page must include it (redirect stubs with a meta refresh excepted).
+- Fonts are self-hosted: pages link `<link rel="stylesheet" href="/assets/fonts.css">` where a Google Fonts link used to be. Copy it from an existing page.
+- Audits: do NOT flag the absence of Google Analytics, a GA4 ID, gtag, consent mode or a cookie banner, and do NOT restore any of them. Older reports and notes that mention GA4 are out of date. DO flag and remove any page containing googletagmanager.com, gtag(, dataLayer, fonts.googleapis.com, fonts.gstatic.com or cookie-consent, and flag any non-redirect page missing the analytics.js script line.
+- `/privacy.html` carries the approved "Website statistics" section (id `website-statistics`). Keep its wording unchanged.
+
 > PUBLIC-COPY RULE (Richard, 2026-10-05) - OVERRIDES any older instruction below:
 > Never write NordSys or NordSys Limited on any public page, JSON-LD, meta, llms.txt or sitemap file.
 > Never write owner, founder, owned-by, run-by or operated-by statements, a company-ownership footer, or a surname-plus-company line.
@@ -44,7 +52,7 @@ Copy the head/body shape from an existing hand-authored article (e.g.
   `content-language=en-GB`
 - Fonts: Inter + DM Serif Display (same `<link>` block as existing pages)
 - Favicon: the inline SVG data URI already in use - do not invent a new one
-- GA4 tag `G-VLGN47T23T` - same gtag snippet verbatim
+- Analytics: none from Google. NordAnalytics (first-party, cookieless) is loaded by `/assets/js/analytics.js`, included at the end of every page (see the rule at the top of this file).
 - Full site nav (Home / Services dropdown incl. Tree Services / Areas /
   How-To Guides / About / Contact / pensioner-discount badge / Call CTA
   button)
@@ -174,7 +182,7 @@ what makes the content genuinely local rather than generic hedge-care copy.
 ## Non-goals
 
 - No cookie banners.
-- No `<script>` tags beyond `../assets/js/main.js` and the GA4 gtag snippet.
+- No `<script>` tags beyond `../assets/js/main.js` and the NordAnalytics script line (/assets/js/analytics.js).
 - No third-party embeds beyond a single YouTube iframe.
 - No author bylines beyond "By Richard & the Sandwich Hedges & Tree Services
   team" - no individually-named authorship, no fake real-person schema.
@@ -189,3 +197,17 @@ must satisfy every P1 rule from first ship. The 9 existing hand-authored
 articles are the reference implementation for exact markup shape - when in
 doubt, copy `how-to/when-to-trim-hedges.html`'s structure rather than
 inventing a new layout.
+
+## YouTube videos: click-to-play only (do not undo)
+
+Wherever this document mentions a YouTube `<iframe>` or embed, use the click-to-play button instead. An iframe loads YouTube (Google) before the visitor clicks, which sets cookies and shares their IP address. Put this exact markup inside the existing video wrapper element (keep the wrapper class unchanged):
+
+```html
+<button type="button" class="yt-play" data-yt-id="VIDEO_ID" data-yt-title="VIDEO TITLE"><span class="yt-play-icon" aria-hidden="true"></span><span class="yt-play-text">Play video<small>Playing this video loads it from YouTube (Google), which may store cookies on your device and receive your IP address.</small></span></button>
+```
+
+Use the real 11-character video id and the video title (HTML-escaped). The click handler is already in the site's `analytics.js`, which is on every page. Never write `<iframe ... youtube ...>` into a page. Any audit or check that finds a YouTube iframe in a page must convert it to this button. The video credit paragraph stays as it is.
+
+## Source lines: no process wording (do not undo)
+
+Published source credits must read like an honest reference list, never like a description of how the page was produced. Never write any of these on a public page: "egress", "proxy", "blocked", "generation environment", "INGESTION.md", "AGENTS.md", "web search", "cross-referenced via", "confirmed to exist via". If a source could not be opened, simply leave it out of the list or cite a source you did read. The only acceptable wording is plain, e.g. "checked against current sources". Audits must flag and rewrite any page that contains these phrases.
