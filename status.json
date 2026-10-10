@@ -1,17 +1,17 @@
 {
-  "lastRunAt": "2026-10-05T00:00:00Z",
+  "lastRunAt": "2026-10-10T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "note": "2026-10-05 content run: 3 new articles (coppicing-native-hedgerows, low-maintenance-hedges, hedgerow-age-dating). Structures: procedural / comparison / checklist-first. Videos: XTmPqli0nJc (Teagasc 22.8K subs, institutional authority); _Dc3B2I7bu4 (Garden Ninja/Lee Burkhill 75K+). hedgerow-age-dating has no embed (no credible video found for Hooper's Rule topic). YouTube proxy-blocked; channel authority verified via web search. JET-RELATED-GUIDES updated in 3 existing articles. Hub index and sitemap updated.",
-  "totalOnSite": 160,
-  "contentNote": "2026-10-05 content run: 3 new articles (coppicing-native-hedgerows, low-maintenance-hedges, hedgerow-age-dating). Structures: procedural / comparison / checklist-first. Videos: XTmPqli0nJc (Teagasc); _Dc3B2I7bu4 (Garden Ninja 75K+). YouTube proxy-blocked. JET-RELATED-GUIDES updated in 3 existing articles. Hub index and sitemap updated.",
-  "lastAuditAt": "2026-10-05T08:14:00Z",
+  "note": "2026-10-10 content run: 3 new articles (hedge-three-year-assessment, wasp-nests-in-hedges, hedge-boundary-ownership). Structures: comparison / procedural / decision-tree. Videos: RaNWPE17sVU (Garden Ninja ~73-78K subs), Q6RmbBJZ85o (Garden Ninja ~73-78K subs), gyhRxRdFERo (RJL Gardens, 1.3M views). YouTube proxy-blocked; channel authority verified via web search. JET-RELATED-GUIDES updated in formative-hedge-pruning, newly-planted-hedge-care, checking-hedge-for-birds-nests, when-to-trim-hedges, hedge-heights-neighbour-law, managing-mixed-boundary-hedge. Hub index and sitemap updated.",
+  "totalOnSite": 169,
+  "contentNote": "2026-10-10 content run: 3 new articles (hedge-three-year-assessment, wasp-nests-in-hedges, hedge-boundary-ownership). Structures: comparison / procedural / decision-tree. Videos: RaNWPE17sVU (Garden Ninja ~73-78K subs); Q6RmbBJZ85o (Garden Ninja ~73-78K subs); gyhRxRdFERo (RJL Gardens, 1.3M views). YouTube proxy-blocked.",
+  "lastAuditAt": "2026-10-09T08:13:00Z",
   "auditStatus": "issues",
   "issueCount": 6,
-  "lastAuditRunAt": "2026-10-05T08:14:00Z",
-  "auditAutoFixed": 24,
-  "auditNote": "24 auto-fixes: 24 stale sitemap lastmod entries updated to 2026-10-05 (e5c662f hygiene pass + fcc0877 wording removal + c23383a 3 new articles all touched multiple pages). 6 needs-review (all carry-overs): 5 LOW (WCA callout missing from box-tree-moth-caterpillar-damage, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedge-roots-foundations-drains-kent); 1 LOW carry-over (formal-vs-informal-hedge WCA borderline); YouTube proxy-blocked (113 URLs unverifiable). All SEO, schema, robots, em-dash, filler, hub inventory, internal links checks passed. 185 HTML pages."
+  "lastAuditRunAt": "2026-10-09T08:13:00Z",
+  "auditAutoFixed": 1,
+  "auditNote": "1 auto-fix: banned filler 'robust' replaced in bare-root-hedge-first-winter-care.html. 6 needs-review (all carry-overs): 5 LOW (WCA callout missing from hedge-noise-reduction-kent, hedgerow-age-dating, poisonous-hedge-plants-kent, formal-vs-informal-hedge borderline, and 5 articles from previous audit); YouTube proxy-blocked (87 unique IDs unverifiable). How-to inventory, internal links, SEO, JSON-LD, sitemap, robots, em-dash, filler, tone, new articles all passed. 188 HTML pages."
 }
