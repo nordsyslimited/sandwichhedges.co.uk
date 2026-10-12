@@ -8,10 +8,10 @@
   "note": "2026-10-12 content run: 3 new articles (hedgerow-standard-trees, sympathetic-hedge-cutting, garden-birds-hedge-nesting). Structures: checklist-first / comparison / procedural. Videos: _UV3cUE5QDc (WoodlandsTV ~87K subs, PTES collaboration), -wtGsvYybjc (UKCEH + NAAC, Chris Gardner), lV5hI-lD1-4 (Norfolk Wildlife Trust, Claylands Wilder Connections). YouTube proxy-blocked; channel authority verified via web search. JET-RELATED-GUIDES updated in wildlife-friendly-trimming, checking-hedge-for-birds-nests, hedges-as-wildlife-corridors. Hub index and sitemap updated.",
   "totalOnSite": 174,
   "contentNote": "2026-10-12 content run: 3 new articles (hedgerow-standard-trees, sympathetic-hedge-cutting, garden-birds-hedge-nesting). Structures: checklist-first / comparison / procedural. Videos: _UV3cUE5QDc (WoodlandsTV ~87K subs); -wtGsvYybjc (UKCEH + NAAC); lV5hI-lD1-4 (Norfolk Wildlife Trust). YouTube proxy-blocked; channel authority verified via web search.",
-  "lastAuditAt": "2026-10-11T08:17:00Z",
+  "lastAuditAt": "2026-10-12T08:18:00Z",
   "auditStatus": "issues",
-  "issueCount": 11,
-  "lastAuditRunAt": "2026-10-11T08:17:00Z",
-  "auditAutoFixed": 1,
-  "auditNote": "1 auto-fix: em-dash in arched-hedge-top-cutting.html:111 replaced with colon. 11 needs-review: 10 articles with potential WCA-1981 nesting callout (most borderline: planting/feeding/pest timing rather than trimming timing; hedge-noise-reduction-kent is highest priority carry-over); YouTube proxy-blocked (85 unique IDs unverifiable). All SEO basics, breadcrumbs, sitemap, robots.txt, JSON-LD pass. No banned filler, non-UK spelling or Google tracking detected. 196 HTML pages."
+  "issueCount": 3,
+  "lastAuditRunAt": "2026-10-12T08:18:00Z",
+  "auditAutoFixed": 0,
+  "auditNote": "0 auto-fixes: clean run. 3 needs-review carry-overs: (1) YouTube proxy-blocked, 85 unique IDs unverifiable; (2) hedge-noise-reduction-kent.html missing WCA-1981 callout (highest priority); (3) choosing-hedge-height.html missing WCA-1981 callout (borderline). All SEO basics, breadcrumbs, sitemap, robots.txt, JSON-LD pass for all 202 pages incl 3 new articles. No em-dashes, banned filler, non-UK spelling or Google tracking detected."
 }
