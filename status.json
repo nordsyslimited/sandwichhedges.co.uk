@@ -8,10 +8,10 @@
   "note": "2026-10-13 content run: 3 new articles (hedgerows-flood-water-management, holm-oak-hedge-care, spiraea-hedge-care). Structures: procedural / comparison / checklist-first. Videos: SxY_6tgoKaA (WoodlandsTV ~87K subs, PTES collaboration), 1TNhzMjco2c (Garden Ninja ~78K subs, Lee Burkhill). YouTube proxy-blocked; channel authority verified via web search. Third article (spiraea) written without video per template P2 guidance. JET-RELATED-GUIDES updated in wildlife-friendly-trimming, hedges-as-wildlife-corridors, yew-hedge-care, salt-tolerant-coastal-hedges-kent, weigela-hedge-care, spring-hedge-care. Hub index and sitemap updated.",
   "totalOnSite": 177,
   "contentNote": "2026-10-13 content run: 3 new articles (hedgerows-flood-water-management, holm-oak-hedge-care, spiraea-hedge-care). Structures: procedural / comparison / checklist-first. Videos: SxY_6tgoKaA (WoodlandsTV ~87K subs); 1TNhzMjco2c (Garden Ninja ~78K subs). YouTube proxy-blocked; channel authority verified via web search.",
-  "lastAuditAt": "2026-10-12T08:18:00Z",
+  "lastAuditAt": "2026-10-13T08:13:49Z",
   "auditStatus": "issues",
-  "issueCount": 3,
-  "lastAuditRunAt": "2026-10-12T08:18:00Z",
+  "issueCount": 2,
+  "lastAuditRunAt": "2026-10-13T08:13:49Z",
   "auditAutoFixed": 0,
-  "auditNote": "0 auto-fixes: clean run. 3 needs-review carry-overs: (1) YouTube proxy-blocked, 85 unique IDs unverifiable; (2) hedge-noise-reduction-kent.html missing WCA-1981 callout (highest priority); (3) choosing-hedge-height.html missing WCA-1981 callout (borderline). All SEO basics, breadcrumbs, sitemap, robots.txt, JSON-LD pass for all 202 pages incl 3 new articles. No em-dashes, banned filler, non-UK spelling or Google tracking detected."
+  "auditNote": "0 auto-fixes: clean run. 2 new needs-review items: (1) broken link in sympathetic-hedge-cutting.html to non-existent overgrown-hawthorn-hedge-trimming.html; (2) broken link in jobs/index.html missing .html extension. YouTube proxy-blocked (carry-over). WCA-1981 carry-overs from previous audit reassessed: hedge-noise-reduction-kent and choosing-hedge-height do not contain trimming-timing advice; recommend closing. All 205 pages pass SEO basics, BreadcrumbList, JSON-LD, sitemap, robots.txt. 3 new articles fully compliant."
 }
