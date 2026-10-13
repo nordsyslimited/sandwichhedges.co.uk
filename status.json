@@ -10,8 +10,8 @@
   "contentNote": "2026-10-13 content run: 3 new articles (hedgerows-flood-water-management, holm-oak-hedge-care, spiraea-hedge-care). Structures: procedural / comparison / checklist-first. Videos: SxY_6tgoKaA (WoodlandsTV ~87K subs); 1TNhzMjco2c (Garden Ninja ~78K subs). YouTube proxy-blocked; channel authority verified via web search.",
   "lastAuditAt": "2026-10-12T08:18:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "lastAuditRunAt": "2026-10-05T08:14:00Z",
-  "auditAutoFixed": 24,
-  "auditNote": "24 auto-fixes: 24 stale sitemap lastmod entries updated to 2026-10-05 (e5c662f hygiene pass + fcc0877 wording removal + c23383a 3 new articles all touched multiple pages). 6 needs-review (all carry-overs): 5 LOW (WCA callout missing from box-tree-moth-caterpillar-damage, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedge-roots-foundations-drains-kent); 1 LOW carry-over (formal-vs-informal-hedge WCA borderline); YouTube proxy-blocked (113 URLs unverifiable). All SEO, schema, robots, em-dash, filler, hub inventory, internal links checks passed. 185 HTML pages."
+  "issueCount": 3,
+  "lastAuditRunAt": "2026-10-12T08:18:00Z",
+  "auditAutoFixed": 0,
+  "auditNote": "0 auto-fixes: clean run. 3 needs-review carry-overs: (1) YouTube proxy-blocked, 85 unique IDs unverifiable; (2) hedge-noise-reduction-kent.html missing WCA-1981 callout (highest priority); (3) choosing-hedge-height.html missing WCA-1981 callout (borderline). All SEO basics, breadcrumbs, sitemap, robots.txt, JSON-LD pass for all 202 pages incl 3 new articles. No em-dashes, banned filler, non-UK spelling or Google tracking detected."
 }

@@ -11,7 +11,6 @@ const root = join(__dirname, "..");
 const dataDir = join(root, "data", "how-to");
 const howToDir = join(root, "how-to");
 
-const GA4 = "G-VLGN47T23T";
 const SITE = "https://sandwichhedges.co.uk";
 const TODAY = "2026-08-05";
 
@@ -49,9 +48,7 @@ function page(entry) {
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1" />
 <meta name="theme-color" content="#14573a" />
 <meta http-equiv="content-language" content="en-GB" />
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/assets/fonts.css" />
 <link rel="stylesheet" href="../assets/css/styles.css" />
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='16' fill='%2314573a'/><path d='M10 22c0-4 2-7 6-7s6 3 6 7' stroke='white' stroke-width='2' fill='none' stroke-linecap='round'/><circle cx='16' cy='11' r='3' fill='white'/></svg>" />
 
@@ -68,13 +65,6 @@ function page(entry) {
 <meta name="geo.placename" content="Sandwich, Kent" />
 <meta name="geo.position" content="51.2720;1.3403" />
 <meta name="ICBM" content="51.2720, 1.3403" />
-<!-- Google tag (gtag.js) -->
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{'analytics_storage':'denied','ad_storage':'denied','ad_user_data':'denied','ad_personalization':'denied'});</script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=${GA4}"></script>
-<script>
-window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
-gtag('js',new Date());gtag('config','${GA4}');
-</script>
 </head>
 <body>
 
@@ -102,7 +92,7 @@ gtag('js',new Date());gtag('config','${GA4}');
         <li><a href="index.html" class="active">How-To Guides</a></li>
         <li><a href="../about.html">About</a></li>
         <li><a href="../contact.html">Contact</a></li>
-        <li style="display:flex;align-items:center;"><span style="display:inline-block;background:var(--gold,#c9a961);color:#fff;padding:.15rem .5rem;border-radius:.25rem;font-size:.82rem;font-weight:600;">5% off for pensioners</span></li><li class="nav-cta"><a class="btn btn-primary" href="tel:+447449303889">Call 07449 303889</a></li>
+        <li style="display:flex;align-items:center;"><span style="display:inline-block;background:var(--gold,#c9a961);color:#fff;padding:.15rem .5rem;border-radius:.25rem;font-size:.82rem;font-weight:600;">5% off for pensioners</span></li><li class="nav-cta"><a class="btn btn-primary" href="tel:+447763100477">Call 07763 100 477</a></li>
       </ul>
     </nav>
   </div>
@@ -157,7 +147,7 @@ ${relatedHtml}
       <div>
         <div class="footer-brand">Sandwich Hedges &amp; Tree Services</div>
         <p class="footer-tagline">A proper haircut for your hedges. Sandwich, Deal and the villages of East Kent, trimmed by your neighbours.</p>
-        <p class="footer-phone">📞 07449 303889</p>
+        <p class="footer-phone">📞 07763 100 477</p>
         <p style="font-size:0.9rem; margin-top:0.25rem;">Receptionist · 07888 868590</p>
       </div>
       <div class="footer-col">
@@ -200,6 +190,7 @@ ${relatedHtml}
 
 <script src="../assets/js/main.js"></script>
 <script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
+<script src="/assets/js/analytics.js?v=20261008" defer></script>
 </body>
 </html>
 `;

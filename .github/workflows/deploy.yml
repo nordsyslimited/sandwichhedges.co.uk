@@ -62,6 +62,23 @@ jobs:
             **/*.tmp
             _*.py
             README.md
+            AGENTS.md
+            INGESTION.md
+            DEPLOYMENT.md
+            CLAUDE.md
+            TEMPLATES/**
+            scripts/**
+            reports/**
+            docs/**
+            config/**
+            status*.json
+            build.py
+            build.mjs
+            **/*.py
+            **/*.mjs
+            **/*.sh
+            **/*.md
+            **/*.env
 
       - name: Deploy summary
         if: always()

@@ -933,27 +933,3 @@ a.feature-card:hover {
 }
 .stat strong { font-family: var(--font-display); font-size: 2.4rem; color: var(--forest-900); display: block; line-height: 1; font-weight: 400; }
 .stat span { font-size: 0.9rem; color: var(--ink-500); display: block; margin-top: 0.4rem; }
-
-/* ---------- Cookie banner ---------- */
-.cookie-banner {
-  position: fixed;
-  bottom: 1rem; left: 1rem; right: 1rem;
-  max-width: 680px;
-  margin-inline: auto;
-  background: #fff;
-  border: 1px solid var(--line);
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-lg);
-  padding: 1.1rem 1.25rem;
-  z-index: 100;
-}
-.cookie-banner-inner { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
-.cookie-banner-text { margin: 0; font-size: 0.94rem; color: var(--ink-700); flex: 1; min-width: 220px; line-height: 1.5; }
-.cookie-banner-text a { color: var(--forest-700); }
-.cookie-banner-actions { display: flex; gap: 0.5rem; flex-shrink: 0; }
-.cookie-banner-actions .btn { padding: 0.55rem 1.1rem; font-size: 0.9rem; }
-@media (max-width: 560px) {
-  .cookie-banner { left: 0.75rem; right: 0.75rem; bottom: 0.75rem; padding: 1rem; }
-  .cookie-banner-actions { width: 100%; }
-  .cookie-banner-actions .btn { flex: 1; }
-}
