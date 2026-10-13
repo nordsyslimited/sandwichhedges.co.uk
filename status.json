@@ -12,6 +12,6 @@
   "auditStatus": "issues",
   "issueCount": 2,
   "lastAuditRunAt": "2026-10-13T08:13:49Z",
-  "auditAutoFixed": 0,
-  "auditNote": "0 auto-fixes: clean run. 2 new needs-review items: (1) broken link in sympathetic-hedge-cutting.html to non-existent overgrown-hawthorn-hedge-trimming.html; (2) broken link in jobs/index.html missing .html extension. YouTube proxy-blocked (carry-over). WCA-1981 carry-overs from previous audit reassessed: hedge-noise-reduction-kent and choosing-hedge-height do not contain trimming-timing advice; recommend closing. All 205 pages pass SEO basics, BreadcrumbList, JSON-LD, sitemap, robots.txt. 3 new articles fully compliant."
+  "auditAutoFixed": 1,
+  "auditNote": "1 auto-fix: sitemap.xml kingsdown jobs URL missing .html extension. 2 needs-review: (1) broken link in sympathetic-hedge-cutting.html to non-existent overgrown-hawthorn-hedge-trimming.html; (2) broken href in jobs/index.html missing .html extension for kingsdown job card. YouTube proxy-blocked (carry-over). WCA-1981 carry-overs from previous audit reassessed: hedge-noise-reduction-kent and choosing-hedge-height contain no trimming-timing advice; recommend closing. All 205 pages pass SEO basics, BreadcrumbList, JSON-LD, sitemap, robots.txt. 3 new articles fully compliant."
 }
