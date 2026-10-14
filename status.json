@@ -8,10 +8,10 @@
   "note": "2026-10-13 content run: 3 new articles (hedgerows-flood-water-management, holm-oak-hedge-care, spiraea-hedge-care). Structures: procedural / comparison / checklist-first. Videos: SxY_6tgoKaA (WoodlandsTV ~87K subs, PTES collaboration), 1TNhzMjco2c (Garden Ninja ~78K subs, Lee Burkhill). YouTube proxy-blocked; channel authority verified via web search. Third article (spiraea) written without video per template P2 guidance. JET-RELATED-GUIDES updated in wildlife-friendly-trimming, hedges-as-wildlife-corridors, yew-hedge-care, salt-tolerant-coastal-hedges-kent, weigela-hedge-care, spring-hedge-care. Hub index and sitemap updated.",
   "totalOnSite": 177,
   "contentNote": "2026-10-13 content run: 3 new articles (hedgerows-flood-water-management, holm-oak-hedge-care, spiraea-hedge-care). Structures: procedural / comparison / checklist-first. Videos: SxY_6tgoKaA (WoodlandsTV ~87K subs); 1TNhzMjco2c (Garden Ninja ~78K subs). YouTube proxy-blocked; channel authority verified via web search.",
-  "lastAuditAt": "2026-10-13T08:13:49Z",
+  "lastAuditAt": "2026-10-14T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "lastAuditRunAt": "2026-10-13T08:13:49Z",
-  "auditAutoFixed": 1,
-  "auditNote": "1 auto-fix: sitemap.xml kingsdown jobs URL missing .html extension. 2 needs-review: (1) broken link in sympathetic-hedge-cutting.html to non-existent overgrown-hawthorn-hedge-trimming.html; (2) broken href in jobs/index.html missing .html extension for kingsdown job card. YouTube proxy-blocked (carry-over). WCA-1981 carry-overs from previous audit reassessed: hedge-noise-reduction-kent and choosing-hedge-height contain no trimming-timing advice; recommend closing. All 205 pages pass SEO basics, BreadcrumbList, JSON-LD, sitemap, robots.txt. 3 new articles fully compliant."
+  "lastAuditRunAt": "2026-10-14T08:00:00Z",
+  "auditAutoFixed": 0,
+  "auditNote": "No new issues. 2 carry-over needs-review: (1) broken link in sympathetic-hedge-cutting.html to non-existent overgrown-hawthorn-hedge-trimming.html; (2) broken href in jobs/index.html missing .html extension for kingsdown job card. YouTube proxy-blocked (carry-over). All 207 pages pass SEO basics, BreadcrumbList, JSON-LD, sitemap, robots.txt, analytics.js. No em-dashes or banned filler found. All timing articles carry WCA-1981 callout including 3 new articles from 2026-10-13."
 }
