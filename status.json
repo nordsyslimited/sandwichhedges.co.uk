@@ -8,10 +8,10 @@
   "note": "2026-10-15 content run: 3 new articles (tamarisk-hedge-care, snowberry-hedge-care, fuchsia-hedge-care). Structures: checklist-first / procedural / comparison. No videos: YouTube proxy-blocked; no suitable UK channel videos found for these niche species. JET-RELATED-GUIDES updated in sea-buckthorn-hedge-kent, garden-birds-hedge-nesting, spiraea-hedge-care. Hub index and sitemap updated.",
   "totalOnSite": 180,
   "contentNote": "2026-10-15 content run: 3 new articles (tamarisk-hedge-care, snowberry-hedge-care, fuchsia-hedge-care). Structures: checklist-first / procedural / comparison. YouTube proxy-blocked; no videos in this run.",
-  "lastAuditAt": "2026-10-14T08:00:00Z",
+  "lastAuditAt": "2026-10-15T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "lastAuditRunAt": "2026-10-14T08:00:00Z",
+  "lastAuditRunAt": "2026-10-15T08:00:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "No new issues. 2 carry-over needs-review: (1) broken link in sympathetic-hedge-cutting.html to non-existent overgrown-hawthorn-hedge-trimming.html; (2) broken href in jobs/index.html missing .html extension for kingsdown job card. YouTube proxy-blocked (carry-over). All 207 pages pass SEO basics, BreadcrumbList, JSON-LD, sitemap, robots.txt, analytics.js. No em-dashes or banned filler found. All timing articles carry WCA-1981 callout including 3 new articles from 2026-10-13."
+  "auditNote": "No new issues. 2 carry-over needs-review: (1) broken link in sympathetic-hedge-cutting.html to non-existent overgrown-hawthorn-hedge-trimming.html; (2) broken href in jobs/index.html missing .html extension for kingsdown job card. YouTube proxy-blocked (carry-over, 19 text links). All 207 pages pass SEO basics, BreadcrumbList, JSON-LD, sitemap, robots.txt, analytics.js. No em-dashes or banned filler found. All 3 new articles (tamarisk, snowberry, fuchsia) pass all checks including WCA-1981 callout."
 }
