@@ -8,10 +8,10 @@
   "note": "2026-10-16 content run: 3 new articles (chaenomeles-hedge-care, philadelphus-hedge-care, sarcococca-hedge-care). Structures: procedural / comparison / checklist-first. Videos from existing verified inventory (David Domoney 2ZCFyc9qEXo, Garden Ninja _Dc3B2I7bu4, RHS LvymdHsq6rs). JET-RELATED-GUIDES updated in forsythia, weigela, box-alternatives, hedge-plants-for-shade. Hub index and sitemap updated.",
   "totalOnSite": 183,
   "contentNote": "2026-10-16 content run: 3 new articles (chaenomeles, philadelphus, sarcococca). Structures: procedural / comparison / checklist-first. Videos from existing verified inventory; YouTube DNS blocked in environment.",
-  "lastAuditAt": "2026-10-15T08:00:00Z",
+  "lastAuditAt": "2026-10-16T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 2,
-  "lastAuditRunAt": "2026-10-15T08:00:00Z",
-  "auditAutoFixed": 0,
-  "auditNote": "No new issues. 2 carry-over needs-review: (1) broken link in sympathetic-hedge-cutting.html to non-existent overgrown-hawthorn-hedge-trimming.html; (2) broken href in jobs/index.html missing .html extension for kingsdown job card. YouTube proxy-blocked (carry-over, 19 text links). All 207 pages pass SEO basics, BreadcrumbList, JSON-LD, sitemap, robots.txt, analytics.js. No em-dashes or banned filler found. All 3 new articles (tamarisk, snowberry, fuchsia) pass all checks including WCA-1981 callout."
+  "issueCount": 4,
+  "lastAuditRunAt": "2026-10-16T08:00:00Z",
+  "auditAutoFixed": 5,
+  "auditNote": "Auto-fixed 5: process wording removed from elder-hedge-care.html and phormium-garden-screening.html; missing OG+Twitter tags added to 404.html, privacy.html, jobs/index.html. 4 needs-review: (1) broken link sympathetic-hedge-cutting.html -> overgrown-hawthorn-hedge-trimming.html (missing article); (2) jobs/index.html kingsdown card missing .html extension; (3) YouTube video health unverifiable from environment (84 URLs, 130+ pages); (4) borderline 'leverage' in hedge-storm-damage.html FAQ (physical usage). All 207 pages pass SEO basics, BreadcrumbList, Article JSON-LD, sitemap, robots.txt, analytics.js, no em-dashes, no GA/gtag, no NordSys."
 }
