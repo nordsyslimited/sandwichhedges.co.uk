@@ -8,10 +8,10 @@
   "note": "2026-10-17 content run: 3 new articles (myrobalan-hedge-care, ribes-sanguineum-hedge-care, autumn-colour-hedges-kent). Structures: comparison / procedural / checklist-first. No videos (YouTube DNS blocked in environment). JET-RELATED-GUIDES updated in hawthorn, beech, forsythia, field-maple. Hub index and sitemap updated.",
   "totalOnSite": 186,
   "contentNote": "2026-10-17 content run: 3 new articles (myrobalan, ribes-sanguineum, autumn-colour-hedges). Structures: comparison / procedural / checklist-first. YouTube DNS blocked; no video embeds.",
-  "lastAuditAt": "2026-10-16T08:00:00Z",
+  "lastAuditAt": "2026-10-17T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "lastAuditRunAt": "2026-10-16T08:00:00Z",
-  "auditAutoFixed": 5,
-  "auditNote": "Auto-fixed 5: process wording removed from elder-hedge-care.html and phormium-garden-screening.html; missing OG+Twitter tags added to 404.html, privacy.html, jobs/index.html. 4 needs-review: (1) broken link sympathetic-hedge-cutting.html -> overgrown-hawthorn-hedge-trimming.html (missing article); (2) jobs/index.html kingsdown card missing .html extension; (3) YouTube video health unverifiable from environment (84 URLs, 130+ pages); (4) borderline 'leverage' in hedge-storm-damage.html FAQ (physical usage). All 207 pages pass SEO basics, BreadcrumbList, Article JSON-LD, sitemap, robots.txt, analytics.js, no em-dashes, no GA/gtag, no NordSys."
+  "lastAuditRunAt": "2026-10-17T08:00:00Z",
+  "auditAutoFixed": 1,
+  "auditNote": "Auto-fixed 1: process wording removed from rosemary-hedge-care.html (proxy mention). 4 needs-review: (1) broken link sympathetic-hedge-cutting.html -> overgrown-hawthorn-hedge-trimming.html (missing article, carried over); (2) jobs/index.html kingsdown card missing .html extension (carried over); (3) formal-vs-informal-hedge.html missing WCA-1981 nesting callout; (4) feeding-hedges.html borderline nesting callout (feeding timing article). All 211 pages pass SEO basics, BreadcrumbList, Article JSON-LD, sitemap, robots.txt, analytics.js, no em-dashes, no GA/gtag, no NordSys."
 }
