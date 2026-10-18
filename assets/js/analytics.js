@@ -95,7 +95,7 @@
     var id = btn.getAttribute('data-yt-id');
     if (!/^[A-Za-z0-9_-]{11}$/.test(id || '')) return;
     var f = document.createElement('iframe');
-    f.src = 'https://www.youtube.com/embed/' + id + '?autoplay=1';
+    f.src = 'https://www.youtube-nocookie.com/embed/' + id;
     f.title = btn.getAttribute('data-yt-title') || 'Video';
     f.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
     f.setAttribute('allowfullscreen', '');
@@ -106,4 +106,13 @@
     else f.setAttribute('style', 'width:100%;aspect-ratio:16/9;border:0');
     btn.parentNode.replaceChild(f, btn);
   });
+})();
+
+/* yt-auto: videos load directly (privacy-enhanced youtube-nocookie), no click-to-play notice. Site owner request 2026-10-14. */
+(function () {
+  function go() {
+    var b = document.querySelectorAll('.yt-play');
+    for (var i = 0; i < b.length; i++) { try { b[i].click(); } catch (e) {} }
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', go); else go();
 })();
