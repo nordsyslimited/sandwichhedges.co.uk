@@ -5,13 +5,13 @@
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "note": "2026-10-19 content run: 3 new articles (photinia-leaf-spot-treatment, hedge-trimmer-noise-law, cherry-laurel-vs-portuguese-laurel). Structures: checklist-first / decision-tree / comparison. No videos (YouTube DNS blocked in environment). JET-RELATED-GUIDES updated in photinia-red-robin-hedge-care, hedge-health-troubleshooting, hedge-heights-neighbour-law, hedge-boundary-ownership, laurel-hedge-care, portuguese-laurel-hedge-care. Hub index and sitemap updated.",
-  "totalOnSite": 193,
-  "contentNote": "2026-10-19: 3 new articles (photinia leaf spot checklist-first, hedge trimmer noise law decision-tree, cherry laurel vs portuguese laurel comparison). YouTube DNS blocked; no video embeds. JET-RELATED-GUIDES updated in 6 articles.",
-  "lastAuditAt": "2026-10-19T10:30:00Z",
+  "note": "2026-10-20 content run: 3 new articles (disinfecting-hedge-cutting-tools, hedge-trimming-wet-weather, hedge-cutting-finishing-guide). Structures: procedural / decision-tree / checklist-first. 1 video embed (Garden Ninja, ID _Dc3B2I7bu4, hedge-cutting-finishing-guide). YouTube DNS blocked; 2 articles have no video embed. JET-RELATED-GUIDES updated in box-blight-treatment, hedge-trimmer-maintenance, hedge-cutting-mistakes, hedge-trimming-safety-checklist, trim-a-hedge-straight, efficient-hedge-trimming-tips. Hub index and sitemap updated.",
+  "totalOnSite": 196,
+  "contentNote": "2026-10-20: 3 new articles. procedural/decision-tree/checklist-first. 1 Garden Ninja video embed (_Dc3B2I7bu4). YouTube DNS blocked for RHS and BBC GW verification. JET blocks updated in 6 articles.",
+  "lastAuditAt": "2026-10-20T09:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "lastAuditRunAt": "2026-10-19T10:30:00Z",
+  "lastAuditRunAt": "2026-10-20T09:00:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "No auto-fixes required 2026-10-19 (second run ~10:30). All 222 pages pass SEO basics, analytics, JSON-LD, robots.txt, BreadcrumbList, canonical, theme-color. Zero broken links. Zero em-dashes or banned filler. 3 needs-review (all carried forward): (1) 21 articles missing WCA-1981 nesting callout — note 10 have other warning callouts, not the nesting-season box; (2) trim-a-hedge-straight.html uses HowTo schema — explicitly allowed; (3) ~84-86 YouTube embeds unverifiable via proxy."
+  "auditNote": "No auto-fixes required 2026-10-20. All 232 pages pass SEO basics, analytics, JSON-LD, robots.txt, BreadcrumbList, canonical, theme-color. Zero broken links. Zero em-dashes or banned filler. 3 needs-review (all carried forward): (1) ~12 articles missing WCA-1981 nesting callout (reduced from 21; 3 new articles added 2026-10-20 all include callout); (2) trim-a-hedge-straight.html uses HowTo schema — explicitly allowed; (3) 136 pages with YouTube embeds unverifiable via proxy."
 }
