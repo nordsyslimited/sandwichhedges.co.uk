@@ -1,17 +1,17 @@
 {
-  "lastRunAt": "2026-10-20T00:00:00Z",
+  "lastRunAt": "2026-10-21T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "note": "2026-10-20 content run: 3 new articles (disinfecting-hedge-cutting-tools, hedge-trimming-wet-weather, hedge-cutting-finishing-guide). Structures: procedural / decision-tree / checklist-first. 1 video embed (Garden Ninja, ID _Dc3B2I7bu4, hedge-cutting-finishing-guide). YouTube DNS blocked; 2 articles have no video embed. JET-RELATED-GUIDES updated in box-blight-treatment, hedge-trimmer-maintenance, hedge-cutting-mistakes, hedge-trimming-safety-checklist, trim-a-hedge-straight, efficient-hedge-trimming-tips. Hub index and sitemap updated.",
-  "totalOnSite": 196,
-  "contentNote": "2026-10-20: 3 new articles. procedural/decision-tree/checklist-first. 1 Garden Ninja video embed (_Dc3B2I7bu4). YouTube DNS blocked for RHS and BBC GW verification. JET blocks updated in 6 articles.",
-  "lastAuditAt": "2026-10-20T09:00:00Z",
+  "note": "2026-10-21 content run: 3 new articles (protecting-new-hedge-rabbits-deer, underplanting-hedges-ground-cover, hedge-cutting-near-power-lines). Structures: checklist-first / comparison / procedural. No video embeds (YouTube DNS blocked; no confirmed IDs for article topics). JET-RELATED-GUIDES updated in planting-bare-root-hedges, autumn-hedge-planting-kent, hedgehog-friendly-hedge-base, weeds-at-hedge-base, hedge-heights-neighbour-law, overhanging-hedge-branches. Hub index and sitemap updated.",
+  "totalOnSite": 199,
+  "contentNote": "2026-10-21: 3 new articles. checklist-first/comparison/procedural. No video embeds (YouTube DNS blocked). JET blocks updated in 6 articles.",
+  "lastAuditAt": "2026-10-21T09:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 3,
-  "lastAuditRunAt": "2026-10-20T09:00:00Z",
-  "auditAutoFixed": 0,
-  "auditNote": "No auto-fixes required 2026-10-20. All 232 pages pass SEO basics, analytics, JSON-LD, robots.txt, BreadcrumbList, canonical, theme-color. Zero broken links. Zero em-dashes or banned filler. 3 needs-review (all carried forward): (1) ~12 articles missing WCA-1981 nesting callout (reduced from 21; 3 new articles added 2026-10-20 all include callout); (2) trim-a-hedge-straight.html uses HowTo schema — explicitly allowed; (3) 136 pages with YouTube embeds unverifiable via proxy."
+  "issueCount": 4,
+  "lastAuditRunAt": "2026-10-21T09:00:00Z",
+  "auditAutoFixed": 2,
+  "auditNote": "2026-10-21 audit: 2 auto-fixes (sitemap lastmods for homepage 2026-10-17 and how-to/ 2026-10-21). All 235 pages pass SEO basics, analytics, JSON-LD, robots.txt, BreadcrumbList, canonical, theme-color. Zero broken links. Zero em-dashes or banned filler. 4 needs-review: (1) trim-a-hedge-straight uses HowTo schema — accepted; (2) 46 YouTube embeds unverifiable via proxy; (3) 13 articles with timing content missing WCA-1981 nesting callout (11 carried forward, 2 new articles added today); (4) content relevance — no issues found."
 }
