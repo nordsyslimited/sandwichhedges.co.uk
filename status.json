@@ -8,10 +8,10 @@
   "note": "2026-10-22 content run: 3 new articles (camellia-hedge-care, rhododendron-garden-hedge, photinia-vs-cherry-laurel). Structures: procedural / decision-tree / comparison. No video embeds (YouTube DNS blocked). JET-RELATED-GUIDES updated in photinia-red-robin-hedge-care, choosing-hedge-species-kent, cherry-laurel-vs-portuguese-laurel. Hub index and sitemap updated.",
   "totalOnSite": 202,
   "contentNote": "2026-10-22: 3 new articles. procedural/decision-tree/comparison. No video embeds (YouTube DNS blocked). JET blocks updated in 3 articles.",
-  "lastAuditAt": "2026-10-21T09:00:00Z",
+  "lastAuditAt": "2026-10-22T08:11:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "lastAuditRunAt": "2026-10-21T09:00:00Z",
-  "auditAutoFixed": 2,
-  "auditNote": "2026-10-21 audit: 2 auto-fixes (sitemap lastmods for homepage 2026-10-17 and how-to/ 2026-10-21). All 235 pages pass SEO basics, analytics, JSON-LD, robots.txt, BreadcrumbList, canonical, theme-color. Zero broken links. Zero em-dashes or banned filler. 4 needs-review: (1) trim-a-hedge-straight uses HowTo schema — accepted; (2) 46 YouTube embeds unverifiable via proxy; (3) 13 articles with timing content missing WCA-1981 nesting callout (11 carried forward, 2 new articles added today); (4) content relevance — no issues found."
+  "lastAuditRunAt": "2026-10-22T08:11:00Z",
+  "auditAutoFixed": 1,
+  "auditNote": "2026-10-22 audit: 1 auto-fix (banned word 'robust' → 'hardy' in photinia-vs-cherry-laurel.html). All 235 pages pass SEO basics, analytics, JSON-LD, robots.txt, BreadcrumbList, canonical, theme-color. Zero broken links. Zero em-dashes. 4 needs-review (all carried forward): (1) trim-a-hedge-straight uses HowTo schema — accepted; (2) 46 YouTube embeds unverifiable via proxy; (3) 13 articles with timing content missing WCA-1981 nesting callout; (4) content relevance — no issues found."
 }
