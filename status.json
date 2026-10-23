@@ -8,10 +8,10 @@
   "note": "2026-10-23 content run: 3 new articles (abelia-hedge-care, slow-worms-hedge-garden, cone-pyramid-topiary-training). Structures: checklist-first / procedural / comparison. No video embeds (YouTube DNS blocked). JET-RELATED-GUIDES updated in 8 existing articles. Hub index and sitemap updated.",
   "totalOnSite": 205,
   "contentNote": "2026-10-23: 3 new articles. checklist-first/procedural/comparison. No video embeds (YouTube DNS blocked). JET blocks updated in 8 articles.",
-  "lastAuditAt": "2026-10-22T08:11:00Z",
+  "lastAuditAt": "2026-10-23T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "lastAuditRunAt": "2026-10-22T08:11:00Z",
-  "auditAutoFixed": 1,
-  "auditNote": "2026-10-22 audit: 1 auto-fix (banned word 'robust' replaced with 'hardy' in photinia-vs-cherry-laurel.html). All 235 pages pass SEO basics, analytics, JSON-LD, robots.txt, BreadcrumbList, canonical, theme-color. Zero broken links. Zero em-dashes. 4 needs-review (all carried forward): (1) trim-a-hedge-straight uses HowTo schema -- accepted; (2) 46 YouTube embeds unverifiable via proxy; (3) 13 articles with timing content missing WCA-1981 nesting callout; (4) content relevance -- no issues found."
+  "lastAuditRunAt": "2026-10-23T08:00:00Z",
+  "auditAutoFixed": 2,
+  "auditNote": "2026-10-23 audit: 2 auto-fixes (banned words 'robust' -> 'vigorous' in protecting-new-hedge-rabbits-deer.html, 'leverage' -> 'load' in hedge-storm-damage.html). All 237 pages pass SEO basics, JSON-LD, robots.txt, BreadcrumbList, canonical, theme-color. Sitemap complete (232 entries, all with lastmod). Zero em-dashes. 4 needs-review: (1) trim-a-hedge-straight uses HowTo schema -- accepted; (2) 46 YouTube embeds unverifiable via proxy; (3) 13 articles with timing content missing WCA-1981 nesting callout; (4) NEW broken link: abelia-hedge-care.html links to non-existent flowering-hedge-species.html."
 }
