@@ -8,10 +8,10 @@
   "note": "2026-10-24 content run: 3 new articles (leylandii-first-three-years, yew-vs-leylandii-hedge, beech-hedge-winter-leaves). Structures: procedural / comparison / decision-tree. No video embeds (YouTube DNS blocked). JET-RELATED-GUIDES updated in 7 existing articles. Hub index and sitemap updated.",
   "totalOnSite": 208,
   "contentNote": "2026-10-24: 3 new articles. procedural/comparison/decision-tree. No video embeds (YouTube DNS blocked). JET blocks updated in 7 articles.",
-  "lastAuditAt": "2026-10-23T08:00:00Z",
+  "lastAuditAt": "2026-10-24T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "lastAuditRunAt": "2026-10-23T08:00:00Z",
-  "auditAutoFixed": 2,
-  "auditNote": "2026-10-23 audit: 2 auto-fixes (banned words 'robust' -> 'vigorous' in protecting-new-hedge-rabbits-deer.html, 'leverage' -> 'load' in hedge-storm-damage.html). All 237 pages pass SEO basics, JSON-LD, robots.txt, BreadcrumbList, canonical, theme-color. Sitemap complete (232 entries, all with lastmod). Zero em-dashes. 4 needs-review: (1) trim-a-hedge-straight uses HowTo schema -- accepted; (2) 46 YouTube embeds unverifiable via proxy; (3) 13 articles with timing content missing WCA-1981 nesting callout; (4) NEW broken link: abelia-hedge-care.html links to non-existent flowering-hedge-species.html."
+  "issueCount": 3,
+  "lastAuditRunAt": "2026-10-24T08:00:00Z",
+  "auditAutoFixed": 0,
+  "auditNote": "2026-10-24 audit: 0 auto-fixes. All 208 how-to pages pass SEO basics, JSON-LD, BreadcrumbList, canonical, theme-color, analytics.js. Robots.txt complete (15 bots). Sitemap: 235 URLs all with lastmod. Zero em-dashes. Zero prose filler words (bamboo 'robust' is species name). All 22 timing pages have WCA-1981 callout. 3 carried needs-review: (1) abelia-hedge-care.html broken link to non-existent flowering-hedge-species.html; (2) 85 YouTube URLs unverifiable via proxy; (3) trim-a-hedge-straight HowTo schema -- accepted."
 }
