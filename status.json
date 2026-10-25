@@ -1,17 +1,17 @@
 {
-  "lastRunAt": "2026-10-24T00:00:00Z",
+  "lastRunAt": "2026-10-25T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "note": "2026-10-24 content run: 3 new articles (leylandii-first-three-years, yew-vs-leylandii-hedge, beech-hedge-winter-leaves). Structures: procedural / comparison / decision-tree. No video embeds (YouTube DNS blocked). JET-RELATED-GUIDES updated in 7 existing articles. Hub index and sitemap updated.",
-  "totalOnSite": 208,
-  "contentNote": "2026-10-24: 3 new articles. procedural/comparison/decision-tree. No video embeds (YouTube DNS blocked). JET blocks updated in 7 articles.",
+  "note": "2026-10-25 content run: 3 new articles (battery-vs-petrol-hedge-trimmer, spring-hedge-planting-kent, ilex-crenata-box-alternative). Structures: comparison / checklist-first / procedural. 12 JET-RELATED-GUIDES blocks updated. Hub index + sitemap updated.",
+  "totalOnSite": 211,
+  "contentNote": "Oct 25 run added comparison (battery vs petrol trimmer), checklist-first (spring planting Kent), procedural (ilex crenata box alternative). No video embeds (YouTube DNS blocked). Channel authority: David Domoney, RHS, Garden Ninja.",
   "lastAuditAt": "2026-10-24T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
   "lastAuditRunAt": "2026-10-24T08:00:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-10-24 audit: 0 auto-fixes. All 208 how-to pages pass SEO basics, JSON-LD, BreadcrumbList, canonical, theme-color, analytics.js. Robots.txt complete (15 bots). Sitemap: 235 URLs all with lastmod. Zero em-dashes. Zero prose filler words (bamboo 'robust' is species name). All 22 timing pages have WCA-1981 callout. 3 carried needs-review: (1) abelia-hedge-care.html broken link to non-existent flowering-hedge-species.html; (2) 85 YouTube URLs unverifiable via proxy; (3) trim-a-hedge-straight HowTo schema -- accepted."
+  "auditNote": "2026-10-24 audit: 0 auto-fixes. All 208 how-to pages pass SEO basics. 13 articles with timing content missing WCA-1981 nesting callout flagged for next audit pass. All 3 new articles (Oct 25) include nesting callout where required."
 }
