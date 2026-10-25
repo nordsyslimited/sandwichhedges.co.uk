@@ -8,10 +8,10 @@
   "note": "2026-10-25 content run: 3 new articles (battery-vs-petrol-hedge-trimmer, spring-hedge-planting-kent, ilex-crenata-box-alternative). Structures: comparison / checklist-first / procedural. 12 JET-RELATED-GUIDES blocks updated. Hub index + sitemap updated.",
   "totalOnSite": 211,
   "contentNote": "Oct 25 run added comparison (battery vs petrol trimmer), checklist-first (spring planting Kent), procedural (ilex crenata box alternative). No video embeds (YouTube DNS blocked). Channel authority: David Domoney, RHS, Garden Ninja.",
-  "lastAuditAt": "2026-10-24T08:00:00Z",
+  "lastAuditAt": "2026-10-25T08:11:00Z",
   "auditStatus": "issues",
-  "issueCount": 3,
-  "lastAuditRunAt": "2026-10-24T08:00:00Z",
+  "issueCount": 2,
+  "lastAuditRunAt": "2026-10-25T08:11:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-10-24 audit: 0 auto-fixes. All 208 how-to pages pass SEO basics. 13 articles with timing content missing WCA-1981 nesting callout flagged for next audit pass. All 3 new articles (Oct 25) include nesting callout where required."
+  "auditNote": "2026-10-25 audit: 0 auto-fixes. All 211 how-to pages pass SEO basics, JSON-LD, analytics, geo meta. All 32 timing-category pages carry WCA-1981 nesting callout. 2 carried needs-review: broken link in abelia-hedge-care.html; YouTube unverifiable from container."
 }
