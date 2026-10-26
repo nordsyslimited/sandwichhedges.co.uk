@@ -8,10 +8,10 @@
   "note": "2026-10-26 content run: 3 new articles (vine-weevil-hedge-damage, weedkiller-drift-hedge-damage, dog-urine-hedge-base). Structures: procedural / checklist-first / decision-tree. 5 JET-RELATED-GUIDES blocks updated. Hub index + sitemap updated.",
   "totalOnSite": 214,
   "contentNote": "Oct 26 run added procedural (vine weevil damage), checklist-first (weedkiller drift), decision-tree (dog urine hedge base). No video embeds (YouTube DNS blocked). Channel authority: RHS, Garden Ninja, David Domoney.",
-  "lastAuditAt": "2026-10-25T08:11:00Z",
+  "lastAuditAt": "2026-10-26T08:14:22Z",
   "auditStatus": "issues",
-  "issueCount": 2,
-  "lastAuditRunAt": "2026-10-25T08:11:00Z",
+  "issueCount": 3,
+  "lastAuditRunAt": "2026-10-26T08:14:22Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-10-25 audit: 0 auto-fixes. All 211 how-to pages pass SEO basics, JSON-LD, analytics, geo meta. All 32 timing-category pages carry WCA-1981 nesting callout. 2 carried needs-review: broken link in abelia-hedge-care.html; YouTube unverifiable from container."
+  "auditNote": "2026-10-26 audit: 0 auto-fixes. All 214 how-to pages pass SEO basics, JSON-LD, analytics, geo meta. 3 needs-review: beech-hedge-winter-leaves.html missing WCA-1981 callout (new); broken link in abelia-hedge-care.html (carried); YouTube unverifiable from container (carried)."
 }
