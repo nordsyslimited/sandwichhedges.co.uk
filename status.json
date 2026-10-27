@@ -1,17 +1,17 @@
 {
-  "lastRunAt": "2026-10-26T00:00:00Z",
+  "lastRunAt": "2026-10-27T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "note": "2026-10-26 content run: 3 new articles (vine-weevil-hedge-damage, weedkiller-drift-hedge-damage, dog-urine-hedge-base). Structures: procedural / checklist-first / decision-tree. 5 JET-RELATED-GUIDES blocks updated. Hub index + sitemap updated.",
-  "totalOnSite": 214,
-  "contentNote": "Oct 26 run added procedural (vine weevil damage), checklist-first (weedkiller drift), decision-tree (dog urine hedge base). No video embeds (YouTube DNS blocked). Channel authority: RHS, Garden Ninja, David Domoney.",
-  "lastAuditAt": "2026-10-26T08:14:22Z",
+  "note": "2026-10-27 content run: 3 new articles (garrya-elliptica-hedge-kent, hedge-planting-sandy-soil-kent, shared-boundary-hedge-planting). Structures: comparison / procedural / checklist-first. 3 JET-RELATED-GUIDES blocks updated. Hub index + sitemap updated.",
+  "totalOnSite": 217,
+  "contentNote": "Oct 27 run added comparison (Garrya vs Viburnum/Lonicera), procedural (sandy coastal soil planting), checklist-first (shared boundary planting). YouTube DNS blocked again; channel authority: Garden Ninja (verified 7M+ views, BBC), Ashridge Trees (specialist UK nursery, HedgeLink endorsed).",
+  "lastAuditAt": "2026-10-27T08:14:53Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "lastAuditRunAt": "2026-10-26T08:14:22Z",
+  "lastAuditRunAt": "2026-10-27T08:14:53Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-10-26 audit: 0 auto-fixes. All 214 how-to pages pass SEO basics, JSON-LD, analytics, geo meta. 3 needs-review: beech-hedge-winter-leaves.html missing WCA-1981 callout (new); broken link in abelia-hedge-care.html (carried); YouTube unverifiable from container (carried)."
+  "auditNote": "2026-10-27 audit: 0 auto-fixes. All 217 how-to pages pass SEO basics, JSON-LD, analytics, geo meta. 3 needs-review (all carried): beech-hedge-winter-leaves.html missing WCA-1981 callout; broken link in abelia-hedge-care.html; YouTube unverifiable from container."
 }
