@@ -8,10 +8,10 @@
   "note": "2026-10-28 content run: 3 new articles (trench-planting-formal-hedge, hedge-plants-wet-soil-kent, hawthorn-hedge-planting). Structures: procedural / comparison / checklist-first. 2 JET-RELATED-GUIDES blocks updated. Hub index + sitemap updated.",
   "totalOnSite": 220,
   "contentNote": "Oct 28 run added procedural (trench planting formal hedges), comparison (wet/waterlogged soil species), checklist-first (hawthorn planting). YouTube DNS blocked again; channel authority: Ashridge Trees (major UK bareroot nursery, HedgeLink endorsed), Habitat Aid (UK B Corp, HedgeLink listed), Gardeners' World BBC 2024 Ep32.",
-  "lastAuditAt": "2026-10-27T08:14:53Z",
+  "lastAuditAt": "2026-10-28T08:14:56Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "lastAuditRunAt": "2026-10-27T08:14:53Z",
+  "lastAuditRunAt": "2026-10-28T08:14:56Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-10-27 audit: 0 auto-fixes. All 217 how-to pages pass SEO basics, JSON-LD, analytics, geo meta. 3 needs-review (all carried): beech-hedge-winter-leaves.html missing WCA-1981 callout; broken link in abelia-hedge-care.html; YouTube unverifiable from container."
+  "auditNote": "2026-10-28 audit: 0 auto-fixes. All 249 pages pass SEO basics, JSON-LD, analytics, geo meta. 3 needs-review (all carried): beech-hedge-winter-leaves.html missing WCA-1981 callout; broken link in abelia-hedge-care.html (flowering-hedge-species.html missing); YouTube unverifiable from container."
 }
