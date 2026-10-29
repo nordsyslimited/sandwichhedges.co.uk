@@ -8,10 +8,10 @@
   "note": "2026-10-29 content run: 3 new articles (dead-or-dormant-hedge-guide, leylandii-vs-thuja-plicata, winterising-hedge-trimmer). Structures: decision-tree / comparison / procedural. 4 JET-RELATED-GUIDES blocks updated. Hub index + sitemap updated.",
   "totalOnSite": 223,
   "contentNote": "Oct 29 run added decision-tree (dead or dormant hedge diagnosis), comparison (leylandii vs thuja plicata conifer screens), procedural (winterising hedge trimmer end-of-season storage). YouTube DNS blocked again; no specific video IDs embedded; STIHL GB and Husqvarna UK referenced by name in text only. Decision-tree structure used for the first time this run.",
-  "lastAuditAt": "2026-10-28T08:14:56Z",
+  "lastAuditAt": "2026-10-29T08:15:42Z",
   "auditStatus": "issues",
-  "issueCount": 3,
-  "lastAuditRunAt": "2026-10-28T08:14:56Z",
-  "auditAutoFixed": 0,
-  "auditNote": "2026-10-28 audit: 0 auto-fixes. All 249 pages pass SEO basics, JSON-LD, analytics, geo meta. 3 needs-review (all carried): beech-hedge-winter-leaves.html missing WCA-1981 callout; broken link in abelia-hedge-care.html (flowering-hedge-species.html missing); YouTube unverifiable from container."
+  "issueCount": 4,
+  "lastAuditRunAt": "2026-10-29T08:15:42Z",
+  "auditAutoFixed": 16,
+  "auditNote": "2026-10-29 audit: 16 auto-fixes (em-dashes in 3 new articles: dead-or-dormant-hedge-guide, leylandii-vs-thuja-plicata, winterising-hedge-trimmer). 4 needs-review: 2 broken internal links (abelia missing flowering-hedge-species.html; dead-or-dormant missing overgrown-and-gappy-hedge-renovation.html); beech-hedge-winter-leaves.html missing WCA-1981 callout; 84 YouTube videos unverifiable from container."
 }
