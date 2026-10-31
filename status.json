@@ -9,10 +9,10 @@
   "totalOnSite": 229,
   "contentNote": "Oct 31 run: checklist-first (privet summer trim: 9-point checklist, june/august light cuts, jason Gardener video Z5fmLLjQ4ME credited), procedural (correcting uneven hedge top: 6 steps, string-line method, one vs two season), comparison (yew formal cut: trimmer vs hand shears table, two-pass technique, batter). YouTube DNS blocked again; jason Gardener channel authority confirmed via Feedspot 2026 UK listing (15.7K subs). 2 other video IDs omitted (channel unverified). Nesting-season callout in all 3 articles.",
   "previousStructures": ["checklist-first", "procedural", "comparison"],
-  "lastAuditAt": "2026-10-30T08:13:00Z",
+  "lastAuditAt": "2026-10-31T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "lastAuditRunAt": "2026-10-30T08:13:00Z",
+  "issueCount": 5,
+  "lastAuditRunAt": "2026-10-31T08:00:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-10-30 audit: 0 auto-fixes. 4 needs-review (all carry-forward): 2 broken internal links (abelia missing flowering-hedge-species.html; dead-or-dormant missing overgrown-and-gappy-hedge-renovation.html); beech-hedge-winter-leaves.html informal WCA-1981 reference only; 84 YouTube videos unverifiable from container. 3 new articles (deutzia, cotinus, amelanchier) structurally clean."
+  "auditNote": "2026-10-31 audit: 0 auto-fixes. 5 needs-review: NEW broken link in correcting-uneven-hedge-top.html (overgrown-hedge-how-to-rescue.html missing, added Oct 31 content run); carry-forward: abelia->flowering-hedge-species.html; dead-or-dormant->overgrown-and-gappy-hedge-renovation.html; beech-hedge-winter-leaves informal WCA-1981; 84 YouTube embeds unverifiable. All SEO, schema, robots, sitemap, analytics, tone checks passed."
 }
