@@ -9,10 +9,10 @@
   "totalOnSite": 232,
   "contentNote": "Nov 1 run: procedural (native hedgerow rotational management: 6 steps, 2- or 3-year rotation, wildlife value of uncut sections), comparison (garden shredder: 3-way table drum vs impeller vs green waste, yew exception, mulch output), procedural (climbing plants through hedge: 5 steps, honeysuckle/dog rose/clematis, plants to avoid). YouTube DNS blocked again; no video IDs confirmed; all 3 articles published without video credit. 6 JET-RELATED-GUIDES blocks updated across wildlife-friendly-trimming, garden-birds-hedge-nesting, composting-hedge-trimmings, disposing-hedge-clippings-safely, pollinator-friendly-hedges-kent, bat-friendly-hedges-kent.",
   "previousStructures": ["procedural", "comparison", "procedural"],
-  "lastAuditAt": "2026-10-31T08:00:00Z",
+  "lastAuditAt": "2026-11-01T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "lastAuditRunAt": "2026-10-31T08:00:00Z",
+  "issueCount": 20,
+  "lastAuditRunAt": "2026-11-01T08:00:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-10-31 audit: 0 auto-fixes. 5 needs-review: NEW broken link in correcting-uneven-hedge-top.html (overgrown-hedge-how-to-rescue.html missing, added Oct 31 content run); carry-forward: abelia->flowering-hedge-species.html; dead-or-dormant->overgrown-and-gappy-hedge-renovation.html; beech-hedge-winter-leaves informal WCA-1981; 84 YouTube embeds unverifiable. All SEO, schema, robots, sitemap, analytics, tone checks passed."
+  "auditNote": "2026-11-01 audit: 0 auto-fixes. 20 needs-review: 3 broken internal links (carry-forward: abelia->flowering-hedge-species.html, correcting-uneven-hedge-top->overgrown-hedge-how-to-rescue.html, dead-or-dormant->overgrown-and-gappy-hedge-renovation.html); 1 YouTube batch (84 embeds, proxy-blocked, unverifiable); 16 potential WCA-1981 callout misses (broad-keyword flag, most likely false positives). All SEO, schema, robots, sitemap, analytics, tone checks passed."
 }
