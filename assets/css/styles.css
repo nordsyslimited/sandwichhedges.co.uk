@@ -308,6 +308,16 @@ p { margin: 0 0 1em; }
   .nav-links a { padding: 0.75rem 1rem; width: 100%; border-radius: 6px; }
   .nav-dropdown-menu { position: static; box-shadow: none; border: 0; padding: 0 0 0 0.75rem; opacity: 1; visibility: visible; transform: none; min-width: 0; }
   .nav-dropdown > button { width: 100%; text-align: left; justify-content: space-between; }
+  /* Mobile menu alignment: stretch items and left-align so Services children line up with the rest */
+  .nav-links { align-items: stretch; }
+  .nav-links > li { width: 100%; }
+  .nav-links a { display: block; text-align: left; }
+  .nav-dropdown-menu { padding: 0 0 0 1rem; }
+  .nav-dropdown-menu a { width: 100%; }
+  .nav-links > li[style*="display:flex"] { justify-content: flex-start; padding: 0.4rem 1rem; }
+  .nav-dropdown > button { padding: 0.75rem 1rem; font-size: 0.94rem; }
+  .nav-cta { margin-left: 0; }
+  .nav-links a.btn-primary { text-align: center; justify-content: center; }
 }
 
 /* ---------- Hero ---------- */
