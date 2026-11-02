@@ -9,10 +9,10 @@
   "totalOnSite": 240,
   "contentNote": "Nov 2 run: checklist-first (hiring a hedge contractor: 12-point checklist, insurance, nesting timing, waste, access, PPE, payments, references), comparison (privet vs laurel: table + when-to-choose-each, trimming calendar, nesting callout), procedural (juniper hedge care: 6 steps, variety selection, planting/drainage, green-only rule, annual trim timing, common problems incl. Phytophthora/Kabatina/spider mite). YouTube DNS blocked again; no video IDs confirmed; all 3 articles published without video credit. 6 JET-RELATED-GUIDES blocks updated across professional-vs-diy-hedge-trimming, hedge-trimming-safety-checklist, privet-hedge-care, laurel-hedge-care, trimming-conifer-hedges, yew-hedge-care.",
   "previousStructures": ["checklist-first", "comparison", "procedural"],
-  "lastAuditAt": "2026-11-01T08:00:00Z",
+  "lastAuditAt": "2026-11-02T08:26:53Z",
   "auditStatus": "issues",
-  "issueCount": 20,
-  "lastAuditRunAt": "2026-11-01T08:00:00Z",
+  "issueCount": 11,
+  "lastAuditRunAt": "2026-11-02T08:26:53Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-11-01 audit: 0 auto-fixes. 20 needs-review: 3 broken internal links (carry-forward: abelia->flowering-hedge-species.html, correcting-uneven-hedge-top->overgrown-hedge-how-to-rescue.html, dead-or-dormant->overgrown-and-gappy-hedge-renovation.html); 1 YouTube batch (84 embeds, proxy-blocked, unverifiable); 16 potential WCA-1981 callout misses (broad-keyword flag, most likely false positives). All SEO, schema, robots, sitemap, analytics, tone checks passed."
+  "auditNote": "2026-11-02 audit: 0 auto-fixes. 11 needs-review: 3 broken internal links (carry-forward: abelia->flowering-hedge-species.html, correcting-uneven-hedge-top->overgrown-hedge-how-to-rescue.html, dead-or-dormant->overgrown-and-gappy-hedge-renovation.html); 1 YouTube batch (15 pages with watch links, proxy-blocked, unverifiable); 8 potential WCA-1981 callout misses (narrowed from 16, mostly false positives on pest/ecological timing). All SEO, schema, robots, sitemap, analytics, tone checks passed. 3 new articles (hiring contractor, privet-vs-laurel, juniper) verified in hub and sitemap."
 }
