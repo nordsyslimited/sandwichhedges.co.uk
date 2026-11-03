@@ -9,10 +9,10 @@
   "totalOnSite": 243,
   "contentNote": "Nov 3 run: procedural (rowan/Sorbus aucuparia in East Kent mixed native hedgerows: planting, formative pruning, fireblight, wildlife berry value for fieldfares and redwings), comparison (pittosporum vs griselinia for coastal hedging: 10-factor table, salt/frost tolerance, sheltered vs exposed position guidance for Sandwich Bay), checklist-first (Leycesteria formosa pheasant berry as informal hedge: 8-point front checklist, hard annual cut late-Feb, self-seeding control, wildlife value including solitary bee stem nesting). YouTube DNS blocked again; no video IDs confirmed; all 3 articles published without video credit. 8 JET-RELATED-GUIDES blocks updated across planting-native-hedge-kent, garden-birds-hedge-nesting (2 links), coppicing-native-hedgerows, pittosporum-hedge-care, griselinia-hedge-care, salt-tolerant-coastal-hedges-kent, wildlife-friendly-trimming, formal-vs-informal-hedge.",
   "previousStructures": ["procedural", "comparison", "checklist-first"],
-  "lastAuditAt": "2026-11-02T08:26:53Z",
+  "lastAuditAt": "2026-11-03T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 11,
-  "lastAuditRunAt": "2026-11-02T08:26:53Z",
+  "issueCount": 5,
+  "lastAuditRunAt": "2026-11-03T08:00:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-11-02 audit: 0 auto-fixes. 11 needs-review: 3 broken internal links (carry-forward: abelia->flowering-hedge-species.html, correcting-uneven-hedge-top->overgrown-hedge-how-to-rescue.html, dead-or-dormant->overgrown-and-gappy-hedge-renovation.html); 1 YouTube batch (15 pages with watch links, proxy-blocked, unverifiable); 8 potential WCA-1981 callout misses (narrowed from 16, mostly false positives on pest/ecological timing). All SEO, schema, robots, sitemap, analytics, tone checks passed. 3 new articles (hiring contractor, privet-vs-laurel, juniper) verified in hub and sitemap."
+  "auditNote": "2026-11-03 audit: 0 auto-fixes. 5 needs-review: 3 carry-forward broken how-to links (abelia->flowering-hedge-species.html, correcting-uneven-hedge-top->overgrown-hedge-how-to-rescue.html, dead-or-dormant->overgrown-and-gappy-hedge-renovation.html); 1 new broken nav link (amelanchier+cotinus pages use old nav template linking ../services/ which has no index.html); 1 YouTube batch (112 pages with watch links, proxy-blocked, unverifiable). All SEO, schema, robots, sitemap, analytics, tone, hub-coverage checks passed. 3 new articles (sorbus-aucuparia, pittosporum-vs-griselinia, leycesteria-formosa) verified in hub and sitemap."
 }
