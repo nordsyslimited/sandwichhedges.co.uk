@@ -1,18 +1,18 @@
 {
-  "lastRunAt": "2026-11-04T00:00:00Z",
+  "lastRunAt": "2026-11-05T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "note": "2026-11-04 content run: 3 new articles (lonicera-nitida-renovation, moss-lichen-on-hedges, hedge-base-compaction). Structures: comparison / decision-tree / checklist-first. 7 JET-RELATED-GUIDES blocks updated. Hub index + sitemap updated.",
-  "totalOnSite": 246,
-  "contentNote": "Nov 4 run: comparison (lonicera nitida renovation: staged two-year vs single hard cut, nesting season timing, post-cut watering and mulching for free-draining East Kent soils), decision-tree (moss/lichen/algae/sooty mould diagnostic: 3-step path distinguishing cosmetic from health-symptom growth, common in coastal positions at Sandwich Bay/Deal due to sea-mist humidity), checklist-first (soil compaction at hedge base: 8-sign checklist at top, causes including clay soils around Eastry/Woodnesborough, fork aeration and bark mulch fixes). YouTube DNS blocked again; no video IDs confirmed; all 3 articles published without video credit. 7 JET-RELATED-GUIDES blocks updated across how-hard-can-you-cut-back-a-hedge, lonicera-nitida-hedge-care, renovating-neglected-hedge, hedge-health-troubleshooting, hedge-bare-patches, feeding-hedges, mulching-hedges.",
-  "previousStructures": ["comparison", "decision-tree", "checklist-first"],
+  "note": "2026-11-05 content run: 3 new articles (flowering-hedge-species, overgrown-hedge-how-to-rescue, overgrown-and-gappy-hedge-renovation). Structures: comparison / procedural / decision-tree. 5 JET-RELATED-GUIDES blocks updated. Hub index + sitemap updated. All 3 carry-forward broken links resolved.",
+  "totalOnSite": 249,
+  "contentNote": "Nov 5 run: comparison (flowering-hedge-species: 8-species comparison table, two trim-timing tables, Kent coast notes for escallonia/rosa rugosa/viburnum tinus), procedural (overgrown-hedge-how-to-rescue: 5-step phased reduction guide, 2-year broadleaf vs 3-year conifer plans, safety box), decision-tree (overgrown-and-gappy-hedge-renovation: 4-step diagnostic, dead stems vs disease vs drawn-up base, two-phase renovation). YouTube DNS blocked again; no video IDs confirmed; all 3 articles published without video credit. 5 JET-RELATED-GUIDES blocks updated: abelia (description fix), correcting-uneven-hedge-top (already complete), dead-or-dormant (already complete), how-hard-can-you-cut-back-a-hedge (added 5th card), renovating-neglected-hedge (added 8th card).",
+  "previousStructures": ["comparison", "procedural", "decision-tree"],
   "lastAuditAt": "2026-11-04T08:00:00Z",
-  "auditStatus": "issues",
-  "issueCount": 4,
+  "auditStatus": "resolved",
+  "issueCount": 0,
   "lastAuditRunAt": "2026-11-04T08:00:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-11-04 audit: 0 auto-fixes. 4 needs-review items: 3 carry-forward broken how-to links (abelia->flowering-hedge-species.html, correcting-uneven-hedge-top->overgrown-hedge-how-to-rescue.html, dead-or-dormant->overgrown-and-gappy-hedge-renovation.html); 1 carry-forward broken nav template (amelanchier+cotinus use old ../services/ anchor, no index.html there); YouTube watch links on 128 pages proxy-blocked and unverifiable; WCA-1981 broad scan 45 articles flagged, all consistent with prior audit (pest/tool/planting articles, no new genuine misses). 3 new articles passed all checks. 273 sitemap entries, 246 how-to pages, all SEO/schema/analytics/robots checks passed."
+  "auditNote": "2026-11-05: All 3 carry-forward broken how-to links resolved (abelia->flowering-hedge-species.html, correcting-uneven-hedge-top->overgrown-hedge-how-to-rescue.html, dead-or-dormant->overgrown-and-gappy-hedge-renovation.html). 276 sitemap entries, 249 how-to pages. 1 carry-forward broken nav template (amelanchier+cotinus use old ../services/ anchor) not yet fixed."
 }
