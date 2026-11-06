@@ -9,10 +9,10 @@
   "totalOnSite": 249,
   "contentNote": "Nov 5 run: comparison (flowering-hedge-species: 8-species comparison table, two trim-timing tables, Kent coast notes for escallonia/rosa rugosa/viburnum tinus), procedural (overgrown-hedge-how-to-rescue: 5-step phased reduction guide, 2-year broadleaf vs 3-year conifer plans, safety box), decision-tree (overgrown-and-gappy-hedge-renovation: 4-step diagnostic, dead stems vs disease vs drawn-up base, two-phase renovation). YouTube DNS blocked again; no video IDs confirmed; all 3 articles published without video credit. 5 JET-RELATED-GUIDES blocks updated: abelia (description fix), correcting-uneven-hedge-top (already complete), dead-or-dormant (already complete), how-hard-can-you-cut-back-a-hedge (added 5th card), renovating-neglected-hedge (added 8th card).",
   "previousStructures": ["comparison", "procedural", "decision-tree"],
-  "lastAuditAt": "2026-11-05T08:00:00Z",
+  "lastAuditAt": "2026-11-06T08:11:36Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "lastAuditRunAt": "2026-11-05T08:00:00Z",
-  "auditAutoFixed": 1,
-  "auditNote": "2026-11-05: 1 auto-fix (banned word 'seamlessly' in overgrown-and-gappy-hedge-renovation.html). 5 needs-review: trim-a-hedge-straight.html uses HowTo not Article schema; 2 borderline felling mentions in tree service pages; amelanchier+cotinus broken nav ../services/ (carry-forward); YouTube video verification blocked by proxy."
+  "issueCount": 6,
+  "lastAuditRunAt": "2026-11-06T08:11:36Z",
+  "auditAutoFixed": 0,
+  "auditNote": "2026-11-06: 0 auto-fixes. 6 needs-review: trim-a-hedge-straight.html HowTo schema (carry-forward); 2 borderline felling mentions in tree service pages (carry-forward); amelanchier+cotinus broken nav ../services/ (carry-forward); YouTube verification blocked by proxy (carry-forward); NEW — overgrown-and-gappy-hedge-renovation.html has 2 broken internal links (box-blight-treatment-guide.html and how-to-plant-a-hedge.html)."
 }
