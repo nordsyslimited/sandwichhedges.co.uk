@@ -9,10 +9,10 @@
   "totalOnSite": 252,
   "contentNote": "Nov 7 run: checklist-first (hornbeam-hedge-first-three-years: 3-year training programme, year-by-year sections, video Ul7ZkkqPs9U), comparison (alder-hedge-kent: alder vs willow/elder/hazel/Italian alder for wet ground, video YbPqBcSUGps), procedural (elm-hedge-kent: variety selection, bare-root planting steps, year 1 and ongoing care, video oHzJaE-T204). 6 JET-RELATED-GUIDES blocks updated: hornbeam-hedge-care, beech-vs-hornbeam-hedge-kent, formative-hedge-pruning (all added hornbeam-hedge-first-three-years); choosing-hedge-species-kent (added elm + alder); hedge-plants-wet-soil-kent (added alder); planting-native-hedge-kent (added elm).",
   "previousStructures": ["checklist-first", "comparison", "procedural"],
-  "lastAuditAt": "2026-11-06T08:11:36Z",
+  "lastAuditAt": "2026-11-07T08:11:07Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "lastAuditRunAt": "2026-11-06T08:11:36Z",
+  "issueCount": 14,
+  "lastAuditRunAt": "2026-11-07T08:11:07Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-11-06: 0 auto-fixes. 6 needs-review: trim-a-hedge-straight.html HowTo schema (carry-forward); 2 borderline felling mentions in tree service pages (carry-forward); amelanchier+cotinus broken nav ../services/ (carry-forward); YouTube verification blocked by proxy (carry-forward); overgrown-and-gappy-hedge-renovation.html has 2 broken internal links (carry-forward)."
+  "auditNote": "2026-11-07: 0 auto-fixes. 14 needs-review: 4 carry-forward (overgrown-and-gappy 2 broken links; trim-a-hedge-straight HowTo schema; amelanchier+cotinus nav ../services/ 404; YouTube proxy-blocked); 10 new: cutting/timing articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, choosing-hedge-species-kent, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedge-planting-clay-soil-kent, hedge-trimmer-maintenance, hedgerow-age-dating, mulching-hedges, winterising-hedge-trimmer)."
 }
