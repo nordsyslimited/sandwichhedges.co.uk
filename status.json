@@ -9,10 +9,10 @@
   "totalOnSite": 256,
   "contentNote": "Nov 8 run: procedural (bird-cherry-hedge-kent: Prunus padus planting guide for Kent chalk soils, wildlife value, before-you-start box, no video - YouTube DNS blocked), comparison (wayfaring-tree-hedge-kent: Viburnum lantana vs guelder rose/field maple/dog rose HTML table, chalk downland focus, no video), decision-tree (brambles-in-hedge-management: step-by-step decision guide for bramble encroachment, before-you-start box, video _Dc3B2I7bu4 Garden Ninja 78k subs UK). 4 JET-RELATED-GUIDES blocks updated: planting-native-hedge-kent (added bird-cherry + wayfaring-tree); choosing-hedge-species-kent (added wayfaring-tree + bird-cherry); wildlife-friendly-trimming (added brambles + bird-cherry); checking-hedge-for-birds-nests (added brambles).",
   "previousStructures": ["procedural", "comparison", "decision-tree"],
-  "lastAuditAt": "2026-11-07T08:11:07Z",
+  "lastAuditAt": "2026-11-08T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 14,
-  "lastAuditRunAt": "2026-11-07T08:11:07Z",
+  "lastAuditRunAt": "2026-11-08T08:00:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-11-07: 0 auto-fixes. 14 needs-review: 4 carry-forward (overgrown-and-gappy 2 broken links; trim-a-hedge-straight HowTo schema; amelanchier+cotinus nav ../services/ 404; YouTube proxy-blocked); 10 new: cutting/timing articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, choosing-hedge-species-kent, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedge-planting-clay-soil-kent, hedge-trimmer-maintenance, hedgerow-age-dating, mulching-hedges, winterising-hedge-trimmer)."
+  "auditNote": "2026-11-08: 0 auto-fixes. 14 needs-review (all carry-forward): overgrown-and-gappy 2 broken links; trim-a-hedge-straight HowTo schema; amelanchier+cotinus nav ../services/ 404; YouTube proxy-blocked; 10 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, choosing-hedge-species-kent, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedge-planting-clay-soil-kent, hedge-trimmer-maintenance, hedgerow-age-dating, mulching-hedges, winterising-hedge-trimmer). 3 new Nov-8 articles passed all checks."
 }
