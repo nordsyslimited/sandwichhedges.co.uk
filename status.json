@@ -9,10 +9,10 @@
   "totalOnSite": 259,
   "contentNote": "Nov 9 run: checklist-first (transplanting-established-hedging-plants: 7-point checklist for lifting/replanting hedging, timing by species, recovery notes, no video), procedural (hedge-bank-kent: 7-step guide to building a traditional Kent earth bank+hedge, species notes for chalk/clay soils, no video), comparison (identifying-hedge-species-winter: 10-species twig/bud/bark table for winter ID, Hooper's Rule, Hedgerow Regs note, no video). YouTube DNS blocked (third consecutive run). 2 JET-RELATED-GUIDES updated: choosing-hedge-species-kent (added identifying-hedge-species-winter); autumn-hedge-planting-kent (added transplanting-established-hedging-plants).",
   "previousStructures": ["checklist-first", "procedural", "comparison"],
-  "lastAuditAt": "2026-11-08T08:00:00Z",
+  "lastAuditAt": "2026-11-09T08:14:16Z",
   "auditStatus": "issues",
-  "issueCount": 14,
-  "lastAuditRunAt": "2026-11-08T08:00:00Z",
+  "issueCount": 10,
+  "lastAuditRunAt": "2026-11-09T08:14:16Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-11-08: 0 auto-fixes. 14 needs-review (all carry-forward): overgrown-and-gappy 2 broken links; trim-a-hedge-straight HowTo schema; amelanchier+cotinus nav ../services/ 404; YouTube proxy-blocked; 10 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, choosing-hedge-species-kent, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedge-planting-clay-soil-kent, hedge-trimmer-maintenance, hedgerow-age-dating, mulching-hedges, winterising-hedge-trimmer). 3 new Nov-8 articles passed all checks. 3 new Nov-9 articles passed all checks."
+  "auditNote": "2026-11-09: 0 auto-fixes. 10 needs-review (down from 14): overgrown-and-gappy 2 broken links; trim-a-hedge-straight HowTo schema; amelanchier+cotinus nav ../services/ 404; YouTube proxy-blocked; 5 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedgerow-age-dating). 5 WCA articles fixed since last audit. 3 new Nov-9 articles passed all checks."
 }
