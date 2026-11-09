@@ -1,18 +1,18 @@
 {
-  "lastRunAt": "2026-11-08T00:00:00Z",
+  "lastRunAt": "2026-11-09T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
   "durationSec": 0,
-  "note": "2026-11-08 content run: 3 new articles (bird-cherry-hedge-kent, wayfaring-tree-hedge-kent, brambles-in-hedge-management). Structures: procedural / comparison / decision-tree. 4 JET-RELATED-GUIDES blocks updated. Hub index + sitemap updated.",
-  "totalOnSite": 256,
-  "contentNote": "Nov 8 run: procedural (bird-cherry-hedge-kent: Prunus padus planting guide for Kent chalk soils, wildlife value, before-you-start box, no video - YouTube DNS blocked), comparison (wayfaring-tree-hedge-kent: Viburnum lantana vs guelder rose/field maple/dog rose HTML table, chalk downland focus, no video), decision-tree (brambles-in-hedge-management: step-by-step decision guide for bramble encroachment, before-you-start box, video _Dc3B2I7bu4 Garden Ninja 78k subs UK). 4 JET-RELATED-GUIDES blocks updated: planting-native-hedge-kent (added bird-cherry + wayfaring-tree); choosing-hedge-species-kent (added wayfaring-tree + bird-cherry); wildlife-friendly-trimming (added brambles + bird-cherry); checking-hedge-for-birds-nests (added brambles).",
-  "previousStructures": ["procedural", "comparison", "decision-tree"],
+  "note": "2026-11-09 content run: 3 new articles (transplanting-established-hedging-plants, hedge-bank-kent, identifying-hedge-species-winter). Structures: checklist-first / procedural / comparison. 2 JET-RELATED-GUIDES blocks updated. Hub index + sitemap updated.",
+  "totalOnSite": 259,
+  "contentNote": "Nov 9 run: checklist-first (transplanting-established-hedging-plants: 7-point checklist for lifting/replanting hedging, timing by species, recovery notes, no video), procedural (hedge-bank-kent: 7-step guide to building a traditional Kent earth bank+hedge, species notes for chalk/clay soils, no video), comparison (identifying-hedge-species-winter: 10-species twig/bud/bark table for winter ID, Hooper's Rule, Hedgerow Regs note, no video). YouTube DNS blocked (third consecutive run). 2 JET-RELATED-GUIDES updated: choosing-hedge-species-kent (added identifying-hedge-species-winter); autumn-hedge-planting-kent (added transplanting-established-hedging-plants).",
+  "previousStructures": ["checklist-first", "procedural", "comparison"],
   "lastAuditAt": "2026-11-08T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 14,
   "lastAuditRunAt": "2026-11-08T08:00:00Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-11-08: 0 auto-fixes. 14 needs-review (all carry-forward): overgrown-and-gappy 2 broken links; trim-a-hedge-straight HowTo schema; amelanchier+cotinus nav ../services/ 404; YouTube proxy-blocked; 10 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, choosing-hedge-species-kent, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedge-planting-clay-soil-kent, hedge-trimmer-maintenance, hedgerow-age-dating, mulching-hedges, winterising-hedge-trimmer). 3 new Nov-8 articles passed all checks."
+  "auditNote": "2026-11-08: 0 auto-fixes. 14 needs-review (all carry-forward): overgrown-and-gappy 2 broken links; trim-a-hedge-straight HowTo schema; amelanchier+cotinus nav ../services/ 404; YouTube proxy-blocked; 10 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, choosing-hedge-species-kent, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedge-planting-clay-soil-kent, hedge-trimmer-maintenance, hedgerow-age-dating, mulching-hedges, winterising-hedge-trimmer). 3 new Nov-8 articles passed all checks. 3 new Nov-9 articles passed all checks."
 }
