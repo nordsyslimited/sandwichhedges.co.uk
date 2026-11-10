@@ -9,10 +9,10 @@
   "totalOnSite": 261,
   "contentNote": "Nov 10 run: procedural (olearia-hedge-care: Olearia macrodonta and traversii care in coastal East Kent, timing/tools/renovation, Garden Ninja video _Dc3B2I7bu4, channel ~78K subscribers), decision-tree (cutting-tall-hedges-safely: 4-step decision sequence for access methods on tall hedges, STIHL GB video JJthKZKZVRg, channel ~13-20K subscribers). YouTube DNS blocked (fourth consecutive run), channel authority confirmed via web search. Only 2 articles added (vs 3 target) - no third verifiable UK hedge-care channel found. 2 JET-RELATED-GUIDES updated: pittosporum-vs-griselinia-coastal-hedge (added olearia-hedge-care); how-to-use-long-reach-hedge-trimmer (added cutting-tall-hedges-safely).",
   "previousStructures": ["procedural", "decision-tree"],
-  "lastAuditAt": "2026-11-09T08:14:16Z",
+  "lastAuditAt": "2026-11-10T08:12:19Z",
   "auditStatus": "issues",
   "issueCount": 10,
-  "lastAuditRunAt": "2026-11-09T08:14:16Z",
+  "lastAuditRunAt": "2026-11-10T08:12:19Z",
   "auditAutoFixed": 0,
-  "auditNote": "2026-11-09: 0 auto-fixes. 10 needs-review (down from 14): overgrown-and-gappy 2 broken links; trim-a-hedge-straight HowTo schema; amelanchier+cotinus nav ../services/ 404; YouTube proxy-blocked; 5 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedgerow-age-dating). 5 WCA articles fixed since last audit. 3 new Nov-9 articles passed all checks."
+  "auditNote": "2026-11-10: 0 auto-fixes. 10 needs-review (unchanged): overgrown-and-gappy 2 broken links; trim-a-hedge-straight HowTo schema; amelanchier+cotinus nav ../services/ 404; YouTube proxy-blocked (5th consecutive run); 5 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedgerow-age-dating). 2 new Nov-10 articles (cutting-tall-hedges-safely, olearia-hedge-care) passed all checks."
 }
