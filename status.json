@@ -9,10 +9,10 @@
   "totalOnSite": 264,
   "contentNote": "Nov 11 run: checklist-first (september-hedge-care: September cutting season opener, nesting season end, beech deadline, Simplify Gardening video ToomrZSXVWw, 455K subscribers), comparison (chalky-soil-hedges-kent: species table for North Downs chalk soils, video jVpJR2ToI08), procedural (leylandii-renovation-kent: green-wood-only rule, 3 renovation options, RJL Gardens video gyhRxRdFERo, 1.3M views). YouTube DNS blocked (fifth consecutive run), channel authority confirmed via web search snippets. 2 JET-RELATED-GUIDES updated: when-to-trim-hedges (added september-hedge-care); overgrown-hedge-how-to-rescue (added leylandii-renovation-kent).",
   "previousStructures": ["checklist-first", "comparison", "procedural"],
-  "lastAuditAt": "2026-11-10T08:12:19Z",
+  "lastAuditAt": "2026-11-11T08:11:23Z",
   "auditStatus": "issues",
-  "issueCount": 10,
-  "lastAuditRunAt": "2026-11-10T08:12:19Z",
-  "auditAutoFixed": 0,
-  "auditNote": "2026-11-10: 0 auto-fixes. 10 needs-review (unchanged): overgrown-and-gappy 2 broken links; trim-a-hedge-straight HowTo schema; amelanchier+cotinus nav ../services/ 404; YouTube proxy-blocked (5th consecutive run); 5 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedgerow-age-dating). 3 new Nov-11 articles (september-hedge-care, chalky-soil-hedges-kent, leylandii-renovation-kent) passed all checks."
+  "issueCount": 11,
+  "lastAuditRunAt": "2026-11-11T08:11:23Z",
+  "auditAutoFixed": 1,
+  "auditNote": "2026-11-11: 1 auto-fix (2 em-dashes in chalky-soil-hedges-kent.html). 11 needs-review: 3 broken related-article links in chalky-soil-hedges-kent (best-hedges-east-kent.html x2) and leylandii-renovation-kent (overgrown-hedge-renovation-guide.html) — new articles from last night's content run; 2 carry-forward broken links in overgrown-and-gappy-hedge-renovation; trim-a-hedge-straight HowTo schema; amelanchier+cotinus nav ../services/ 404; YouTube proxy-blocked (6th consecutive run); 5 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedgerow-age-dating)."
 }
