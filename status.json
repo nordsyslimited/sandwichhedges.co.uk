@@ -9,10 +9,10 @@
   "totalOnSite": 267,
   "contentNote": "Nov 12 run: checklist-first (hedge-trimming-preparation-checklist: ten pre-cut checks, nesting/weather/blade/PPE/site, Lewis Garden Services video 54JPgLV16Ro, 133K+ subscribers), procedural (beech-hedge-trimming-technique: late summer timing deadline, marcescent leaves, batter technique, tall hedge approach, STIHL GB video BwEzORUZsNg, official UK brand channel), comparison (hard-prune-vs-light-trim: overview table, species-by-species decision table, leylandii exception, Garden Ninja video _Dc3B2I7bu4, 73-78K subscribers). YouTube DNS blocked (eighth consecutive run), channel authority confirmed via web search snippets. 3 JET-RELATED-GUIDES updated: when-to-trim-hedges (added hedge-trimming-preparation-checklist); overgrown-and-gappy-hedge-renovation (added hard-prune-vs-light-trim); beech-hedge-care (added beech-hedge-trimming-technique).",
   "previousStructures": ["checklist-first", "procedural", "comparison"],
-  "lastAuditAt": "2026-11-11T08:11:23Z",
+  "lastAuditAt": "2026-11-12T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 11,
-  "lastAuditRunAt": "2026-11-11T08:11:23Z",
-  "auditAutoFixed": 1,
-  "auditNote": "2026-11-11: 1 auto-fix (2 em-dashes in chalky-soil-hedges-kent.html). 11 needs-review: 3 broken related-article links in chalky-soil-hedges-kent (best-hedges-east-kent.html x2) and leylandii-renovation-kent (overgrown-hedge-renovation-guide.html) — new articles from last night's content run; 2 carry-forward broken links in overgrown-and-gappy-hedge-renovation; trim-a-hedge-straight HowTo schema; amelanchier+cotinus nav ../services/ 404; YouTube proxy-blocked (6th consecutive run); 5 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, composting-hedge-trimmings, feeding-hedges, hedge-aphids-treatment, hedgerow-age-dating)."
+  "lastAuditRunAt": "2026-11-12T08:00:00Z",
+  "auditAutoFixed": 0,
+  "auditNote": "2026-11-12: 0 auto-fixes. 11 needs-review (all carry-forwards): 5 broken internal links (best-hedges-east-kent, native-hedgerow-planting-guide, overgrown-hedge-renovation-guide, box-blight-treatment-guide, how-to-plant-a-hedge); services/index.html missing (amelanchier+cotinus nav 404); 3 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, composting-hedge-trimmings, hedge-aphids-treatment); YouTube proxy-blocked (9th consecutive run); trim-a-hedge-straight HowTo schema (likely correct — genuine procedure). hedgerow-age-dating removed from WCA list (no seasonal trimming language). 3 new articles from Nov 12 content run pass all checks."
 }
