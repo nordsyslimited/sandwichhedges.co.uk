@@ -9,10 +9,10 @@
   "totalOnSite": 273,
   "contentNote": "Nov 14 run: procedural (hornbeam-hedge-renovation: 7-step renovation guide for overgrown hornbeam, nesting season + safety callout, timing for East Kent coastal conditions, STIHL GB video iWmhVuP80AY — Chris Hollins taming overgrown hedges, channel ~19K subs 24M+ total views), comparison (box-hedge-renovation: renovate-vs-replace comparison with HTML table, hand shears vs power trimmer comparison, blight status decision, STIHL GB video ZQU2LhHl03Y — cutting overgrown hedge with battery trimmer, same STIHL GB channel), checklist-first (best-hedges-east-kent: quick-picks table first by site type, then chalk/clay/coastal/wildlife/box sections, no video, fixes broken link from chalky-soil-hedges-kent.html). YouTube DNS still blocked (12th consecutive run), channel authority confirmed via previous runs. 4 JET-RELATED-GUIDES updated: hornbeam-hedge-care (added hornbeam-hedge-renovation), hornbeam-hedge-first-three-years (added hornbeam-hedge-renovation), box-hedge-care (added box-hedge-renovation), overgrown-and-gappy-hedge-renovation (added hornbeam-hedge-renovation). chalky-soil-hedges-kent.html already referenced best-hedges-east-kent.html — broken link now fixed by article creation.",
   "previousStructures": ["procedural", "comparison", "checklist-first"],
-  "lastAuditAt": "2026-11-13T08:00:00Z",
+  "lastAuditAt": "2026-11-14T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 10,
-  "lastAuditRunAt": "2026-11-13T08:00:00Z",
-  "auditAutoFixed": 0,
-  "auditNote": "Carry-forward from 2026-11-13: 10 remaining issues after best-hedges-east-kent.html creation fixes one of the 11 broken-link flags. native-hedgerow-planting-guide.html still missing (chalky-soil-hedges-kent.html JET block). services/index.html 404, 3 articles missing WCA-1981 nesting callout, YouTube proxy-blocked (12th run), trim-a-hedge-straight HowTo schema carry-forward. Next audit run will recount."
+  "lastAuditRunAt": "2026-11-14T08:00:00Z",
+  "auditAutoFixed": 1,
+  "auditNote": "2026-11-14: auto-fixed 1 em-dash in hornbeam-hedge-renovation.html (Step 2 heading). 10 carry-forwards unchanged: 4 broken internal links (native-hedgerow-planting-guide, overgrown-hedge-renovation-guide, box-blight-treatment-guide, how-to-plant-a-hedge), services/index.html missing, 3 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, composting-hedge-trimmings, hedge-aphids-treatment), YouTube proxy-blocked (13th run), trim-a-hedge-straight HowTo schema carry-forward. All 301 pages pass theme-color, canonical, meta description, BreadcrumbList, analytics. 0 broken JSON-LD, 0 duplicate meta descriptions."
 }
