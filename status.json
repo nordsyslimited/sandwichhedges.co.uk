@@ -9,10 +9,10 @@
   "totalOnSite": 279,
   "contentNote": "Nov 16 run: comparison (yew-vs-box-formal-hedge: side-by-side comparison table of Taxus baccata vs Buxus sempervirens for formal East Kent hedging, disease risk, growth rate, wildlife value, Ashridge Trees video EEbJOKhF8rU), procedural (blackthorn-hedge-planting: 7-step bare-root planting guide for blackthorn in East Kent, thorn safety callout, formative cut, sucker management, Ashridge Nurseries video wOLhjXRTTx4 — native hedge planting), checklist-first (privet-hedge-planting: 10-item checklist then detail on each point, bare-root timing, formative cut, BBC Gardeners' World video QUrnehX5kw0 — deciduous hedge cutting). YouTube DNS still blocked (15th consecutive run), channel authority confirmed: Ashridge Trees = UK specialist hedging nursery cited in RHS and gardening press; BBC Gardeners' World = multi-million subscriber BBC TV brand. 6 JET-RELATED-GUIDES updated: yew-hedge-care (added yew-vs-box-formal-hedge), box-hedge-care (added yew-vs-box-formal-hedge), blackthorn-hedge-care (added blackthorn-hedge-planting), planting-native-hedge-kent (added blackthorn-hedge-planting), privet-hedge-care (added privet-hedge-planting), privet-hedge-hard-renovation (added privet-hedge-planting).",
   "previousStructures": ["comparison", "procedural", "checklist-first"],
-  "lastAuditAt": "2026-11-15T08:00:00Z",
+  "lastAuditAt": "2026-11-16T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 8,
-  "lastAuditRunAt": "2026-11-15T08:00:00Z",
-  "auditAutoFixed": 1,
-  "auditNote": "2026-11-15: auto-fixed 1 double-dash em-dash substitute in dead-or-dormant-hedge-guide.html (JSON-LD FAQ answer, replaced with parentheses). 8 carry-forwards: 4 broken internal links (native-hedgerow-planting-guide, overgrown-hedge-renovation-guide, box-blight-treatment-guide, how-to-plant-a-hedge), services/index.html missing, 3 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, composting-hedge-trimmings, hedge-aphids-treatment). trim-a-hedge-straight HowTo schema cleared (confirmed appropriate: genuine 6-step numbered procedure). All 304 pages pass theme-color, canonical, meta description, BreadcrumbList, analytics. 0 broken JSON-LD, 0 duplicate meta descriptions. New articles (holly-hedge-planting, beech-hedge-renovation, hornbeam-hedge-planting) fully compliant."
+  "issueCount": 5,
+  "lastAuditRunAt": "2026-11-16T08:00:00Z",
+  "auditAutoFixed": 264,
+  "auditNote": "2026-11-16: auto-fixed 264 stale sitemap lastmod values (bulk git-log sweep across all 305 URLs). 5 carry-forwards: 4 broken internal links (native-hedgerow-planting-guide, overgrown-hedge-renovation-guide, box-blight-treatment-guide, how-to-plant-a-hedge), services/index.html missing, 3 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, composting-hedge-trimmings, hedge-aphids-treatment), YouTube embed check blocked (16th consecutive run, 403 from proxy). All 307 pages pass theme-color, canonical, meta description, BreadcrumbList, analytics. 0 em-dashes. 0 banned filler words. Robots.txt complete (15/15 bots). All 278 how-to articles in hub index with data-howto-cat."
 }
