@@ -9,10 +9,10 @@
   "totalOnSite": 282,
   "contentNote": "Nov 17 run: procedural (beech-hedge-planting: 7-step bare-root planting guide for beech in East Kent, chalk-soil notes for Eastry/Worth/Ash, formative cut, Ashridge Trees video WX8kVVkNNWk — bareroot beech hedging), checklist-first (yew-hedge-planting: 10-point checklist then detail on each point, drainage warning, Phytophthora risk, toxicity callout, formative cut, BBC Gardeners' World video wi3Z8nO8M7k — how to plant a yew hedge), decision-tree (yew-hedge-renovation: is it yew? is it healthy? how overgrown? two-season renovation approach, recovery timeline, toxic clippings disposal, no video — YouTube DNS still blocked 17th consecutive run). Channel authority confirmed: Ashridge Trees = UK specialist hedging nursery cited in RHS; BBC GW = multi-million subscriber BBC TV brand. 6 JET-RELATED-GUIDES updated: beech-hedge-renovation (added beech-hedge-planting), beech-hedge-trimming-technique (added beech-hedge-planting), yew-hedge-care (added yew-hedge-planting + yew-hedge-renovation), yew-vs-box-formal-hedge (added yew-hedge-planting), yew-hedge-annual-maintenance (added yew-hedge-renovation), how-hard-can-you-cut-back-a-hedge (added yew-hedge-renovation).",
   "previousStructures": ["procedural", "checklist-first", "decision-tree"],
-  "lastAuditAt": "2026-11-16T08:00:00Z",
+  "lastAuditAt": "2026-11-17T08:13:05Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "lastAuditRunAt": "2026-11-16T08:00:00Z",
-  "auditAutoFixed": 264,
-  "auditNote": "2026-11-16: auto-fixed 264 stale sitemap lastmod values (bulk git-log sweep across all 305 URLs). 5 carry-forwards: 4 broken internal links (native-hedgerow-planting-guide, overgrown-hedge-renovation-guide, box-blight-treatment-guide, how-to-plant-a-hedge), services/index.html missing, 3 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, composting-hedge-trimmings, hedge-aphids-treatment), YouTube embed check blocked (16th consecutive run, 403 from proxy). All 307 pages pass theme-color, canonical, meta description, BreadcrumbList, analytics. 0 em-dashes. 0 banned filler words. Robots.txt complete (15/15 bots). All 278 how-to articles in hub index with data-howto-cat."
+  "issueCount": 8,
+  "lastAuditRunAt": "2026-11-17T08:13:05Z",
+  "auditAutoFixed": 0,
+  "auditNote": "2026-11-17: 0 auto-fixes (site clean). 8 carry-forward items: 4 broken internal links (native-hedgerow-planting-guide, overgrown-hedge-renovation-guide, box-blight-treatment-guide, how-to-plant-a-hedge), services/index.html missing, 3 articles missing WCA-1981 nesting callout (box-tree-moth-caterpillar-damage, composting-hedge-trimmings, hedge-aphids-treatment), YouTube embed check blocked (17th consecutive run, 403 from proxy). All 310 pages pass theme-color, canonical, meta description, BreadcrumbList, analytics. 0 em-dashes. 0 banned filler. Robots.txt complete (15/15 bots). All 281 how-to articles in hub index with data-howto-cat. Sitemap: 308 entries, all correct. 3 new articles (beech-hedge-planting, yew-hedge-planting, yew-hedge-renovation) pass all checks."
 }
