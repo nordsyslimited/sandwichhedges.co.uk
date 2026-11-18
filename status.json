@@ -31,5 +31,9 @@
       "channel": "Royal Horticultural Society",
       "datePublished": "2026-11-18"
     }
-  ]
+  ],
+  "lastAuditAt": "2026-11-18T08:00:00Z",
+  "auditStatus": "issues",
+  "issueCount": 5,
+  "note": "1 new broken link (hazel-hedge-planting.html -> wildlife-hedge-kent.html); 4 carry-forward items: broken links in chalky-soil/leylandii-renovation/overgrown-gappy pages, missing services/index.html, YouTube embeds unverifiable via proxy, WCA callout missing on 2 pest-treatment articles"
 }
