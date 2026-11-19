@@ -32,8 +32,8 @@
       "datePublished": "2026-11-19"
     }
   ],
-  "lastAuditAt": "2026-11-18T08:00:00Z",
+  "lastAuditAt": "2026-11-19T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "note": "No videos this run: YouTube unreachable from cloud environment, preventing channel/like-count verification. Candidate IDs for future manual verification: V6exqQolowo, GiyvKs4Ehws, X0iPHm6z_ac. Carry-forward audit items: broken links in chalky-soil/leylandii-renovation/overgrown-gappy pages, missing services/index.html, WCA callout missing on 2 pest-treatment articles."
+  "issueCount": 4,
+  "note": "317 pages audited, all SEO/tone/JSON-LD checks clear, 3 new articles fully compliant. 4 carry-forward items: 5 broken internal links (chalky-soil/leylandii-renovation/overgrown-gappy/hazel-planting pages), missing services/index.html, YouTube verification blocked (95 hrefs, spot-check GiyvKs4Ehws), WCA callout missing on 2 pest-treatment articles (box-tree-moth/hedge-aphids)."
 }
