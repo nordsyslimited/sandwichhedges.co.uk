@@ -1,39 +1,39 @@
 {
-  "lastRunAt": "2026-11-18T00:00:00Z",
+  "lastRunAt": "2026-11-19T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
-  "totalOnSite": 285,
-  "previousStructures": ["comparison", "procedural", "checklist-first"],
+  "totalOnSite": 288,
+  "previousStructures": ["procedural", "comparison", "decision-tree"],
   "lastArticles": [
     {
-      "slug": "copper-beech-hedge-planting",
-      "title": "Copper beech vs green beech for a Kent garden hedge",
-      "structure": "comparison",
-      "videoId": "dda-GGCnOfE",
-      "channel": "Heathwood Nurseries",
-      "datePublished": "2026-11-18"
-    },
-    {
-      "slug": "hazel-hedge-planting",
-      "title": "How to plant a hazel hedge in Kent",
+      "slug": "yew-hedge-first-three-years",
+      "title": "Yew hedge: first three years",
       "structure": "procedural",
-      "videoId": "X4i25BJLOeQ",
-      "channel": "Heathwood Nurseries",
-      "datePublished": "2026-11-18"
+      "videoId": null,
+      "channel": null,
+      "datePublished": "2026-11-19"
     },
     {
-      "slug": "hornbeam-hedge-trimming-technique",
-      "title": "How to trim a hornbeam hedge: technique and timing",
-      "structure": "checklist-first",
-      "videoId": "HaiwL5SVc28",
-      "channel": "Royal Horticultural Society",
-      "datePublished": "2026-11-18"
+      "slug": "beech-hedge-first-three-years",
+      "title": "Beech hedge: first three years",
+      "structure": "comparison",
+      "videoId": null,
+      "channel": null,
+      "datePublished": "2026-11-19"
+    },
+    {
+      "slug": "hawthorn-hedge-first-three-years",
+      "title": "Hawthorn hedge: first three years",
+      "structure": "decision-tree",
+      "videoId": null,
+      "channel": null,
+      "datePublished": "2026-11-19"
     }
   ],
   "lastAuditAt": "2026-11-18T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "note": "1 new broken link (hazel-hedge-planting.html -> wildlife-hedge-kent.html); 4 carry-forward items: broken links in chalky-soil/leylandii-renovation/overgrown-gappy pages, missing services/index.html, YouTube embeds unverifiable via proxy, WCA callout missing on 2 pest-treatment articles"
+  "note": "No videos this run: YouTube unreachable from cloud environment, preventing channel/like-count verification. Candidate IDs for future manual verification: V6exqQolowo, GiyvKs4Ehws, X0iPHm6z_ac. Carry-forward audit items: broken links in chalky-soil/leylandii-renovation/overgrown-gappy pages, missing services/index.html, WCA callout missing on 2 pest-treatment articles."
 }
