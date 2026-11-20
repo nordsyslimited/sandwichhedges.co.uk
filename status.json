@@ -32,8 +32,8 @@
       "datePublished": "2026-11-20"
     }
   ],
-  "lastAuditAt": "2026-11-19T08:00:00Z",
+  "lastAuditAt": "2026-11-20T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "291 pages. 4 carry-forward items from 2026-11-19 audit: broken internal links (chalky-soil/leylandii-renovation/overgrown-gappy/hazel-planting pages), missing services/index.html, YouTube verification blocked (95 hrefs, spot-check GiyvKs4Ehws), WCA callout missing on 2 pest-treatment articles (box-tree-moth/hedge-aphids). YouTube DNS blocked (19+ consecutive runs); EgEDL9_fHd0 verified via channel-authority web search."
+  "note": "320 pages. 1 auto-fix: sitemap how-to/ lastmod updated 2026-11-16→2026-11-20 (hub index modified today). 4 carry-forward items: broken internal links (chalky-soil/leylandii-renovation/overgrown-gappy/hazel-planting pages), missing services/index.html, YouTube verification blocked (151 hrefs, DNS blocked), WCA callout missing on 2 pest-treatment articles (box-tree-moth/hedge-aphids). 3 new articles fully clean. EgEDL9_fHd0 previously verified."
 }
