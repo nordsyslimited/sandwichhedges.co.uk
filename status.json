@@ -1,39 +1,39 @@
 {
-  "lastRunAt": "2026-11-19T00:00:00Z",
+  "lastRunAt": "2026-11-20T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
-  "totalOnSite": 288,
-  "previousStructures": ["procedural", "comparison", "decision-tree"],
+  "totalOnSite": 291,
+  "previousStructures": ["checklist-first", "procedural", "comparison"],
   "lastArticles": [
     {
-      "slug": "yew-hedge-first-three-years",
-      "title": "Yew hedge: first three years",
+      "slug": "privet-hedge-first-three-years",
+      "title": "Privet hedge: first three years",
+      "structure": "checklist-first",
+      "videoId": null,
+      "channel": null,
+      "datePublished": "2026-11-20"
+    },
+    {
+      "slug": "laurel-hedge-first-three-years",
+      "title": "Laurel hedge: first three years",
       "structure": "procedural",
       "videoId": null,
       "channel": null,
-      "datePublished": "2026-11-19"
+      "datePublished": "2026-11-20"
     },
     {
-      "slug": "beech-hedge-first-three-years",
-      "title": "Beech hedge: first three years",
+      "slug": "holly-hedge-first-three-years",
+      "title": "Holly hedge: first three years",
       "structure": "comparison",
-      "videoId": null,
-      "channel": null,
-      "datePublished": "2026-11-19"
-    },
-    {
-      "slug": "hawthorn-hedge-first-three-years",
-      "title": "Hawthorn hedge: first three years",
-      "structure": "decision-tree",
-      "videoId": null,
-      "channel": null,
-      "datePublished": "2026-11-19"
+      "videoId": "EgEDL9_fHd0",
+      "channel": "Heathwood Nurseries",
+      "datePublished": "2026-11-20"
     }
   ],
   "lastAuditAt": "2026-11-19T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "317 pages audited, all SEO/tone/JSON-LD checks clear, 3 new articles fully compliant. 4 carry-forward items: 5 broken internal links (chalky-soil/leylandii-renovation/overgrown-gappy/hazel-planting pages), missing services/index.html, YouTube verification blocked (95 hrefs, spot-check GiyvKs4Ehws), WCA callout missing on 2 pest-treatment articles (box-tree-moth/hedge-aphids)."
+  "note": "291 pages. 4 carry-forward items from 2026-11-19 audit: broken internal links (chalky-soil/leylandii-renovation/overgrown-gappy/hazel-planting pages), missing services/index.html, YouTube verification blocked (95 hrefs, spot-check GiyvKs4Ehws), WCA callout missing on 2 pest-treatment articles (box-tree-moth/hedge-aphids). YouTube DNS blocked (19+ consecutive runs); EgEDL9_fHd0 verified via channel-authority web search."
 }
