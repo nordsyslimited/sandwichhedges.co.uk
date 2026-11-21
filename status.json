@@ -32,8 +32,8 @@
       "datePublished": "2026-11-21"
     }
   ],
-  "lastAuditAt": "2026-11-21T00:00:00Z",
+  "lastAuditAt": "2026-11-21T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "294 pages. Merge conflict in how-to/index.html resolved (stray >>>>>>> marker at line 147). 3 new articles fully clean. YouTube direct verification blocked; channel authority confirmed via current sources. 4 carry-forward items: broken internal links (chalky-soil/leylandii-renovation/overgrown-gappy/hazel-planting pages), missing services/index.html, YouTube verification blocked (DNS blocked), WCA callout missing on 2 pest-treatment articles (box-tree-moth/hedge-aphids). _Dc3B2I7bu4 Garden Ninja; D3N5yyWsbpw RHS; QUrnehX5kw0 BBC Gardeners World."
+  "note": "323 pages. 3 new articles (hedge-taper-profile-guide, hedges-air-quality-pollution-kent, hypericum-hedge-care) fully clean. All auto-fix categories pass: no em-dashes, no banned words, no missing SEO meta, no missing BreadcrumbList, no broken robots.txt, sitemap complete with lastmod. 4 carry-forward items unchanged: broken internal links (chalky-soil/leylandii-renovation/overgrown-gappy/hazel-planting pages), missing services/index.html, YouTube verification blocked (DNS blocked), WCA callout missing on 2 pest-treatment articles (box-tree-moth/hedge-aphids)."
 }
