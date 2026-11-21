@@ -1,39 +1,39 @@
 {
-  "lastRunAt": "2026-11-20T00:00:00Z",
+  "lastRunAt": "2026-11-21T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
-  "totalOnSite": 291,
-  "previousStructures": ["checklist-first", "procedural", "comparison"],
+  "totalOnSite": 294,
+  "previousStructures": ["comparison", "procedural", "checklist-first"],
   "lastArticles": [
     {
-      "slug": "privet-hedge-first-three-years",
-      "title": "Privet hedge: first three years",
-      "structure": "checklist-first",
-      "videoId": null,
-      "channel": null,
-      "datePublished": "2026-11-20"
-    },
-    {
-      "slug": "laurel-hedge-first-three-years",
-      "title": "Laurel hedge: first three years",
-      "structure": "procedural",
-      "videoId": null,
-      "channel": null,
-      "datePublished": "2026-11-20"
-    },
-    {
-      "slug": "holly-hedge-first-three-years",
-      "title": "Holly hedge: first three years",
+      "slug": "hedge-taper-profile-guide",
+      "title": "Hedge profiles and batter: wider at the base for a healthier hedge",
       "structure": "comparison",
-      "videoId": "EgEDL9_fHd0",
-      "channel": "Heathwood Nurseries",
-      "datePublished": "2026-11-20"
+      "videoId": "_Dc3B2I7bu4",
+      "channel": "Garden Ninja (Lee Burkhill)",
+      "datePublished": "2026-11-21"
+    },
+    {
+      "slug": "hedges-air-quality-pollution-kent",
+      "title": "How hedges filter air pollution in East Kent",
+      "structure": "procedural",
+      "videoId": "D3N5yyWsbpw",
+      "channel": "Royal Horticultural Society (RHS)",
+      "datePublished": "2026-11-21"
+    },
+    {
+      "slug": "hypericum-hedge-care",
+      "title": "Hypericum 'Hidcote' as a low hedge in East Kent: annual care guide",
+      "structure": "checklist-first",
+      "videoId": "QUrnehX5kw0",
+      "channel": "BBC Gardeners' World",
+      "datePublished": "2026-11-21"
     }
   ],
-  "lastAuditAt": "2026-11-20T08:00:00Z",
+  "lastAuditAt": "2026-11-21T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "320 pages. 1 auto-fix: sitemap how-to/ lastmod updated 2026-11-16→2026-11-20 (hub index modified today). 4 carry-forward items: broken internal links (chalky-soil/leylandii-renovation/overgrown-gappy/hazel-planting pages), missing services/index.html, YouTube verification blocked (151 hrefs, DNS blocked), WCA callout missing on 2 pest-treatment articles (box-tree-moth/hedge-aphids). 3 new articles fully clean. EgEDL9_fHd0 previously verified."
+  "note": "294 pages. Merge conflict in how-to/index.html resolved (stray >>>>>>> marker at line 147). 3 new articles fully clean. YouTube direct verification blocked; channel authority confirmed via current sources. 4 carry-forward items: broken internal links (chalky-soil/leylandii-renovation/overgrown-gappy/hazel-planting pages), missing services/index.html, YouTube verification blocked (DNS blocked), WCA callout missing on 2 pest-treatment articles (box-tree-moth/hedge-aphids). _Dc3B2I7bu4 Garden Ninja; D3N5yyWsbpw RHS; QUrnehX5kw0 BBC Gardeners World."
 }
