@@ -32,8 +32,8 @@
       "datePublished": "2026-11-22"
     }
   ],
-  "lastAuditAt": "2026-11-22T00:00:00Z",
+  "lastAuditAt": "2026-11-22T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "note": "3 new articles (holly-hedge-renovation, hedge-arch-gateway-training, loppers-hedge-renovation) added. All new pages clean: no analytics violations, no em-dashes, no banned words, correct JSON-LD, NordAnalytics script present. YouTube verification blocked (DNS blocked) for 2 of 3 videos; Ashridge Nurseries verified as credible UK nursery. 4 carry-forward items unchanged: broken internal links (chalky-soil/leylandii-renovation/overgrown-gappy/hazel-planting), missing services/index.html, WCA callout missing on box-tree-moth and hedge-aphids articles."
+  "issueCount": 12,
+  "note": "Auto-fix scope clean: no em-dashes, no banned filler, no missing theme-colour/canonical/meta desc/BreadcrumbList/robots entries. 12 needs-review items: 7 pages with 10 broken internal links (3 pages new from 22 Nov additions; overgrown-hedge-renovation-stages and hedge-shears-or-trimmer most-wanted targets); WCA 1981 nesting callout missing on 4 pages (carry-forward: box-tree-moth, hedge-aphids; new flags: composting-hedge-trimmings, feeding-hedges); services/index.html still missing; YouTube embed verification blocked by DNS restriction."
 }
