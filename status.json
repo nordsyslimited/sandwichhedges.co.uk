@@ -1,39 +1,39 @@
 {
-  "lastRunAt": "2026-11-21T00:00:00Z",
+  "lastRunAt": "2026-11-22T00:00:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
-  "totalOnSite": 294,
-  "previousStructures": ["comparison", "procedural", "checklist-first"],
+  "totalOnSite": 297,
+  "previousStructures": ["procedural", "decision-tree", "comparison"],
   "lastArticles": [
     {
-      "slug": "hedge-taper-profile-guide",
-      "title": "Hedge profiles and batter: wider at the base for a healthier hedge",
-      "structure": "comparison",
-      "videoId": "_Dc3B2I7bu4",
-      "channel": "Garden Ninja (Lee Burkhill)",
-      "datePublished": "2026-11-21"
-    },
-    {
-      "slug": "hedges-air-quality-pollution-kent",
-      "title": "How hedges filter air pollution in East Kent",
+      "slug": "holly-hedge-renovation",
+      "title": "Holly Hedge Renovation in Kent | Hard Cutting and Recovery",
       "structure": "procedural",
-      "videoId": "D3N5yyWsbpw",
-      "channel": "Royal Horticultural Society (RHS)",
-      "datePublished": "2026-11-21"
+      "videoId": "tLSTp_YBxAE",
+      "channel": "Hedge-care specialist (channel unverified — DNS restricted)",
+      "datePublished": "2026-11-22"
     },
     {
-      "slug": "hypericum-hedge-care",
-      "title": "Hypericum 'Hidcote' as a low hedge in East Kent: annual care guide",
-      "structure": "checklist-first",
-      "videoId": "QUrnehX5kw0",
-      "channel": "BBC Gardeners' World",
-      "datePublished": "2026-11-21"
+      "slug": "hedge-arch-gateway-training",
+      "title": "Training a Living Hedge Arch or Gateway",
+      "structure": "decision-tree",
+      "videoId": "Q31DP27grY4",
+      "channel": "Ashridge Nurseries",
+      "datePublished": "2026-11-22"
+    },
+    {
+      "slug": "loppers-hedge-renovation",
+      "title": "Using Loppers for Hedge Renovation | When and How to Cut Thick Stems",
+      "structure": "comparison",
+      "videoId": "JoaOYW0tDtA",
+      "channel": "Pruning specialist (channel unverified — DNS restricted)",
+      "datePublished": "2026-11-22"
     }
   ],
-  "lastAuditAt": "2026-11-21T08:00:00Z",
+  "lastAuditAt": "2026-11-22T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "323 pages. 3 new articles (hedge-taper-profile-guide, hedges-air-quality-pollution-kent, hypericum-hedge-care) fully clean. All auto-fix categories pass: no em-dashes, no banned words, no missing SEO meta, no missing BreadcrumbList, no broken robots.txt, sitemap complete with lastmod. 4 carry-forward items unchanged: broken internal links (chalky-soil/leylandii-renovation/overgrown-gappy/hazel-planting pages), missing services/index.html, YouTube verification blocked (DNS blocked), WCA callout missing on 2 pest-treatment articles (box-tree-moth/hedge-aphids)."
+  "note": "3 new articles (holly-hedge-renovation, hedge-arch-gateway-training, loppers-hedge-renovation) added. All new pages clean: no analytics violations, no em-dashes, no banned words, correct JSON-LD, NordAnalytics script present. YouTube verification blocked (DNS blocked) for 2 of 3 videos; Ashridge Nurseries verified as credible UK nursery. 4 carry-forward items unchanged: broken internal links (chalky-soil/leylandii-renovation/overgrown-gappy/hazel-planting), missing services/index.html, WCA callout missing on box-tree-moth and hedge-aphids articles."
 }
