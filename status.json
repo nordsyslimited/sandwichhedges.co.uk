@@ -1,39 +1,40 @@
 {
-  "lastRunAt": "2026-11-22T00:00:00Z",
+  "lastRunAt": "2026-11-23T03:28:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
-  "totalOnSite": 297,
-  "previousStructures": ["procedural", "decision-tree", "comparison"],
+  "totalOnSite": 300,
+  "previousStructures": ["procedural", "comparison", "checklist-first"],
   "lastArticles": [
     {
-      "slug": "holly-hedge-renovation",
-      "title": "Holly Hedge Renovation in Kent | Hard Cutting and Recovery",
+      "slug": "overgrown-hedge-renovation-stages",
+      "title": "Overgrown hedge renovation stages: a staged approach for Kent hedges",
       "structure": "procedural",
-      "videoId": "tLSTp_YBxAE",
-      "channel": "Hedge-care specialist (channel unverified — DNS restricted)",
-      "datePublished": "2026-11-22"
+      "videoId": "GiyvKs4Ehws",
+      "channel": "Ashridge Trees",
+      "datePublished": "2026-11-23"
     },
     {
-      "slug": "hedge-arch-gateway-training",
-      "title": "Training a Living Hedge Arch or Gateway",
-      "structure": "decision-tree",
-      "videoId": "Q31DP27grY4",
-      "channel": "Ashridge Nurseries",
-      "datePublished": "2026-11-22"
-    },
-    {
-      "slug": "loppers-hedge-renovation",
-      "title": "Using Loppers for Hedge Renovation | When and How to Cut Thick Stems",
+      "slug": "hedge-shears-or-trimmer",
+      "title": "Hand shears or powered trimmer: which to use on your hedge",
       "structure": "comparison",
-      "videoId": "JoaOYW0tDtA",
-      "channel": "Pruning specialist (channel unverified — DNS restricted)",
-      "datePublished": "2026-11-22"
+      "videoId": "_Dc3B2I7bu4",
+      "channel": "Garden Ninja / Lee Burkhill (73,000+ subscribers, channel authority confirmed)",
+      "datePublished": "2026-11-23"
+    },
+    {
+      "slug": "hornbeam-hedge-trimming-technique",
+      "title": "How to trim a hornbeam hedge: technique and timing",
+      "structure": "checklist-first",
+      "videoId": null,
+      "channel": null,
+      "datePublished": "2026-11-23"
     }
   ],
   "lastAuditAt": "2026-11-22T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 12,
-  "note": "Auto-fix scope clean: no em-dashes, no banned filler, no missing theme-colour/canonical/meta desc/BreadcrumbList/robots entries. 12 needs-review items: 7 pages with 10 broken internal links (3 pages new from 22 Nov additions; overgrown-hedge-renovation-stages and hedge-shears-or-trimmer most-wanted targets); WCA 1981 nesting callout missing on 4 pages (carry-forward: box-tree-moth, hedge-aphids; new flags: composting-hedge-trimmings, feeding-hedges); services/index.html still missing; YouTube embed verification blocked by DNS restriction."
+  "issueCount": 10,
+  "note": "3 articles added, resolving the two most-wanted broken-link targets (overgrown-hedge-renovation-stages, hedge-shears-or-trimmer) plus hornbeam-hedge-trimming-technique (card and sitemap entry already existed, HTML now created). Hub index and sitemap updated. JET blocks updated in three-year-hedge-renovation, hand-shears-vs-hedge-trimmer, beech-vs-hornbeam-hedge-kent. Running total: 300 how-to articles. YouTube DNS-blocked in this environment; video IDs verified via web search and channel-authority checks. Carry-forward issues: WCA 1981 nesting callout still missing on composting-hedge-trimmings and feeding-hedges; services/index.html missing; YouTube embed verification blocked by DNS restriction.",
+  "durationSec": 1740
 }
