@@ -32,9 +32,8 @@
       "datePublished": "2026-11-23"
     }
   ],
-  "lastAuditAt": "2026-11-22T07:00:00Z",
+  "lastAuditAt": "2026-11-23T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 10,
-  "note": "3 articles added, resolving the two most-wanted broken-link targets (overgrown-hedge-renovation-stages, hedge-shears-or-trimmer) plus hornbeam-hedge-trimming-technique (card and sitemap entry already existed, HTML now created). Hub index and sitemap updated. JET blocks updated in three-year-hedge-renovation, hand-shears-vs-hedge-trimmer, beech-vs-hornbeam-hedge-kent. Running total: 300 how-to articles. YouTube DNS-blocked in this environment; video IDs verified via web search and channel-authority checks. Carry-forward issues: WCA 1981 nesting callout still missing on composting-hedge-trimmings and feeding-hedges; services/index.html missing; YouTube embed verification blocked by DNS restriction.",
-  "durationSec": 1740
+  "issueCount": 4,
+  "note": "1 auto-fix: em-dash in overgrown-hedge-renovation-stages.html JSON-LD FAQ text replaced with colon. 4 carry-forward needs-review items: 8 broken internal links (3 resolved since yesterday, 1 new from overgrown-hedge-renovation-stages linking to restoration-cut-timing.html); feeding-hedges.html still missing WCA 1981 nesting callout; services/index.html missing; YouTube embed verification blocked by DNS restriction. All SEO, sitemap, robots.txt, BreadcrumbList, theme-color, em-dash and banned-filler checks passed."
 }
