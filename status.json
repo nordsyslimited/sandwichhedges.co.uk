@@ -1,39 +1,39 @@
 {
-  "lastRunAt": "2026-11-23T03:28:00Z",
+  "lastRunAt": "2026-11-24T03:28:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
-  "totalOnSite": 300,
+  "totalOnSite": 301,
   "previousStructures": ["procedural", "comparison", "checklist-first"],
   "lastArticles": [
     {
-      "slug": "overgrown-hedge-renovation-stages",
-      "title": "Overgrown hedge renovation stages: a staged approach for Kent hedges",
+      "slug": "cotoneaster-hedge-renovation",
+      "title": "How to renovate an overgrown cotoneaster hedge",
       "structure": "procedural",
-      "videoId": "GiyvKs4Ehws",
-      "channel": "Ashridge Trees",
-      "datePublished": "2026-11-23"
+      "videoId": null,
+      "channel": null,
+      "datePublished": "2026-11-24"
     },
     {
-      "slug": "hedge-shears-or-trimmer",
-      "title": "Hand shears or powered trimmer: which to use on your hedge",
+      "slug": "pleached-hornbeam-annual-maintenance",
+      "title": "Annual maintenance for a pleached hornbeam screen",
       "structure": "comparison",
-      "videoId": "_Dc3B2I7bu4",
-      "channel": "Garden Ninja / Lee Burkhill (73,000+ subscribers, channel authority confirmed)",
-      "datePublished": "2026-11-23"
+      "videoId": null,
+      "channel": null,
+      "datePublished": "2026-11-24"
     },
     {
-      "slug": "hornbeam-hedge-trimming-technique",
-      "title": "How to trim a hornbeam hedge: technique and timing",
+      "slug": "hazel-hedge-renovation",
+      "title": "Renovating an overgrown hazel hedge in Kent",
       "structure": "checklist-first",
       "videoId": null,
       "channel": null,
-      "datePublished": "2026-11-23"
+      "datePublished": "2026-11-24"
     }
   ],
-  "lastAuditAt": "2026-11-23T07:00:00Z",
+  "lastAuditAt": "2026-11-24T03:28:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "note": "1 auto-fix: em-dash in overgrown-hedge-renovation-stages.html JSON-LD FAQ text replaced with colon. 4 carry-forward needs-review items: 8 broken internal links (3 resolved since yesterday, 1 new from overgrown-hedge-renovation-stages linking to restoration-cut-timing.html); feeding-hedges.html still missing WCA 1981 nesting callout; services/index.html missing; YouTube embed verification blocked by DNS restriction. All SEO, sitemap, robots.txt, BreadcrumbList, theme-color, em-dash and banned-filler checks passed."
+  "issueCount": 2,
+  "note": "No em-dashes, banned-filler, analytics-script or Google-Fonts issues found. 7 broken internal links remain (restoration-cut-timing.html link in overgrown-hedge-renovation-stages.html was resolved this run). feeding-hedges.html still missing WCA 1981 nesting callout. YouTube embed verification blocked by DNS restriction."
 }
