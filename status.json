@@ -32,8 +32,8 @@
       "datePublished": "2026-11-24"
     }
   ],
-  "lastAuditAt": "2026-11-24T03:28:00Z",
+  "lastAuditAt": "2026-11-24T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 2,
-  "note": "No em-dashes, banned-filler, analytics-script or Google-Fonts issues found. 7 broken internal links remain (restoration-cut-timing.html link in overgrown-hedge-renovation-stages.html was resolved this run). feeding-hedges.html still missing WCA 1981 nesting callout. YouTube embed verification blocked by DNS restriction."
+  "issueCount": 3,
+  "note": "Auto-fixed: 16 stale sitemap lastmod dates updated to match git log. Needs review: 8 broken relative internal links (unchanged from prior runs); 7 articles missing WCA-1981 nesting callout (feeding-hedges.html recurring plus 6 others); YouTube embed verification blocked by DNS restriction."
 }
