@@ -32,8 +32,8 @@
       "datePublished": "2026-11-25"
     }
   ],
-  "lastAuditAt": "2026-11-24T07:00:00Z",
+  "lastAuditAt": "2026-11-25T03:28:00Z",
   "auditStatus": "issues",
-  "issueCount": 3,
-  "note": "24 Nov stranded commits recovered (cherry-picked onto main). YouTube embed verification blocked by DNS restriction. 3 carry-forward needs-review items: ~6-7 broken internal links; feeding-hedges.html missing WCA 1981 nesting callout; YouTube embed verification blocked."
+  "issueCount": 2,
+  "note": "YouTube embed verification blocked by DNS restriction (ongoing). feeding-hedges.html still missing WCA 1981 nesting callout. Approximately 7-8 broken relative internal links (recurring, unchanged from prior runs)."
 }
