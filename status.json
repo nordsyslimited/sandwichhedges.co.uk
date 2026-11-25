@@ -32,8 +32,8 @@
       "datePublished": "2026-11-25"
     }
   ],
-  "lastAuditAt": "2026-11-25T03:28:00Z",
+  "lastAuditAt": "2026-11-25T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 2,
-  "note": "YouTube embed verification blocked by DNS restriction (ongoing). feeding-hedges.html still missing WCA 1981 nesting callout. Approximately 7-8 broken relative internal links (recurring, unchanged from prior runs)."
+  "issueCount": 3,
+  "note": "13 broken internal links across 7 recently published pages (links to slugs not yet written). feeding-hedges.html missing WCA 1981 nesting callout (recurring). YouTube embed verification blocked by network proxy (ongoing)."
 }
