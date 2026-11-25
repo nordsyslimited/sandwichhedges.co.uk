@@ -1,39 +1,39 @@
 {
-  "lastRunAt": "2026-11-24T03:28:00Z",
+  "lastRunAt": "2026-11-25T03:28:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
-  "totalOnSite": 301,
-  "previousStructures": ["procedural", "comparison", "checklist-first"],
+  "totalOnSite": 304,
+  "previousStructures": ["procedural", "decision-tree", "comparison"],
   "lastArticles": [
     {
-      "slug": "cotoneaster-hedge-renovation",
-      "title": "How to renovate an overgrown cotoneaster hedge",
+      "slug": "photinia-hedge-renovation",
+      "title": "How to renovate an overgrown photinia Red Robin hedge",
       "structure": "procedural",
       "videoId": null,
       "channel": null,
-      "datePublished": "2026-11-24"
+      "datePublished": "2026-11-25"
     },
     {
-      "slug": "pleached-hornbeam-annual-maintenance",
-      "title": "Annual maintenance for a pleached hornbeam screen",
+      "slug": "lime-hedge-kent",
+      "title": "Lime trees for hedging and pleaching in East Kent",
+      "structure": "decision-tree",
+      "videoId": null,
+      "channel": null,
+      "datePublished": "2026-11-25"
+    },
+    {
+      "slug": "hedge-trimmer-rcd-extension-lead",
+      "title": "Mains hedge trimmer safety: RCD adaptors and outdoor extension leads",
       "structure": "comparison",
       "videoId": null,
       "channel": null,
-      "datePublished": "2026-11-24"
-    },
-    {
-      "slug": "hazel-hedge-renovation",
-      "title": "Renovating an overgrown hazel hedge in Kent",
-      "structure": "checklist-first",
-      "videoId": null,
-      "channel": null,
-      "datePublished": "2026-11-24"
+      "datePublished": "2026-11-25"
     }
   ],
   "lastAuditAt": "2026-11-24T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "Auto-fixed: 16 stale sitemap lastmod dates updated to match git log. Needs review: 8 broken relative internal links (unchanged from prior runs); 7 articles missing WCA-1981 nesting callout (feeding-hedges.html recurring plus 6 others); YouTube embed verification blocked by DNS restriction."
+  "note": "24 Nov stranded commits recovered (cherry-picked onto main). YouTube embed verification blocked by DNS restriction. 3 carry-forward needs-review items: ~6-7 broken internal links; feeding-hedges.html missing WCA 1981 nesting callout; YouTube embed verification blocked."
 }
