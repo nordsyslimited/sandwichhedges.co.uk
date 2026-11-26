@@ -32,8 +32,8 @@
       "datePublished": "2026-11-26"
     }
   ],
-  "lastAuditAt": "2026-11-25T07:00:00Z",
+  "lastAuditAt": "2026-11-26T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "YouTube embed verification blocked by network DNS restriction (ongoing). feeding-hedges.html missing WCA 1981 nesting callout (carry-forward). mulching-hedges.html pre-existed as an older article; third topic replaced with formative-pruning-new-hedge.html."
+  "note": "10 broken internal links (how-to pages linking to non-existent articles). Missing WCA 1981 nesting callout on feeding-hedges.html (carry-forward), loppers-hedge-renovation.html and hedge-arch-gateway-training.html (new). YouTube verification blocked by proxy (ongoing). No auto-fixes needed."
 }
