@@ -1,39 +1,39 @@
 {
-  "lastRunAt": "2026-11-25T03:28:00Z",
+  "lastRunAt": "2026-11-26T03:28:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
-  "totalOnSite": 304,
-  "previousStructures": ["procedural", "decision-tree", "comparison"],
+  "totalOnSite": 307,
+  "previousStructures": ["checklist-first", "comparison", "procedural"],
   "lastArticles": [
     {
-      "slug": "photinia-hedge-renovation",
-      "title": "How to renovate an overgrown photinia Red Robin hedge",
-      "structure": "procedural",
+      "slug": "weed-control-new-hedge",
+      "title": "Weed control around a new hedge: the first three years",
+      "structure": "checklist-first",
       "videoId": null,
       "channel": null,
-      "datePublished": "2026-11-25"
+      "datePublished": "2026-11-26"
     },
     {
-      "slug": "lime-hedge-kent",
-      "title": "Lime trees for hedging and pleaching in East Kent",
-      "structure": "decision-tree",
-      "videoId": null,
-      "channel": null,
-      "datePublished": "2026-11-25"
-    },
-    {
-      "slug": "hedge-trimmer-rcd-extension-lead",
-      "title": "Mains hedge trimmer safety: RCD adaptors and outdoor extension leads",
+      "slug": "irish-yew-formal-hedge",
+      "title": "Irish yew vs common yew for formal hedging in Kent",
       "structure": "comparison",
       "videoId": null,
       "channel": null,
-      "datePublished": "2026-11-25"
+      "datePublished": "2026-11-26"
+    },
+    {
+      "slug": "formative-pruning-new-hedge",
+      "title": "Formative pruning for a new hedge: what to cut in the first two years",
+      "structure": "procedural",
+      "videoId": null,
+      "channel": null,
+      "datePublished": "2026-11-26"
     }
   ],
   "lastAuditAt": "2026-11-25T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "13 broken internal links across 7 recently published pages (links to slugs not yet written). feeding-hedges.html missing WCA 1981 nesting callout (recurring). YouTube embed verification blocked by network proxy (ongoing)."
+  "note": "YouTube embed verification blocked by network DNS restriction (ongoing). feeding-hedges.html missing WCA 1981 nesting callout (carry-forward). mulching-hedges.html pre-existed as an older article; third topic replaced with formative-pruning-new-hedge.html."
 }
