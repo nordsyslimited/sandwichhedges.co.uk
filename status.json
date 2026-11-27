@@ -1,39 +1,39 @@
 {
-  "lastRunAt": "2026-11-26T03:28:00Z",
+  "lastRunAt": "2026-11-27T03:28:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
-  "totalOnSite": 307,
-  "previousStructures": ["checklist-first", "comparison", "procedural"],
+  "totalOnSite": 310,
+  "previousStructures": ["procedural", "comparison", "checklist-first"],
   "lastArticles": [
     {
-      "slug": "weed-control-new-hedge",
-      "title": "Weed control around a new hedge: the first three years",
-      "structure": "checklist-first",
-      "videoId": null,
-      "channel": null,
-      "datePublished": "2026-11-26"
-    },
-    {
-      "slug": "irish-yew-formal-hedge",
-      "title": "Irish yew vs common yew for formal hedging in Kent",
-      "structure": "comparison",
-      "videoId": null,
-      "channel": null,
-      "datePublished": "2026-11-26"
-    },
-    {
-      "slug": "formative-pruning-new-hedge",
-      "title": "Formative pruning for a new hedge: what to cut in the first two years",
+      "slug": "hedge-aftercare-hard-cut",
+      "title": "Hedge aftercare: what to do after a hard renovation cut",
       "structure": "procedural",
       "videoId": null,
       "channel": null,
-      "datePublished": "2026-11-26"
+      "datePublished": "2026-11-27"
+    },
+    {
+      "slug": "wildflower-strip-hedge-margin",
+      "title": "Wildflower strip beside a hedge: seed, plug plants or leave it?",
+      "structure": "comparison",
+      "videoId": null,
+      "channel": null,
+      "datePublished": "2026-11-27"
+    },
+    {
+      "slug": "managing-hedge-width",
+      "title": "Managing hedge width: how to reduce an overgrown hedge in stages",
+      "structure": "checklist-first",
+      "videoId": null,
+      "channel": null,
+      "datePublished": "2026-11-27"
     }
   ],
-  "lastAuditAt": "2026-11-26T07:00:00Z",
-  "auditStatus": "issues",
-  "issueCount": 3,
-  "note": "10 broken internal links (how-to pages linking to non-existent articles). Missing WCA 1981 nesting callout on feeding-hedges.html (carry-forward), loppers-hedge-renovation.html and hedge-arch-gateway-training.html (new). YouTube verification blocked by proxy (ongoing). No auto-fixes needed."
+  "lastAuditAt": "2026-11-27T03:28:00Z",
+  "auditStatus": "ok",
+  "issueCount": 0,
+  "note": "YouTube verification blocked by proxy (ongoing). All 3 articles written without video embeds. Topics: post-renovation aftercare (procedural), wildflower hedge margin (comparison), staged width reduction (checklist-first)."
 }
