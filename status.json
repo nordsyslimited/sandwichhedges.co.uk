@@ -32,8 +32,8 @@
       "datePublished": "2026-11-27"
     }
   ],
-  "lastAuditAt": "2026-11-27T03:28:00Z",
-  "auditStatus": "ok",
-  "issueCount": 0,
-  "note": "YouTube verification blocked by proxy (ongoing). All 3 articles written without video embeds. Topics: post-renovation aftercare (procedural), wildflower hedge margin (comparison), staged width reduction (checklist-first)."
+  "lastAuditAt": "2026-11-27T08:00:00Z",
+  "auditStatus": "issues",
+  "issueCount": 3,
+  "note": "No auto-fixes needed. 3 needs-review: (1) 10 broken relative links across 5 pages pointing to non-existent articles; (2) YouTube verification blocked by proxy (98 URLs unchecked, carry forward); (3) TEMPLATES/how-to.md missing 'pests' category (category works on site, doc out of date)."
 }
