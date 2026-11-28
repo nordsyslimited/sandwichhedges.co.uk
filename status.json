@@ -32,8 +32,8 @@
       "datePublished": "2026-11-28"
     }
   ],
-  "lastAuditAt": "2026-11-27T08:00:00Z",
+  "lastAuditAt": "2026-11-28T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "No auto-fixes needed. 3 needs-review carried forward: (1) 10 broken relative links across 5 pages pointing to non-existent articles; (2) YouTube verification blocked by proxy (98 URLs unchecked, carry forward); (3) TEMPLATES/how-to.md missing 'pests' category (category works on site, doc out of date)."
+  "note": "No auto-fixes needed. 3 needs-review carried forward: (1) 10 broken relative links across 7 pages pointing to non-existent articles; (2) YouTube verification blocked by proxy (100 URLs unchecked, carry forward); (3) TEMPLATES/how-to.md missing 'pests' category (category works on site, doc out of date)."
 }
