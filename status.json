@@ -1,39 +1,39 @@
 {
-  "lastRunAt": "2026-11-27T03:28:00Z",
+  "lastRunAt": "2026-11-28T03:30:00Z",
   "status": "success",
   "added": 3,
   "skipped": 0,
   "failed": 0,
-  "totalOnSite": 310,
-  "previousStructures": ["procedural", "comparison", "checklist-first"],
+  "totalOnSite": 313,
+  "previousStructures": ["procedural", "comparison", "decision-tree"],
   "lastArticles": [
     {
-      "slug": "hedge-aftercare-hard-cut",
-      "title": "Hedge aftercare: what to do after a hard renovation cut",
+      "slug": "protecting-hedges-from-frost-kent",
+      "title": "Protecting tender hedges from frost in Kent",
       "structure": "procedural",
-      "videoId": null,
-      "channel": null,
-      "datePublished": "2026-11-27"
+      "videoId": "3nJ9IjRC5tE",
+      "channel": "Pots & Trowels",
+      "datePublished": "2026-11-28"
     },
     {
-      "slug": "wildflower-strip-hedge-margin",
-      "title": "Wildflower strip beside a hedge: seed, plug plants or leave it?",
+      "slug": "hedge-allergy-hay-fever-kent",
+      "title": "Hedge plants and hay fever: high and low allergy species for Kent gardens",
       "structure": "comparison",
-      "videoId": null,
-      "channel": null,
-      "datePublished": "2026-11-27"
+      "videoId": "HaiwL5SVc28",
+      "channel": "Royal Horticultural Society",
+      "datePublished": "2026-11-28"
     },
     {
-      "slug": "managing-hedge-width",
-      "title": "Managing hedge width: how to reduce an overgrown hedge in stages",
-      "structure": "checklist-first",
-      "videoId": null,
-      "channel": null,
-      "datePublished": "2026-11-27"
+      "slug": "hedgerow-environmental-benefits-kent",
+      "title": "Environmental benefits of hedgerows in Kent: carbon, wildlife and water",
+      "structure": "decision-tree",
+      "videoId": "VNL1cQjepA0",
+      "channel": "UK Centre for Ecology & Hydrology (UKCEH)",
+      "datePublished": "2026-11-28"
     }
   ],
   "lastAuditAt": "2026-11-27T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "No auto-fixes needed. 3 needs-review: (1) 10 broken relative links across 5 pages pointing to non-existent articles; (2) YouTube verification blocked by proxy (98 URLs unchecked, carry forward); (3) TEMPLATES/how-to.md missing 'pests' category (category works on site, doc out of date)."
+  "note": "No auto-fixes needed. 3 needs-review carried forward: (1) 10 broken relative links across 5 pages pointing to non-existent articles; (2) YouTube verification blocked by proxy (98 URLs unchecked, carry forward); (3) TEMPLATES/how-to.md missing 'pests' category (category works on site, doc out of date)."
 }
